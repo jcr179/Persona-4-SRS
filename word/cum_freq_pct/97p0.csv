@@ -1,0 +1,858 @@
+﻿;Unnamed: 0;Ja;En;Reading;Frequency Rank;Cumulative Freq. Pct.;Frequency Pct.;JLPT Level;WK Level;Item Type;Tags
+3447;3447;ほんの;mere,only,just,slight;ほんの;3290;96.00124407;0.00133771;N1;-1;V;p4
+3448;3448;マイナス;minus,negative (quantity),subtraction,taking away;マイナス;3290;96.00258178;0.00133771;N2;-1;V;p4
+3449;3449;マスター;to master (a skill);マスター;3290;96.0039195;0.00133771;N3;-1;V;p4
+3450;3450;マゼラン;Magellan;マゼラン;3290;96.00525721;0.00133771;;-1;V;p4
+3451;3451;またまた;again (and again),once again,(there you go) again;またまた;3290;96.00659492;0.00133771;;-1;V;p4
+3452;3452;まぶす;to cover (smear, sprinkle) (with);まぶす;3290;96.00793263;0.00133771;;-1;V;p4
+3453;3453;まんざら;(not) altogether,(not) wholly;まんざら;3290;96.00927034;0.00133771;;-1;V;p4
+3454;3454;ムード;mood;ムード;3290;96.01060806;0.00133771;N1;-1;V;p4
+3455;3455;ムッ;to be sullen,to be offended,to be huffy,to be petulant,to be indignant;むっと;3290;96.01194577;0.00133771;;-1;V;p4
+3456;3456;メモ;memo,note,memorandum;メモ;3290;96.01328348;0.00133771;N3;-1;V;p4
+3457;3457;メンバー;member,participant,attendee,lineup (sport);メンバー;3290;96.01462119;0.00133771;N3;-1;V;p4
+3458;3458;もじもじ;bashfully,hesitantly,fidgety,restlessly,squirming,wriggling,haltingly;もじもじ;3290;96.01595891;0.00133771;;-1;V;p4
+3459;3459;もたらす;to bring,to take,to bring about;もたらす;3290;96.01729662;0.00133771;N1;-1;V;p4
+3460;3460;もどき;-like,pseudo-,mock ...,imitation ...,in the style of ...;もどき;3290;96.01863433;0.00133771;;-1;V;p4
+3461;3461;ものすごい;extreme,incredible,staggering;ものすごい;3290;96.01997204;0.00133771;N2;-1;V;p4
+3462;3462;ものの;but,although;ものの;3290;96.02130975;0.00133771;;-1;V;p4
+3463;3463;やばい;dangerous,risky;やばい;3290;96.02264747;0.00133771;;-1;V;p4
+3464;3464;やめ;to resign,to retire,to quit,to leave (one's job, etc.);やめる;3290;96.02398518;0.00133771;N3;16;V;p4
+3465;3465;やり方;manner of doing,way,method,means;やりかた;3290;96.02532289;0.00133771;;-1;V;p4
+3466;3466;よお;trouble brought on by sins of forebears;よおう;3290;96.02666059999999;0.00133771;;-1;V;p4
+3467;3467;よーく;yoke;ヨーク;3290;96.02799831;0.00133771;;-1;V;p4
+3468;3468;ヨシ;common reed (Phragmites australis);あし;3290;96.02933603;0.00133771;N1;-1;V;p4
+3469;3469;ヨネ;Yonex;ヨネックス;3290;96.03067374;0.00133771;;-1;V;p4
+3470;3470;ルイ;Louis, Duke of Joyeuse;;3290;96.03201145;0.00133771;;-1;V;p4
+3471;3471;ロク;bum,good-for-nothing,ne'er-do-well;ろくでなし;3290;96.03334916;0.00133771;;-1;V;p4
+3472;3472;ロビー;lobby,lounge;ロビー;3290;96.03468688;0.00133771;N2;-1;V;p4
+3473;3473;わい;indicates emotion;わい;3290;96.03602459;0.00133771;;-1;V;p4
+3474;3474;わく;frame,framework;わく;3290;96.0373623;0.00133771;N1;39;V;p4
+3475;3475;ワタ;cotton plant (Gossypium spp.);わた;3290;96.03870001;0.00133771;N3;-1;V;p4
+3476;3476;わら;straw;わら;3290;96.04003772;0.00133771;N1;-1;V;p4
+3477;3477;わり;rate,ratio,proportion,percentage;わり;3290;96.04137544;0.00133771;;-1;V;p4
+3478;3478;わる;to divide;わる;3290;96.04271315;0.00133771;N3;23;V;p4
+3479;3479;われる;to break,to be smashed;われる;3290;96.04405086;0.00133771;N4;25;V;p4
+3480;3480;ん家;'s house,'s home;んち;3290;96.04538857;0.00133771;;-1;V;p4
+3481;3481;一人暮らし;living by oneself,living alone;ひとりぐらし;3290;96.04672628;0.00133771;;37;V;p4
+3482;3482;一刻も早く;immediately,as soon as possible,as quickly as possible;いっこくもはやく;3290;96.048064;0.00133771;;-1;V;p4
+3483;3483;一層;much more,still more,all the more,more than ever;いっそう;3290;96.04940171;0.00133771;N3;24;V;p4
+3484;3484;一部;one part,one portion,one section,some;いちぶ;3290;96.05073942;0.00133771;N1;-1;V;p4
+3485;3485;上げる;to raise,to elevate;あげる;3290;96.05207713;0.00133771;N4;42;V;p4
+3486;3486;上等;superior,first-class,excellent,top quality;じょうとう;3290;96.05341484;0.00133771;N3;-1;V;p4
+3487;3487;下らない;trivial,trifling,insignificant,not worth bothering with,worthless,useless,good-for-nothing;くだらない;3290;96.05475256;0.00133771;N2;-1;V;p4
+3488;3488;下左;lower left (corner);したひだり;3290;96.05609027;0.00133771;;-1;V;p4
+3489;3489;両方;both,both sides,both parties;りょうほう;3290;96.05742798;0.00133771;N4;6;V;p4
+3490;3490;並ぶ;to line up,to stand in a line;ならぶ;3290;96.05876569;0.00133771;N5;28;V;p4
+3491;3491;串;spit,skewer;くし;3290;96.06010341;0.00133771;;-1;V;p4
+3492;3492;丸暗記;rote memorization (memorisation),rote learning,indiscriminate memorizing (memorising);まるあんき;3290;96.06144112;0.00133771;;-1;V;p4
+3493;3493;乗り切る;to weather (a storm, rough seas),to ride across,to sail across;のりきる;3290;96.06277883;0.00133771;;-1;V;p4
+3494;3494;了解;comprehension,consent,understanding,agreement;りょうかい;3290;96.06411654;0.00133771;N1;23;V;p4
+3495;3495;予測;prediction,estimation;よそく;3290;96.06545425;0.00133771;N3;35;V;p4
+3496;3496;争う;to compete,to contest,to contend;あらそう;3290;96.06679197;0.00133771;N2;11;V;p4
+3497;3497;人類;mankind,humanity;じんるい;3290;96.06812968;0.00133771;N3;18;V;p4
+3498;3498;今頃;about this time;いまごろ;3290;96.06946739;0.00133771;;-1;V;p4
+3499;3499;仕方なく;helplessly,reluctantly,as a last resort;しかたなく;3290;96.0708051;0.00133771;;-1;V;p4
+3500;3500;仕舞う;to finish,to stop,to end,to put an end to,to bring to a close;しまう;3290;96.07214281;0.00133771;N3;-1;V;p4
+3501;3501;他人任せ;leaving (it) to others;たにんまかせ;3290;96.07348053;0.00133771;;-1;V;p4
+3502;3502;付き合い;association,socializing,socialising,fellowship;つきあい;3290;96.07481824;0.00133771;N3;-1;V;p4
+3503;3503;代;world,society,public;よ;3290;96.07615595;0.00133771;N1;4;V;p4
+3504;3504;仮面;mask;かめん;3290;96.07749366;0.00133771;;16;V;p4
+3505;3505;仲良い;close,intimate,on good terms;なかいい;3290;96.07883137;0.00133771;;-1;V;p4
+3506;3506;伊勢;Ise (former province located in the major part of present-day Mie Prefecture and parts of Aichi and Gifu prefectures);いせ;3290;96.08016909;0.00133771;;-1;V;p4
+3507;3507;休める;to rest,to suspend,to give relief;やすめる;3290;96.0815068;0.00133771;N1;-1;V;p4
+3508;3508;休憩所;rest area,rest stop,service area,SA,parking area (e.g. off highways),PA;きゅうけいじょ;3290;96.08284451;0.00133771;;49;V;p4
+3509;3509;伝統;tradition,convention;でんとう;3290;96.08418222;0.00133771;N3;22;V;p4
+3510;3510;伝言;verbal message,word (from someone);でんごん;3290;96.08551994;0.00133771;;-1;V;p4
+3511;3511;似合い;well-matched (esp. of a couple),becoming,suitable;にあい;3290;96.08685765;0.00133771;;-1;V;p4
+3512;3512;体内;interior of the body;たいない;3290;96.08819536;0.00133771;;5;V;p4
+3513;3513;体力;stamina,endurance,physical strength,resilience,resistance to disease;たいりょく;3290;96.08953307;0.00133771;N1;5;V;p4
+3514;3514;何とかして;what;なに;3290;96.09087078;0.00133771;N3;5;V;p4
+3515;3515;作り;making,producing,manufacturing,building,construction,make,structure;つくり;3290;96.0922085;0.00133771;N1;-1;V;p4
+3516;3516;作成;drawing up (e.g. legal document, contract, will, etc.),preparing,writing,framing,making,producing,creating,creation;さくせい;3290;96.09354621;0.00133771;N2;-1;V;p4
+3517;3517;作戦;tactics,strategy;さくせん;3290;96.09488392;0.00133771;N1;11;V;p4
+3518;3518;作文;writing (an essay, prose, etc.),composition;さくぶん;3290;96.09622163;0.00133771;N5;5;V;p4
+3519;3519;作業;work,operation,manufacturing,fatigue duty;さぎょう;3290;96.09755934;0.00133771;N3;10;V;p4
+3520;3520;依然;still,as yet,as it has been;いぜん;3290;96.09889706;0.00133771;N1;36;V;p4
+3521;3521;保健室;school infirmary;ほけんしつ;3290;96.10023477;0.00133771;;-1;V;p4
+3522;3522;保護;protection,safeguard,guardianship,custody,patronage;ほご;3290;96.10157248;0.00133771;N1;23;V;p4
+3523;3523;保護者;guardian,protector,patron,parent;ほごしゃ;3290;96.10291019;0.00133771;;-1;V;p4
+3524;3524;俺んち;my house;おれんち;3290;96.1042479;0.00133771;;-1;V;p4
+3525;3525;健康;health;けんこう;3290;96.10558562;0.00133771;N3;27;V;p4
+3526;3526;傷;wound,injury,cut,gash,bruise,scratch,scrape,scar;きず;3290;96.10692333;0.00133771;N3;32;V;p4
+3527;3527;償う;to make up for,to compensate for,to indemnify,to recompense,to redeem (e.g. a fault),to atone for;つぐなう;3290;96.10826104;0.00133771;;37;V;p4
+3528;3528;優れる;to surpass,to outstrip,to excel;すぐれる;3290;96.10959875;0.00133771;N3;25;V;p4
+3529;3529;元通り;as before,as ever,as it was originally;もとどおり;3290;96.11093647;0.00133771;;-1;V;p4
+3530;3530;兄さん;older brother,elder brother;にいさん;3290;96.11227418;0.00133771;;-1;V;p4
+3531;3531;入り;entering;いり;3290;96.11361189;0.00133771;;-1;V;p4
+3532;3532;全国;the whole country;ぜんこく;3290;96.11494959999999;0.00133771;N3;6;V;p4
+3533;3533;全校;the whole school;ぜんこう;3290;96.11628731;0.00133771;;-1;V;p4
+3534;3534;全開;opening fully;ぜんかい;3290;96.11762503;0.00133771;;-1;V;p4
+3535;3535;全面的;total,complete,all-out,general,extensive,full-scale;ぜんめんてき;3290;96.11896274;0.00133771;;-1;V;p4
+3536;3536;共;together with;とも;3290;96.12030045;0.00133771;N1;-1;V;p4
+3537;3537;再来月;month after next;さらいげつ;3290;96.12163816;0.00133771;N4;26;V;p4
+3538;3538;出歩く;to go out,to go around,to walk about,to roam;であるく;3290;96.12297587;0.00133771;;-1;V;p4
+3539;3539;分ける;to divide (into),to split (into),to part,to separate,to divide up,to classify,to sort out,to divide out;わける;3290;96.12431359;0.00133771;N3;3;V;p4
+3540;3540;分ち;distinction,differentiation,discrimination;わかち;3290;96.12565129999999;0.00133771;;-1;V;p4
+3541;3541;分る;to understand,to comprehend,to grasp,to see,to get,to follow;わかる;3290;96.12698901;0.00133771;N2;3;V;p4
+3542;3542;切り上げる;to close (at a certain point),to cut short,to stop early,to finish (at a convenient spot);きりあげる;3290;96.12832672;0.00133771;;-1;V;p4
+3543;3543;刑場;place of execution;けいじょう;3290;96.12966443;0.00133771;;-1;V;p4
+3544;3544;利く;to be effective,to take effect,to be good (for);きく;3290;96.13100215;0.00133771;N3;25;V;p4
+3545;3545;剛毅;fortitude,firmness of character,hardihood,manliness;ごうき;3290;96.13233986;0.00133771;;-1;V;p4
+3546;3546;動かす;to move,to shift,to stir,to budge,to change position;うごかす;3290;96.13367757;0.00133771;N3;14;V;p4
+3547;3547;動物;animal;どうぶつ;3290;96.13501528;0.00133771;N5;12;V;p4
+3548;3548;勿論;of course,certainly,naturally;もちろん;3290;96.136353;0.00133771;N3;-1;V;p4
+3549;3549;北海道;Hokkaido (island, prefectural-level administrative unit);ほっかいどう;3290;96.13769071;0.00133771;;8;V;p4
+3550;3550;匹;counter for small animals;ひき;3290;96.13902842;0.00133771;N1;44;V;p4
+3551;3551;午前;morning,a.m.;ごぜん;3290;96.14036613;0.00133771;N5;6;V;p4
+3552;3552;卒業;graduation,completion (of a course);そつぎょう;3290;96.14170384;0.00133771;N4;16;V;p4
+3553;3553;南米;South America;なんべい;3290;96.14304156;0.00133771;N2;8;V;p4
+3554;3554;単語;word,vocabulary,(usually) single-character word;たんご;3290;96.14437927;0.00133771;N3;15;V;p4
+3555;3555;印象;impression;いんしょう;3290;96.14571698;0.00133771;N3;-1;V;p4
+3556;3556;収まる;to fit into (a box, frame, category, etc.),to be contained within,to fall within (e.g. a budget);おさまる;3290;96.14705469;0.00133771;N1;35;V;p4
+3557;3557;取り繕う;to keep up (appearances);とりつくろう;3290;96.1483924;0.00133771;;-1;V;p4
+3558;3558;古代エジプト;ancient Egypt;こだいエジプト;3290;96.14973012;0.00133771;;-1;V;p4
+3559;3559;叶う;to come true (of a wish, prayer, etc.),to be realized,to be fulfilled;かなう;3290;96.15106783;0.00133771;N1;-1;V;p4
+3560;3560;呪い;curse,spell,malediction;のろい;3290;96.15240554;0.00133771;;45;V;p4
+3561;3561;味方;friend,ally,supporter;みかた;3290;96.15374325;0.00133771;N3;11;V;p4
+3562;3562;呼べる;Name;;3290;96.15508097;0.00133771;;-1;V;p4
+3563;3563;和え;food with dressing on it (e.g. salad);あえ;3290;96.15641868;0.00133771;;-1;V;p4
+3564;3564;和らぐ;to soften,to calm down,to be eased,to be mitigated,to subside,to abate;やわらぐ;3290;96.15775639;0.00133771;;-1;V;p4
+3565;3565;員;member;いん;3290;96.1590941;0.00133771;N1;-1;V;p4
+3566;3566;器用;skilful,skillfull,adroit,dexterous,dextrous,deft,nimble,handy;きよう;3290;96.16043181;0.00133771;N3;13;V;p4
+3567;3567;四大文明;the four great civilizations of the world (China, Babylon, India and Egypt as put forward by Chinese scholar Liang Qichao in 1900);よんだいぶんめい;3290;96.16176953;0.00133771;;-1;V;p4
+3568;3568;団らん;sitting together in a circle,happy circle,harmony;だんらん;3290;96.16310724;0.00133771;;-1;V;p4
+3569;3569;土壇場;last moment,eleventh hour;どたんば;3290;96.16444495;0.00133771;;-1;V;p4
+3570;3570;地球;Earth,the globe;ちきゅう;3290;96.16578266;0.00133771;N3;12;V;p4
+3571;3571;堂々;magnificent,grand,impressive,dignified,majestic,imposing,stately;どうどう;3290;96.16712037;0.00133771;N1;-1;V;p4
+3572;3572;堅持;holding on to,sticking to;けんじ;3290;96.16845809;0.00133771;;-1;V;p4
+3573;3573;報う;to reward,to recompense,to repay;むくう;3290;96.1697958;0.00133771;;-1;V;p4
+3574;3574;場;place,spot,space;ば;3290;96.17113351;0.00133771;N3;-1;V;p4
+3575;3575;塩;salt (i.e. sodium chloride),common salt,table salt;しお;3290;96.17247122;0.00133771;N1;17;V;p4
+3576;3576;墓参り;visit to a grave;はかまいり;3290;96.17380893;0.00133771;;-1;V;p4
+3577;3577;増して;still more,to say nothing of,not to mention;まして;3290;96.17514665;0.00133771;N1;-1;V;p4
+3578;3578;売場;selling area,counter,section,department,sales floor;うりば;3290;96.17648436;0.00133771;N4;-1;V;p4
+3579;3579;夢中;absorbed in,immersed in,crazy about,obsessed with,devoted to;むちゅう;3290;96.17782207;0.00133771;N3;20;V;p4
+3580;3580;大人しく;meekly,obediently,submissively,quietly,like a lamb;おとなしく;3290;96.17915978;0.00133771;;-1;V;p4
+3581;3581;大勢;crowd of people,great number of people;おおぜい;3290;96.1804975;0.00133771;N5;22;V;p4
+3582;3582;大騒ぎ;clamour,clamor,uproar,tumult,furore,furor;おおさわぎ;3290;96.18183521;0.00133771;;32;V;p4
+3583;3583;失踪者;missing person,runaway;しっそうしゃ;3290;96.18317292;0.00133771;;-1;V;p4
+3584;3584;奏でる;to play an instrument (esp. string instruments);かなでる;3290;96.18451063;0.00133771;;-1;V;p4
+3585;3585;女神;goddess,female deity;めがみ;3290;96.18584834;0.00133771;;13;V;p4
+3586;3586;妹さん;younger sister;いもうとさん;3290;96.18718606;0.00133771;;-1;V;p4
+3587;3587;始まり;origin,beginning;はじまり;3290;96.18852377;0.00133771;N3;-1;V;p4
+3588;3588;姿勢;posture,pose,position,stance,carriage (of the body);しせい;3290;96.18986148;0.00133771;N2;22;V;p4
+3589;3589;季語;seasonal word (in haiku);きご;3290;96.19119919;0.00133771;;-1;V;p4
+3590;3590;学園;educational institution,school,academy,campus;がくえん;3290;96.19253690000001;0.00133771;;-1;V;p4
+3591;3591;学業;studies,schoolwork,classwork;がくぎょう;3290;96.19387462;0.00133771;;-1;V;p4
+3592;3592;宗教;religion,religious affiliation,belief,faith,creed;しゅうきょう;3290;96.19521233;0.00133771;N3;29;V;p4
+3593;3593;定食;set meal,special (of the day);ていしょく;3290;96.19655004;0.00133771;N1;-1;V;p4
+3594;3594;宛名;(addressee's) name,(recipient's) name and address;あてな;3290;96.19788775;0.00133771;N2;-1;V;p4
+3595;3595;宿る;to dwell,to live,to remain;やどる;3290;96.19922546;0.00133771;;-1;V;p4
+3596;3596;宿泊;accommodation,lodging;しゅくはく;3290;96.20056318;0.00133771;N3;42;V;p4
+3597;3597;寂しげ;seeming lonely;さびしげ;3290;96.20190089;0.00133771;;-1;V;p4
+3598;3598;寄りかかる;to lean against,to recline on,to lean on;よりかかる;3290;96.20323859999999;0.00133771;N1;-1;V;p4
+3599;3599;寛容;tolerance,open-mindedness,forbearance,generosity,magnanimity;かんよう;3290;96.20457631;0.00133771;N1;53;V;p4
+3600;3600;導く;to guide,to lead,to show the way,to conduct;みちびく;3290;96.20591403;0.00133771;N1;23;V;p4
+3601;3601;小遣い;pocket money,spending money,pin money,allowance;こづかい;3290;96.20725174;0.00133771;N2;39;V;p4
+3602;3602;少なくとも;at least;すくなくとも;3290;96.20858945;0.00133771;N2;-1;V;p4
+3603;3603;尾行;shadow,tail,following;びこう;3290;96.20992716;0.00133771;;-1;V;p4
+3604;3604;屈託;worry,care,concern;くったく;3290;96.21126487;0.00133771;;-1;V;p4
+3605;3605;屋敷;residence,estate,grounds,premises,mansion;やしき;3290;96.21260259;0.00133771;N1;40;V;p4
+3606;3606;己;I,me;おれ;3290;96.21394029999999;0.00133771;N1;44;V;p4
+3607;3607;市原;Mitsuki Ichihara;;3290;96.21527801;0.00133771;;-1;V;p4
+3608;3608;布;cloth;ぬの;3290;96.21661572;0.00133771;N3;19;V;p4
+3609;3609;帰宅;returning home;きたく;3290;96.21795343;0.00133771;N3;-1;V;p4
+3610;3610;年に一度;once a year;ねんにいちど;3290;96.21929115;0.00133771;;-1;V;p4
+3611;3611;幸い;happiness,blessedness,luck,fortune,felicity;さいわい;3290;96.22062886;0.00133771;N3;18;V;p4
+3612;3612;幸子;Princess Yukiko;;3290;96.22196657;0.00133771;;-1;V;p4
+3613;3613;幾つか;(a) few,some,several;いくつか;3290;96.22330428;0.00133771;;-1;V;p4
+3614;3614;度目;the Nth time;どめ;3290;96.22464199;0.00133771;;-1;V;p4
+3615;3615;強火;high flame (cooking),high heat,strong heat;つよび;3290;96.22597971;0.00133771;;-1;V;p4
+3616;3616;当て;aim,object,purpose,end;あて;3290;96.22731742;0.00133771;N1;-1;V;p4
+3617;3617;当分;for the present,for the time being;とうぶん;3290;96.22865513;0.00133771;;-1;V;p4
+3618;3618;彼ら;they,them;かれら;3290;96.22999284;0.00133771;N3;35;V;p4
+3619;3619;待たす;to keep (a person) waiting;またす;3290;96.23133056;0.00133771;;-1;V;p4
+3620;3620;後押し;pushing,backing,boosting,supporting;あとおし;3290;96.23266827;0.00133771;;-1;V;p4
+3621;3621;後片付け;tidying up,clearing up,cleaning up,clearing away,putting in order;あとかたづけ;3290;96.23400598;0.00133771;;-1;V;p4
+3622;3622;従業員;employee,worker;じゅうぎょういん;3290;96.23534369;0.00133771;N1;-1;V;p4
+3623;3623;復唱;reciting (to oneself),repeating (e.g. an order, to confirm one heard it correctly);ふくしょう;3290;96.2366814;0.00133771;;-1;V;p4
+3624;3624;復習;review (of learned material),revision;ふくしゅう;3290;96.23801912;0.00133771;N4;26;V;p4
+3625;3625;心遣い;consideration (for),thoughtfulness,solicitude,care,watchfulness,concern,sympathy;こころづかい;3290;96.23935683;0.00133771;;-1;V;p4
+3626;3626;忠告;advice,warning;ちゅうこく;3290;96.24069454;0.00133771;N1;33;V;p4
+3627;3627;思いつき;plan,idea,suggestion;おもいつき;3290;96.24203225;0.00133771;N1;-1;V;p4
+3628;3628;思いっきり;with all one's strength,with all one's heart,to the utmost;おもいっきり;3290;96.24336996;0.00133771;N2;-1;V;p4
+3629;3629;思春期;puberty;ししゅんき;3290;96.24470768;0.00133771;;-1;V;p4
+3630;3630;性別;gender,distinction of sex,sex;せいべつ;3290;96.24604539;0.00133771;N2;-1;V;p4
+3631;3631;恋人;lover,sweetheart,boyfriend,girlfriend;こいびと;3290;96.2473831;0.00133771;N3;19;V;p4
+3632;3632;恐れる;to fear,to be afraid of;おそれる;3290;96.24872081;0.00133771;N3;31;V;p4
+3633;3633;恒例;established practice,custom;こうれい;3290;96.25005852;0.00133771;;52;V;p4
+3634;3634;惹く;to draw (attention, sympathy, etc.),to attract (e.g. interest);ひく;3290;96.25139624;0.00133771;;-1;V;p4
+3635;3635;懸命;eager,earnest,strenuous,fervent,assiduous,with utmost effort;けんめい;3290;96.25273395;0.00133771;;38;V;p4
+3636;3636;成り立ち;the way in which something came about,origin;なりたち;3290;96.25407166;0.00133771;;-1;V;p4
+3637;3637;成就;fulfillment,fulfilment,realization,realisation,completion;じょうじゅ;3290;96.25540937;0.00133771;;-1;V;p4
+3638;3638;成果;(good) result,outcome,fruits (of one's labors),product,accomplishment;せいか;3290;96.25674709;0.00133771;N1;-1;V;p4
+3639;3639;戦車;tank (military vehicle);せんしゃ;3290;96.2580848;0.00133771;;11;V;p4
+3640;3640;手品;magic (illusion),conjuring,magic trick,conjuring trick,sleight of hand;てじな;3290;96.25942251;0.00133771;N3;-1;V;p4
+3641;3641;手芸;handicrafts;しゅげい;3290;96.26076022;0.00133771;N1;-1;V;p4
+3642;3642;扱う;to deal with (a person),to treat,to handle,to take care of,to entertain;あつかう;3290;96.26209793;0.00133771;N3;38;V;p4
+3643;3643;把握;grasp,catch,understanding;はあく;3290;96.26343565;0.00133771;N1;50;V;p4
+3644;3644;押して;forcibly,by compulsion,importunately;おして;3290;96.26477336;0.00133771;;-1;V;p4
+3645;3645;挙がる;to rise,to go up,to come up,to ascend,to be raised;あがる;3290;96.26611107;0.00133771;N4;21;V;p4
+3646;3646;提出;presentation (of documents),submission (of an application, report, etc.),production (e.g. of evidence),introduction (e.g. of a bill),filing,turning in;ていしゅつ;3290;96.26744878;0.00133771;N3;22;V;p4
+3647;3647;損;loss,damage,harm,unprofitable;そん;3290;96.26878649;0.00133771;N3;34;V;p4
+3648;3648;故事;historical event,ancient event;こじ;3290;96.27012421;0.00133771;;-1;V;p4
+3649;3649;散々;thoroughly,completely,utterly;さんざん;3290;96.27146192;0.00133771;;-1;V;p4
+3650;3650;散る;to fall (e.g. blossoms, leaves);ちる;3290;96.27279963;0.00133771;N2;31;V;p4
+3651;3651;敬意;respect,honour,honor;けいい;3290;96.27413734;0.00133771;N3;-1;V;p4
+3652;3652;敬称;title of honour,title of honor;けいしょう;3290;96.27547506;0.00133771;;-1;V;p4
+3653;3653;文章;writing,composition,essay,article,prose,(writing) style;ぶんしょう;3290;96.27681277;0.00133771;N5;12;V;p4
+3654;3654;文面;content of a letter;ぶんめん;3290;96.27815048;0.00133771;;-1;V;p4
+3655;3655;方々;they (of people),gentlemen (of the ...);かたがた;3290;96.27948819;0.00133771;N3;-1;V;p4
+3656;3656;日常;everyday,daily,ordinary,usual,routine,regular;にちじょう;3290;96.28082590000001;0.00133771;N3;17;V;p4
+3657;3657;日時;date and time;にちじ;3290;96.28216362;0.00133771;N2;-1;V;p4
+3658;3658;日曜;Sunday;にちよう;3290;96.28350133;0.00133771;N3;-1;V;p4
+3659;3659;早;already,now,by this time;はや;3290;96.28483904;0.00133771;;-1;V;p4
+3660;3660;早速;at once,immediately,without delay,promptly;さっそく;3290;96.28617675;0.00133771;N2;10;V;p4
+3661;3661;昇る;to ascend,to go up,to climb;のぼる;3290;96.28751446;0.00133771;N3;27;V;p4
+3662;3662;時価;current value,price,market value;じか;3290;96.28885218;0.00133771;;-1;V;p4
+3663;3663;時点;point in time,occasion;じてん;3290;96.29018989;0.00133771;;-1;V;p4
+3664;3664;暖かい;warm,mild,(pleasantly) hot;あたたかい;3290;96.2915276;0.00133771;N3;32;V;p4
+3665;3665;暗記;memorization,memorisation,learning by heart;あんき;3290;96.29286531;0.00133771;N3;15;V;p4
+3666;3666;暮らし;life,living,livelihood,life circumstances;くらし;3290;96.29420302;0.00133771;N3;35;V;p4
+3667;3667;曜日;day of the week;ようび;3290;96.29554074;0.00133771;N3;16;V;p4
+3668;3668;最大;biggest,greatest,largest,maximum;さいだい;3290;96.29687845;0.00133771;;-1;V;p4
+3669;3669;有害;harmful,hazardous;ゆうがい;3290;96.29821616;0.00133771;;-1;V;p4
+3670;3670;未だに;still,even now,to this day;いまだに;3290;96.29955387;0.00133771;;-1;V;p4
+3671;3671;未明;early dawn,grey of morning,gray of morning;みめい;3290;96.30089159;0.00133771;;-1;V;p4
+3672;3672;未遂;failed attempt (at a crime, suicide, etc.);みすい;3290;96.3022293;0.00133771;;48;V;p4
+3673;3673;本屋;bookstore,bookshop;ほんや;3290;96.30356701;0.00133771;;9;V;p4
+3674;3674;机;desk;つくえ;3290;96.30490472;0.00133771;N5;32;V;p4
+3675;3675;板長;head chef;いたちょう;3290;96.30624243;0.00133771;;-1;V;p4
+3676;3676;果てしなく;eternally,interminably;はてしなく;3290;96.30758015;0.00133771;;-1;V;p4
+3677;3677;柿本人麻呂;Kakinomoto no Hitomaro;;3290;96.30891786;0.00133771;;-1;V;p4
+3678;3678;校長;principal,headmaster;こうちょう;3290;96.31025557;0.00133771;N4;-1;V;p4
+3679;3679;根;root (of a plant);ね;3290;96.31159328;0.00133771;N3;12;V;p4
+3680;3680;梅雨;rainy season (in Japan usu. from early June to mid-July);つゆ;3290;96.31293099;0.00133771;N3;-1;V;p4
+3681;3681;棄権;abstention (from voting),renunciation (of a right),withdrawal (from a contest);きけん;3290;96.31426871;0.00133771;N1;-1;V;p4
+3682;3682;棚卸し;stocktaking,inventory count;たなおろし;3290;96.31560642;0.00133771;;-1;V;p4
+3683;3683;模倣犯;copycat criminal;もほうはん;3290;96.31694413;0.00133771;;-1;V;p4
+3684;3684;機嫌;humour,humor,temper,mood,spirits;きげん;3290;96.31828184;0.00133771;N3;20;V;p4
+3685;3685;正面;front,frontage,facade,main;しょうめん;3290;96.31961955;0.00133771;N2;-1;V;p4
+3686;3686;歩き回る;to walk about,to walk to and fro,to pace around;あるきまわる;3290;96.32095727;0.00133771;;-1;V;p4
+3687;3687;気持ちいい;good feeling,feeling good;きもちいい;3290;96.32229498;0.00133771;;-1;V;p4
+3688;3688;気絶;faint,swoon;きぜつ;3290;96.32363269;0.00133771;;-1;V;p4
+3689;3689;沈黙;silence,being silent,quiet,hush;ちんもく;3290;96.3249704;0.00133771;N1;46;V;p4
+3690;3690;沢山;a lot,lots,plenty,many,a large number,much,a great deal,a good deal;たくさん;3290;96.32630812;0.00133771;N1;23;V;p4
+3691;3691;泊まり;overnight stay,stopover;とまり;3290;96.32764583;0.00133771;;44;V;p4
+3692;3692;泣かす;to make someone cry,to move someone to tears;なかす;3290;96.32898354;0.00133771;;-1;V;p4
+3693;3693;泣かせる;to make someone cry,to move someone to tears;なかせる;3290;96.33032125;0.00133771;;-1;V;p4
+3694;3694;済ませる;to finish,to make an end of,to get through with,to let end;すませる;3290;96.33165896;0.00133771;N3;-1;V;p4
+3695;3695;済まない;inexcusable,unjustifiable,unpardonable;すまない;3290;96.33299668;0.00133771;N2;-1;V;p4
+3696;3696;済み;arranged,taken care of,settled,completed,finished;ずみ;3290;96.33433439;0.00133771;;-1;V;p4
+3697;3697;満面;(the) whole face;まんめん;3290;96.3356721;0.00133771;;-1;V;p4
+3698;3698;演出;production (e.g. play),direction;えんしゅつ;3290;96.33700981;0.00133771;N1;-1;V;p4
+3699;3699;潜水艦;submarine;せんすいかん;3290;96.33834752;0.00133771;;41;V;p4
+3700;3700;潮流;tide,tidal current;ちょうりゅう;3290;96.33968524;0.00133771;;43;V;p4
+3701;3701;澄む;to become clear (water, air, etc.),to become transparent;すむ;3290;96.34102295;0.00133771;N2;45;V;p4
+3702;3702;火星;Mars (planet);かせい;3290;96.34236066;0.00133771;N1;-1;V;p4
+3703;3703;無くす;to lose (something),to mislay;なくす;3290;96.34369837;0.00133771;N2;-1;V;p4
+3704;3704;無茶;absurd,unreasonable,excessive,rash;むちゃ;3290;96.34503608;0.00133771;N1;17;V;p4
+3705;3705;無関係;unrelated;むかんけい;3290;96.3463738;0.00133771;;-1;V;p4
+3706;3706;無駄;futility,waste,uselessness,pointlessness,idleness;むだ;3290;96.34771151;0.00133771;N3;50;V;p4
+3707;3707;焦り;impatience;あせり;3290;96.34904922;0.00133771;;46;V;p4
+3708;3708;焼き魚;grilled fish;やきざかな;3290;96.35038693;0.00133771;;-1;V;p4
+3709;3709;煽る;to fan (oneself, flames, etc.);あおる;3290;96.35172465;0.00133771;;-1;V;p4
+3710;3710;燃える;to burn,to get fired up;もえる;3290;96.35306236;0.00133771;N3;26;V;p4
+3711;3711;燃やす;to burn;もやす;3290;96.35440007;0.00133771;N2;24;V;p4
+3712;3712;片付く;to be put in order,to be put to rights;かたづく;3290;96.35573778;0.00133771;N2;-1;V;p4
+3713;3713;片栗粉;potato starch;かたくりこ;3290;96.35707549;0.00133771;;-1;V;p4
+3714;3714;物体;body,object;ぶったい;3290;96.35841321;0.00133771;N1;-1;V;p4
+3715;3715;特注;special order (goods),custom (made),bespoke;とくちゅう;3290;96.35975092;0.00133771;;-1;V;p4
+3716;3716;狙われる;to aim at;ねらう;3290;96.36108863;0.00133771;N2;39;V;p4
+3717;3717;独り言;soliloquy,monologue,speaking to oneself;ひとりごと;3290;96.36242634;0.00133771;N2;28;V;p4
+3718;3718;玉;ball,sphere,globe,orb;たま;3290;96.36376405;0.00133771;N3;37;V;p4
+3719;3719;王族;royalty;おうぞく;3290;96.36510177;0.00133771;;-1;V;p4
+3720;3720;球;ball,sphere,globe,orb;たま;3290;96.36643948;0.00133771;N3;37;V;p4
+3721;3721;理屈;theory,reason;りくつ;3290;96.36777719;0.00133771;N1;27;V;p4
+3722;3722;環境;environment,circumstance;かんきょう;3290;96.36911490000001;0.00133771;N3;24;V;p4
+3723;3723;田舎暮らし;country living,life in the country,country life;いなかぐらし;3290;96.37045261;0.00133771;;-1;V;p4
+3724;3724;申し出る;to report to,to tell,to suggest,to submit,to request,to make an offer,to come forward with information;もうしでる;3290;96.37179033;0.00133771;N1;-1;V;p4
+3725;3725;申す;to say,to be called;もうす;3290;96.37312804;0.00133771;N4;4;V;p4
+3726;3726;痛み;pain,ache,soreness,grief,distress;いたみ;3290;96.37446575;0.00133771;N3;29;V;p4
+3727;3727;百;100,hundred;ひゃく;3290;96.37580346;0.00133771;N5;4;V;p4
+3728;3728;盗む;to steal;ぬすむ;3290;96.37714118;0.00133771;N4;30;V;p4
+3729;3729;目標;mark,objective,target;もくひょう;3290;96.37847889;0.00133771;N3;13;V;p4
+3730;3730;直前;just before;ちょくぜん;3290;96.3798166;0.00133771;N2;-1;V;p4
+3731;3731;直後;immediately following;ちょくご;3290;96.38115431;0.00133771;N2;-1;V;p4
+3732;3732;真っ暗;total darkness,pitch dark;まっくら;3290;96.38249202;0.00133771;N2;-1;V;p4
+3733;3733;真ん中;middle,centre,center,midpoint,heart;まんなか;3290;96.38382974;0.00133771;N4;-1;V;p4
+3734;3734;真下;right under,directly below;ました;3290;96.38516745;0.00133771;N1;-1;V;p4
+3735;3735;眺める;to look at,to gaze at,to watch,to stare at;ながめる;3290;96.38650516;0.00133771;N3;45;V;p4
+3736;3736;着ぐるみ;cartoon-character costume;きぐるみ;3290;96.38784287;0.00133771;;-1;V;p4
+3737;3737;知識;knowledge,information;ちしき;3290;96.38918058;0.00133771;N3;17;V;p4
+3738;3738;破る;to tear,to rip,to break,to destroy;やぶる;3290;96.3905183;0.00133771;N3;35;V;p4
+3739;3739;神聖;holiness,sacredness,sanctity,dignity;しんせい;3290;96.39185601;0.00133771;N1;34;V;p4
+3740;3740;禁物;thing that should be (carefully) avoided,no-no,thing to definitely not do,something forbidden,taboo;きんもつ;3290;96.39319372;0.00133771;N1;-1;V;p4
+3741;3741;私共;we,us;わたくしども;3290;96.39453143;0.00133771;;-1;V;p4
+3742;3742;私立;private (establishment);しりつ;3290;96.39586915;0.00133771;N2;6;V;p4
+3743;3743;秋;autumn,fall;あき;3290;96.39720686;0.00133771;N5;15;V;p4
+3744;3744;秋分の日;"Autumnal Equinox Day (national holiday; September 22, 23 or 24)";しゅうぶんのひ;3290;96.39854457;0.00133771;;-1;V;p4
+3745;3745;種類;variety,kind,type,category;しゅるい;3290;96.39988228;0.00133771;N3;18;V;p4
+3746;3746;穴;hole,opening,perforation;あな;3290;96.40121999;0.00133771;N3;20;V;p4
+3747;3747;窓;window;まど;3290;96.40255771;0.00133771;N5;33;V;p4
+3748;3748;竜田揚げ;dish of fish or meat flavoured with soy sauce, mirin, etc., coated with starch and then deep-fried;たつたあげ;3290;96.40389542;0.00133771;;-1;V;p4
+3749;3749;粘り強い;tenacious,persevering,persistent,stubborn,steadfast;ねばりづよい;3290;96.40523313;0.00133771;;-1;V;p4
+3750;3750;精一杯;the best one can do,one's best effort;せいいっぱい;3290;96.40657084;0.00133771;;30;V;p4
+3751;3751;糸;thread,yarn,string;いと;3290;96.40790855;0.00133771;N4;4;V;p4
+3752;3752;約数;divisor,factor,measure;やくすう;3290;96.40924627;0.00133771;;-1;V;p4
+3753;3753;紛れる;to disappear into,to be lost in,to slip into,to get mixed in among;まぎれる;3290;96.41058398;0.00133771;N1;44;V;p4
+3754;3754;細い;thin,slender,fine;ほそい;3290;96.41192169;0.00133771;N5;17;V;p4
+3755;3755;終了;end,close,termination;しゅうりょう;3290;96.4132594;0.00133771;N2;10;V;p4
+3756;3756;経過;passage (of time),elapsing,lapse;けいか;3290;96.41459711;0.00133771;N1;-1;V;p4
+3757;3757;絞る;to wring (towel, rag),to squeeze;しぼる;3290;96.41593483;0.00133771;N2;56;V;p4
+3758;3758;給料;salary,wages,pay;きゅうりょう;3290;96.41727254;0.00133771;N3;27;V;p4
+3759;3759;統べる;to rule over,to govern,to command,to control;すべる;3290;96.41861025;0.00133771;;-1;V;p4
+3760;3760;続報;follow-up report,further news;ぞくほう;3290;96.41994796;0.00133771;;-1;V;p4
+3761;3761;罪人;criminal,lawbreaker,wrongdoer,offender;ざいにん;3290;96.42128568;0.00133771;;-1;V;p4
+3762;3762;老人;old person,senior citizen,the aged,the elderly;ろうじん;3290;96.42262339;0.00133771;N3;11;V;p4
+3763;3763;考え直す;to reconsider,to rethink,to reassess;かんがえなおす;3290;96.42396109999999;0.00133771;;-1;V;p4
+3764;3764;聞き込み;getting information (esp. by interviewing witnesses, etc. in a police investigation);ききこみ;3290;96.42529881;0.00133771;;-1;V;p4
+3765;3765;肉じゃが;nikujaga,meat and potato stew;にくじゃが;3290;96.42663652;0.00133771;;-1;V;p4
+3766;3766;肌;skin;はだ;3290;96.42797424;0.00133771;N3;45;V;p4
+3767;3767;育つ;to be raised (e.g. child),to be brought up,to grow (up);そだつ;3290;96.42931195;0.00133771;N3;11;V;p4
+3768;3768;背ける;to turn (one's face) away,to avert (one's eyes);そむける;3290;96.43064966;0.00133771;;-1;V;p4
+3769;3769;膨大;huge,vast,enormous,colossal,extensive,large;ぼうだい;3290;96.43198737;0.00133771;N2;52;V;p4
+3770;3770;臆病;cowardly,timid,easily frightened;おくびょう;3290;96.43332508;0.00133771;N1;-1;V;p4
+3771;3771;自;self-;じ;3290;96.4346628;0.00133771;;-1;V;p4
+3772;3772;自供;confession;じきょう;3290;96.43600051;0.00133771;;-1;V;p4
+3773;3773;自分勝手;selfishness,egotism,egoism,(being) self-centered,without consulting,(doing) as one pleases,one's own free will;じぶんかって;3290;96.43733822;0.00133771;;-1;V;p4
+3774;3774;自然数;natural number,nonnegative integer;しぜんすう;3290;96.43867593;0.00133771;;-1;V;p4
+3775;3775;自由行動;free action,free activity,acting at one's own discretion,taking one's own course,free hand,independent action;じゆうこうどう;3290;96.44001364;0.00133771;;-1;V;p4
+3776;3776;自習;self-study,teaching oneself;じしゅう;3290;96.44135136;0.00133771;N2;-1;V;p4
+3777;3777;若者;young man,young woman,young people,youth,youngsters;わかもの;3290;96.44268907;0.00133771;;19;V;p4
+3778;3778;茶巾ずし;gomokuzushi wrapped in a thin layer of fried egg;ちゃきんずし;3290;96.44402678;0.00133771;;-1;V;p4
+3779;3779;葉書;postcard;はがき;3290;96.44536449;0.00133771;N5;18;V;p4
+3780;3780;虚構;fiction,fabrication,concoction;きょこう;3290;96.44670221;0.00133771;;-1;V;p4
+3781;3781;行き先;destination;いきさき;3290;96.44803992;0.00133771;;-1;V;p4
+3782;3782;行って来い;going back and forth,changing scenery (theatre),fluctuation (e.g. in a market);いってこい;3290;96.44937763;0.00133771;;-1;V;p4
+3783;3783;裁判;trial,judgement,judgment;さいばん;3290;96.45071534;0.00133771;N3;23;V;p4
+3784;3784;裏返し;inside out,upside down;うらがえし;3290;96.45205305;0.00133771;N1;-1;V;p4
+3785;3785;製薬;medicine manufacture,drug manufacture;せいやく;3290;96.45339077;0.00133771;;-1;V;p4
+3786;3786;見下す;to look down (on),to condescend (to);みくだす;3290;96.45472848;0.00133771;;-1;V;p4
+3787;3787;見事;splendid,magnificent,excellent,fine,superb,beautiful,admirable;みごと;3290;96.45606619;0.00133771;N3;11;V;p4
+3788;3788;見直す;to look at again;みなおす;3290;96.45740390000002;0.00133771;N2;8;V;p4
+3789;3789;見込み;hope,promise,possibility,chance,probability,likelihood;みこみ;3290;96.45874161;0.00133771;N1;-1;V;p4
+3790;3790;見返す;to look (stare) back at (somebody);みかえす;3290;96.46007933;0.00133771;;15;V;p4
+3791;3791;見送り;seeing one off,farewell,escort;みおくり;3290;96.46141704;0.00133771;N3;-1;V;p4
+3792;3792;見通し;unobstructed view,perspective,visibility,vista;みとおし;3290;96.46275475;0.00133771;N1;-1;V;p4
+3793;3793;視する;to take a view or perspective,to regard as,to consider to be;しする;3290;96.46409246;0.00133771;;-1;V;p4
+3794;3794;覚める;to wake,to wake up;さめる;3290;96.46543017;0.00133771;N3;-1;V;p4
+3795;3795;覚醒;waking up,awakening,arousal,revival;かくせい;3290;96.46676789;0.00133771;;-1;V;p4
+3796;3796;親友;close friend,bosom (old, intimate) friend,buddy,crony,chum;しんゆう;3290;96.4681056;0.00133771;N3;10;V;p4
+3797;3797;親御さん;another's parent,another's parents;おやごさん;3290;96.46944331;0.00133771;;-1;V;p4
+3798;3798;角煮;stew of cubed meat or fish (esp. pork belly or tuna);かくに;3290;96.47078102;0.00133771;;-1;V;p4
+3799;3799;言い聞かせる;to tell,to advise,to warn,to admonish,to reason,to persuade,to instruct;いいきかせる;3290;96.47211874;0.00133771;;-1;V;p4
+3800;3800;計画;plan,project,schedule,scheme,program,programme;けいかく;3290;96.47345645;0.00133771;N3;15;V;p4
+3801;3801;訓練;training,drill,practice,discipline;くんれん;3290;96.47479416;0.00133771;N3;18;V;p4
+3802;3802;記念日;memorial day,commemoration day,anniversary;きねんび;3290;96.47613187;0.00133771;;16;V;p4
+3803;3803;記者会見;press conference;きしゃかいけん;3290;96.47746958;0.00133771;;-1;V;p4
+3804;3804;診る;to examine (medically);みる;3290;96.4788073;0.00133771;N2;29;V;p4
+3805;3805;詠む;to compose (a Japanese poem),to write,to use as the theme of a poem;よむ;3290;96.48014501;0.00133771;;59;V;p4
+3806;3806;話し声;speaking voice,talking voice;はなしごえ;3290;96.48148272;0.00133771;;-1;V;p4
+3807;3807;詳しい話;full story,detailed account;くわしいはなし;3290;96.48282043;0.00133771;;-1;V;p4
+3808;3808;誇り;pride,boast,credit (to);ほこり;3290;96.48415814;0.00133771;N3;-1;V;p4
+3809;3809;説得;persuasion;せっとく;3290;96.48549586;0.00133771;N1;21;V;p4
+3810;3810;講習;short course,training;こうしゅう;3290;96.48683357;0.00133771;N1;-1;V;p4
+3811;3811;警察署;police station;けいさつしょ;3290;96.48817128;0.00133771;;19;V;p4
+3812;3812;負える;to be able to bear;おえる;3290;96.48950899;0.00133771;;-1;V;p4
+3813;3813;貢献;contribution (furthering a goal or cause),services (to a cause);こうけん;3290;96.4908467;0.00133771;N3;43;V;p4
+3814;3814;買出し;going out to shop,going shopping;かいだし;3290;96.49218442;0.00133771;;-1;V;p4
+3815;3815;貸し切る;to reserve (for exclusive use),to charter,to book;かしきる;3290;96.49352213;0.00133771;;-1;V;p4
+3816;3816;賭ける;to wager,to bet,to risk,to stake,to gamble;かける;3290;96.49485984;0.00133771;N1;45;V;p4
+3817;3817;賭け金;stakes,bet;かけきん;3290;96.49619755;0.00133771;;-1;V;p4
+3818;3818;身体;body;からだ;3290;96.49753527;0.00133771;N3;8;V;p4
+3819;3819;身辺;one's person,around one's person;しんぺん;3290;96.49887298;0.00133771;;-1;V;p4
+3820;3820;転ぶ;to fall down,to fall over;ころぶ;3290;96.50021069;0.00133771;N3;12;V;p4
+3821;3821;辰巳;southeast;たつみ;3290;96.5015484;0.00133771;;-1;V;p4
+3822;3822;込む;to be crowded,to be packed;こむ;3290;96.50288611;0.00133771;N4;32;V;p4
+3823;3823;迫る;to approach,to draw near,to be imminent;せまる;3290;96.50422383;0.00133771;N2;27;V;p4
+3824;3824;追い詰める;to corner,to drive to the wall,to run down,to track down,to chase after;おいつめる;3290;96.50556154;0.00133771;;-1;V;p4
+3825;3825;逃げ場;refuge,escape;にげば;3290;96.50689925;0.00133771;;-1;V;p4
+3826;3826;途端;just (now, at the moment, etc.),just as,in the act of,as soon as,at the moment that;とたん;3290;96.50823696;0.00133771;N3;-1;V;p4
+3827;3827;連れ戻す;to bring back;つれもどす;3290;96.50957467;0.00133771;;-1;V;p4
+3828;3828;週;week;しゅう;3290;96.51091239;0.00133771;N3;-1;V;p4
+3829;3829;逸れる;to turn away,to bear off,to veer away,to swerve from,to miss (e.g. a target);それる;3290;96.51225009999999;0.00133771;N2;56;V;p4
+3830;3830;過ごせる;Name;;3290;96.51358781;0.00133771;;-1;V;p4
+3831;3831;道端;roadside,wayside;みちばた;3290;96.51492552;0.00133771;;-1;V;p4
+3832;3832;遠ざける;to keep away,to keep at a distance;とおざける;3290;96.51626323;0.00133771;;-1;V;p4
+3833;3833;遠出;trip,excursion,outing;とおで;3290;96.51760095;0.00133771;;-1;V;p4
+3834;3834;部首;radical (of a kanji character);ぶしゅ;3290;96.51893866;0.00133771;N2;9;V;p4
+3835;3835;重ねる;to pile up,to heap up,to stack up,to put on top of another;かさねる;3290;96.52027637;0.00133771;N2;-1;V;p4
+3836;3836;重機;heavy machinery,heavy equipment;じゅうき;3290;96.52161408;0.00133771;;-1;V;p4
+3837;3837;野次馬;curious onlookers,rubbernecks;やじうま;3290;96.52295179999999;0.00133771;;-1;V;p4
+3838;3838;鈍る;to become blunt,to grow dull;にぶる;3290;96.52428951;0.00133771;N1;-1;V;p4
+3839;3839;鍋;saucepan,pot;なべ;3290;96.52562722;0.00133771;N3;37;V;p4
+3840;3840;開催;holding (a conference, exhibition, etc.),opening,hosting (e.g. the Olympics);かいさい;3290;96.52696493;0.00133771;N1;-1;V;p4
+3841;3841;関連;relation,connection,relevance;かんれん;3290;96.52830264;0.00133771;N3;19;V;p4
+3842;3842;防止;prevention,check;ぼうし;3290;96.52964036;0.00133771;N2;20;V;p4
+3843;3843;阻止;obstruction,check,hindrance,prevention,impediment,interdiction,preemption,blocking;そし;3290;96.53097807;0.00133771;N1;46;V;p4
+3844;3844;限界;limit,bound;げんかい;3290;96.53231578;0.00133771;N3;25;V;p4
+3845;3845;陸;land,shore;りく;3290;96.53365349;0.00133771;N3;-1;V;p4
+3846;3846;震わせる;to (make something) quiver,to shake,to tremble,to vibrate;ふるわせる;3290;96.53499120000001;0.00133771;N1;-1;V;p4
+3847;3847;青春;youth,springtime of life,adolescent;せいしゅん;3290;96.53632892;0.00133771;N1;-1;V;p4
+3848;3848;預ける;to leave (in someone's keeping),to put (in someone's care),to place (in someone's custody),to entrust (someone) with,to deposit;あずける;3290;96.53766663;0.00133771;N3;30;V;p4
+3849;3849;頬杖;resting one's chin in one's hands;ほおづえ;3290;96.53900434;0.00133771;;-1;V;p4
+3850;3850;頼み込む;to request earnestly;たのみこむ;3290;96.54034205;0.00133771;;-1;V;p4
+3851;3851;題;title,subject,theme,topic;だい;3290;96.54167977;0.00133771;N3;-1;V;p4
+3852;3852;顔出し;putting in an appearance,visiting,attending a meeting;かおだし;3290;96.54301748;0.00133771;;-1;V;p4
+3853;3853;顔見知り;acquaintance;かおみしり;3290;96.54435519;0.00133771;;-1;V;p4
+3854;3854;飛び出す;to jump out,to rush out,to fly out;とびだす;3290;96.5456929;0.00133771;N3;-1;V;p4
+3855;3855;食;food,foodstuff;しょく;3290;96.54703061;0.00133771;;-1;V;p4
+3856;3856;食いつく;to bite at,to snap at,to nibble;くらいつく;3290;96.54836833;0.00133771;;-1;V;p4
+3857;3857;食指;index finger,forefinger;しょくし;3290;96.54970604;0.00133771;;-1;V;p4
+3858;3858;食欲;appetite (for food);しょくよく;3290;96.55104375;0.00133771;N3;32;V;p4
+3859;3859;香西;Hiroki Kosai;;3290;96.55238146;0.00133771;;-1;V;p4
+3860;3860;髪の毛;hair (head);かみのけ;3290;96.55371917;0.00133771;N3;44;V;p4
+3861;3861;魔術師;magician,conjurer;まじゅつし;3290;96.55505689;0.00133771;;-1;V;p4
+3862;3862;鮭;salmon (Salmonidae spp.);さけ;3290;96.5563946;0.00133771;;-1;V;p4
+3863;3863;鳥居;torii,Shinto shrine archway;とりい;3290;96.55773231;0.00133771;N1;-1;V;p4
+3864;3864;黙々と;Name;;3290;96.55907002;0.00133771;;-1;V;p4
+3865;3865;アイライン;eyeliner;アイライン;3866;96.56007331;0.00100328;;-1;V;p4
+3866;3866;あせる;to be in a hurry,to be impatient,to be flustered,to lose one's presence of mind,to be surprised;あせる;3866;96.56107659;0.00100328;N1;44;V;p4
+3867;3867;アブ;horsefly,gadfly;あぶ;3866;96.56207987;0.00100328;;-1;V;p4
+3868;3868;アフリカ;Africa;アフリカ;3866;96.56308316;0.00100328;N4;-1;V;p4
+3869;3869;あぶり出し;invisible writing revealed by applying heat,writing done in invisible ink;あぶりだし;3866;96.56408644;0.00100328;;-1;V;p4
+3870;3870;あむ;to knit,to plait,to braid;あむ;3866;96.56508973;0.00100328;N2;31;V;p4
+3871;3871;アメ;American;アメ;3866;96.56609301;0.00100328;;-1;V;p4
+3872;3872;あり;ant;あり;3866;96.5670963;0.00100328;;-1;V;p4
+3873;3873;あるに;and yet,even so,however;あるに;3866;96.56809958;0.00100328;;-1;V;p4
+3874;3874;ある日;one day,(on) a certain day;あるひ;3866;96.56910286;0.00100328;;-1;V;p4
+3875;3875;あれこれ;this and that,this or that,one thing or another,this way and that;あれこれ;3866;96.57010615;0.00100328;N2;-1;V;p4
+3876;3876;アンケート;questionnaire,survey;アンケート;3866;96.57110943;0.00100328;N1;-1;V;p4
+3877;3877;アンデス;Andean mountain cat (Leopardus jacobitus);アンデスネコ;3866;96.57211272;0.00100328;;-1;V;p4
+3878;3878;あんなふうに;in that way,like that,that way;あんなふうに;3866;96.573116;0.00100328;;-1;V;p4
+3879;3879;いいかげん;irresponsible,perfunctory,careless;いいかげん;3866;96.57411928;0.00100328;N1;19;V;p4
+3880;3880;いい事;good thing,nice thing;よいこと;3866;96.57512257;0.00100328;;-1;V;p4
+3881;3881;いい気;easygoing,optimistic,conceited;いいき;3866;96.57612585;0.00100328;;-1;V;p4
+3882;3882;いえいえ;each house,every house,many houses;いえいえ;3866;96.57712914;0.00100328;;-1;V;p4
+3883;3883;いくらでも;as many as one likes,as much as one likes,any amount;いくらでも;3866;96.57813242;0.00100328;;-1;V;p4
+3884;3884;いそがしい;busy,occupied,hectic;いそがしい;3866;96.57913570000001;0.00100328;N5;19;V;p4
+3885;3885;いた事;Name;;3866;96.58013899;0.00100328;;-1;V;p4
+3886;3886;イチョウ;ginkgo (Ginkgo biloba),gingko,maidenhair tree;いちょう;3866;96.58114227;0.00100328;;-1;V;p4
+3887;3887;いっき;one breath;いっき;3866;96.58214556;0.00100328;N1;4;V;p4
+3888;3888;いつしか;before one knows,unnoticed,unawares;いつしか;3866;96.58314884;0.00100328;;-1;V;p4
+3889;3889;いつのまにか;before one knows,before one becomes aware of,unnoticed,unawares;いつのまにか;3866;96.58415212;0.00100328;N2;-1;V;p4
+3890;3890;いつの間にか;before one knows,before one becomes aware of,unnoticed,unawares;いつのまにか;3866;96.58515541;0.00100328;N2;-1;V;p4
+3891;3891;いなか;rural area,countryside,the sticks;いなか;3866;96.58615869;0.00100328;N4;35;V;p4
+3892;3892;いまいち;not quite (right),not very good,somewhat (lacking);いまいち;3866;96.58716198;0.00100328;;-1;V;p4
+3893;3893;いれる;to put in,to let in,to take in,to bring in,to insert,to install (e.g. software),to set (a jewel, etc.),to ink in (e.g. tattoo);いれる;3866;96.58816526;0.00100328;N5;1;V;p4
+3894;3894;いわゆる;what is called,as it is called,the so-called,so to speak;いわゆる;3866;96.58916855;0.00100328;N3;-1;V;p4
+3895;3895;いんする;to stamp (one's mark, etc.),to seal;いんする;3866;96.59017183;0.00100328;;-1;V;p4
+3896;3896;インターネット;Internet;インターネット;3866;96.59117511;0.00100328;;-1;V;p4
+3897;3897;インタビュー;interview (i.e. television, newspaper, etc.);インタビュー;3866;96.59217840000001;0.00100328;N2;-1;V;p4
+3898;3898;ウジ;maggot,larva,grub;うじ;3866;96.59318168;0.00100328;;-1;V;p4
+3899;3899;うっとうしい;gloomy (e.g. mood),depressing;うっとうしい;3866;96.59418497;0.00100328;N1;50;V;p4
+3900;3900;ウロウロ;restlessly,aimlessly,without purpose;うろうろ;3866;96.59518825;0.00100328;N2;-1;V;p4
+3901;3901;うんざり;tedious,boring,being fed up with;うんざり;3866;96.59619153;0.00100328;N1;-1;V;p4
+3902;3902;おいで;coming,going,being (somewhere);おいで;3866;96.59719482;0.00100328;;-1;V;p4
+3903;3903;オーケー;OK,okay;オッケー;3866;96.59819809999999;0.00100328;N1;-1;V;p4
+3904;3904;おかえりなさい;welcome home;おかえりなさい;3866;96.59920139;0.00100328;;-1;V;p4
+3905;3905;おかし;confections,sweets,candy;おかし;3866;96.60020467;0.00100328;N5;26;V;p4
+3906;3906;おきる;to get up,to rise,to blaze up (fire);おきる;3866;96.60120795;0.00100328;N5;10;V;p4
+3907;3907;おと;sound,noise,report;おと;3866;96.60221124;0.00100328;N4;5;V;p4
+3908;3908;おぼえる;to memorize,to memorise,to commit to memory,to learn by heart,to bear in mind,to remember;おぼえる;3866;96.60321452;0.00100328;N5;19;V;p4
+3909;3909;オムツ;diaper,nappy,napkin;おむつ;3866;96.60421781;0.00100328;N1;-1;V;p4
+3910;3910;オヤジ;boring pun,old person's joke,dad joke,worn-out joke;おやじギャグ;3866;96.60522109;0.00100328;;-1;V;p4
+3911;3911;お休み;holiday,day off,absence;おやすみ;3866;96.60622437;0.00100328;N2;-1;V;p4
+3912;3912;お兄さん;older brother,elder brother;おにいさん;3866;96.60722766;0.00100328;N5;7;V;p4
+3913;3913;お医者さん;doctor;おいしゃさん;3866;96.60823094;0.00100328;;-1;V;p4
+3914;3914;お土産;local specialty or souvenir bought as a gift while travelling;おみやげ;3866;96.60923423;0.00100328;N4;22;V;p4
+3915;3915;お天気;weather;おてんき;3866;96.61023751;0.00100328;;-1;V;p4
+3916;3916;お姉ちゃん;older sister;おねえちゃん;3866;96.61124079;0.00100328;;-1;V;p4
+3917;3917;お待ち;long-awaited,long-waited-for;おまちかね;3866;96.61224408;0.00100328;;-1;V;p4
+3918;3918;お揃い;being together,going together;おそろい;3866;96.61324736;0.00100328;;-1;V;p4
+3919;3919;お断り;declining,nonacceptance,declination,refusal,rejection,turndown;おことわり;3866;96.61425065;0.00100328;;-1;V;p4
+3920;3920;お気;favorite,favourite,pet (e.g. teacher's pet);おきにいり;3866;96.61525393;0.00100328;;-1;V;p4
+3921;3921;お知らせ;notice,notification;おしらせ;3866;96.61625722;0.00100328;;8;V;p4
+3922;3922;お部屋;room;おへや;3866;96.6172605;0.00100328;;-1;V;p4
+3923;3923;お金持ち;rich person;おかねもち;3866;96.61826378;0.00100328;;-1;V;p4
+3924;3924;ガ;moth;が;3866;96.61926707;0.00100328;;-1;V;p4
+3925;3925;カー;car;カー;3866;96.62027035;0.00100328;N3;-1;V;p4
+3926;3926;かげる;to darken,to get dark,to be clouded,to be hidden (behind clouds);かげる;3866;96.62127364;0.00100328;;-1;V;p4
+3927;3927;かしげる;to tilt (esp. head),to lean,to incline,to slant;かしげる;3866;96.62227692;0.00100328;;-1;V;p4
+3928;3928;かす;to lend,to loan;かす;3866;96.6232802;0.00100328;N5;27;V;p4
+3929;3929;ガスマスク;gas mask;ガスマスク;3866;96.62428349;0.00100328;;-1;V;p4
+3930;3930;がっかり;to be disappointed,to be dejected,to be downhearted,to lose heart,to feel let down;がっかり;3866;96.62528677;0.00100328;N3;-1;V;p4
+3931;3931;カッと;flaring up,burning hotly,suddenly becoming bright;カッと;3866;96.62629006;0.00100328;;-1;V;p4
+3932;3932;カップル;couple;カップル;3866;96.62729334;0.00100328;;-1;V;p4
+3933;3933;かみ締める;to chew thoroughly,to bite (e.g. one's lip);かみしめる;3866;96.62829662;0.00100328;;-1;V;p4
+3934;3934;かゆい;itchy;かゆい;3866;96.62929991;0.00100328;N2;-1;V;p4
+3935;3935;からには;now that,since,so long as,because;からには;3866;96.63030319;0.00100328;;-1;V;p4
+3936;3936;かる;to cut (grass, hair, etc.),to mow,to clip,to trim,to prune,to shear,to reap,to harvest;かる;3866;96.63130648;0.00100328;N3;49;V;p4
+3937;3937;ガンガン;clanging,banging,booming,loudly;ガンガン;3866;96.63230976;0.00100328;;-1;V;p4
+3938;3938;がんばれる;Gun-type fission weapon;;3866;96.63331304;0.00100328;;-1;V;p4
+3939;3939;キケン;danger,peril,hazard;きけん;3866;96.63431633;0.00100328;N4;16;V;p4
+3940;3940;キッ;surely,undoubtedly,almost certainly,most likely (e.g. 90 percent);きっと;3866;96.63531961;0.00100328;N4;-1;V;p4
+3941;3941;きっちり;exactly,precisely,punctually,on the dot;きっちり;3866;96.63632290000001;0.00100328;N1;-1;V;p4
+3942;3942;ギャグ;joke,gag;ギャグ;3866;96.63732618;0.00100328;;-1;V;p4
+3943;3943;ぎゅっと;tightly (hold, squeeze, etc.),firmly,forcefully (e.g. push),hard;ぎゅっと;3866;96.63832947;0.00100328;;-1;V;p4
+3944;3944;きらい;disliked,hated,disagreeable;きらい;3866;96.63933275;0.00100328;N5;20;V;p4
+3945;3945;キリ;end,ending,bottom;キリ;3866;96.64033603;0.00100328;;-1;V;p4
+3946;3946;クール;cool (temperature, color, etc.);クール;3866;96.64133932;0.00100328;;-1;V;p4
+3947;3947;クシ;comb;くし;3866;96.64234259999999;0.00100328;N2;-1;V;p4
+3948;3948;くしゃみ;sneeze;くしゃみ;3866;96.64334589;0.00100328;N2;-1;V;p4
+3949;3949;くたばる;to kick the bucket,to drop dead,to die,to croak;くたばる;3866;96.64434917;0.00100328;;-1;V;p4
+3950;3950;くだる;to descend,to go down,to come down;くだる;3866;96.64535245;0.00100328;N2;-1;V;p4
+3951;3951;クッソ;kousso (African flowering plant, Hagenia abyssinica),kosso,cusso,koso,brayera;くっそ;3866;96.64635574;0.00100328;;-1;V;p4
+3952;3952;クラブ;club,fraternity,sorority,clubhouse;クラブ;3866;96.64735902;0.00100328;N1;-1;V;p4
+3953;3953;くらます;to conceal (oneself),to hide,to abscond;くらます;3866;96.64836231;0.00100328;;-1;V;p4
+3954;3954;クロロフィル;chlorophyll;クロロフィル;3866;96.64936559;0.00100328;;-1;V;p4
+3955;3955;くわえる;to add,to add up,to sum up,to append,to annex;くわえる;3866;96.65036887;0.00100328;N3;19;V;p4
+3956;3956;ゲートボール;gate ball (game similar to croquet);ゲートボール;3866;96.65137216;0.00100328;;-1;V;p4
+3957;3957;ゲームオーバー;game over,the game is over;ゲームオーバー;3866;96.65237544;0.00100328;;-1;V;p4
+3958;3958;ゲスト;guest;ゲスト;3866;96.65337873;0.00100328;N1;-1;V;p4
+3959;3959;ヶ月;months (period of);かげつ;3866;96.65438201;0.00100328;N1;-1;V;p4
+3960;3960;ごい;vocabulary,lexicon,lexis,terminology;ごい;3866;96.65538529;0.00100328;N1;-1;V;p4
+3961;3961;ごぼう;great burdock (Arctium lappa);ごぼう;3866;96.65638858;0.00100328;;-1;V;p4
+3962;3962;こらえる;to bear,to stand,to endure,to put up with;たえる;3866;96.65739186;0.00100328;N2;59;V;p4
+3963;3963;ころ;(approximate) time,around,about,toward;ころ;3866;96.65839515;0.00100328;N3;45;V;p4
+3964;3964;こんがり;well-cooked,well-done,browned;こんがり;3866;96.65939843;0.00100328;;-1;V;p4
+3965;3965;コンサート;concert;コンサート;3866;96.66040171;0.00100328;N4;-1;V;p4
+3966;3966;コンビニ;convenience store;コンビニ;3866;96.661405;0.00100328;;-1;V;p4
+3967;3967;ご自身;himself,yourself,herself;ごじしん;3866;96.66240828;0.00100328;;-1;V;p4
+3968;3968;サクラ;cherry tree,cherry blossom;さくら;3866;96.66341157;0.00100328;N3;32;V;p4
+3969;3969;さす;to shine;さす;3866;96.66441485;0.00100328;N5;24;V;p4
+3970;3970;サツ;cops,police;さつ;3866;96.66541814;0.00100328;;-1;V;p4
+3971;3971;さっきん;sterilization,sterilisation,disinfection;さっきん;3866;96.66642142;0.00100328;;45;V;p4
+3972;3972;サプライズ;surprise;サプライズ;3866;96.6674247;0.00100328;;-1;V;p4
+3973;3973;さりげ;like that,in that manner;さりげ;3866;96.66842799;0.00100328;;-1;V;p4
+3974;3974;サンキュー;thank you;サンキュー;3866;96.66943127;0.00100328;N1;-1;V;p4
+3975;3975;しあわせ;happiness,good fortune,luck,blessing;しあわせ;3866;96.67043456;0.00100328;N3;16;V;p4
+3976;3976;しかた;way,method,means,resource,course;しかた;3866;96.67143784;0.00100328;N4;4;V;p4
+3977;3977;しかめる;to pull a wry face,to screw one's face up,to pucker one's face,to scowl,to grimace,to frown;しかめる;3866;96.67244112;0.00100328;;-1;V;p4
+3978;3978;しくじる;to fail,to blunder,to mess up,to screw up;しくじる;3866;96.67344441;0.00100328;N1;-1;V;p4
+3979;3979;しでかす;to make a mess,to perpetrate,to do,to finish up,to be guilty of;しでかす;3866;96.67444769;0.00100328;;-1;V;p4
+3980;3980;しばし;for a short while,for a brief period,soon,in a short while;しばし;3866;96.67545098;0.00100328;;-1;V;p4
+3981;3981;しも;frost;しも;3866;96.67645426;0.00100328;N3;48;V;p4
+3982;3982;しゃする;to thank;しゃする;3866;96.67745754;0.00100328;;-1;V;p4
+3983;3983;しゅく;thin rice porridge,watery cooked rice,rice gruel,congee;かゆ;3866;96.67846083;0.00100328;N1;-1;V;p4
+3984;3984;ジロジロ;staringly,scrutinizing,scrutinising;じろじろ;3866;96.67946411;0.00100328;;-1;V;p4
+3985;3985;シン;thin;シン;3866;96.68046740000001;0.00100328;;-1;V;p4
+3986;3986;スカート;skirt;スカート;3866;96.68147068;0.00100328;N5;-1;V;p4
+3987;3987;スカーフ;scarf;スカーフ;3866;96.68247396;0.00100328;N2;-1;V;p4
+3988;3988;すがる;to cling to,to hang onto;すがる;3866;96.68347725;0.00100328;;-1;V;p4
+3989;3989;スキル;skill;スキル;3866;96.68448053;0.00100328;;-1;V;p4
+3990;3990;すくう;to rescue from,to help out of,to save;すくう;3866;96.68548382;0.00100328;N3;31;V;p4
+3991;3991;すっこむ;to draw back,to leave (the area);すっこむ;3866;96.6864871;0.00100328;;-1;V;p4
+3992;3992;ストレート;straight;ストレート;3866;96.68749039;0.00100328;;-1;V;p4
+3993;3993;すねる;to be peevish,to sulk,to pout;すねる;3866;96.68849367;0.00100328;;-1;V;p4
+3994;3994;スパイク;spike (on a shoe or tyre),stud,cleat;スパイク;3866;96.68949695;0.00100328;;-1;V;p4
+3995;3995;スポットライト;spotlight;スポットライト;3866;96.69050024;0.00100328;;-1;V;p4
+3996;3996;セーフ;safe;セーフ;3866;96.69150352;0.00100328;;-1;V;p4
+3997;3997;セール;sale;セール;3866;96.69250681;0.00100328;N1;-1;V;p4
+3998;3998;ぜったい;definitely,absolutely,unconditionally;ぜったい;3866;96.69351009;0.00100328;N3;28;V;p4
+3999;3999;セメント;cement;セメント;3866;96.69451337;0.00100328;N2;-1;V;p4
+4000;4000;そ～;ancestor,forefather,progenitor;そ;3866;96.69551666;0.00100328;;-1;V;p4
+4001;4001;ぞい;along;ぞい;3866;96.69651994;0.00100328;N1;-1;V;p4
+4002;4002;そうした;such;そうした;3866;96.69752323;0.00100328;;-1;V;p4
+4003;4003;そうですね;that's so, isn't it;そうですね;3866;96.69852651;0.00100328;;-1;V;p4
+4004;4004;そーいや;Name;;3866;96.69952979;0.00100328;;-1;V;p4
+4005;4005;そそる;to excite,to incite,to stimulate,to arouse,to tempt,to stir up;そそる;3866;96.70053308;0.00100328;;-1;V;p4
+4006;4006;そっくり;all,altogether,entirely,completely;そっくり;3866;96.70153636;0.00100328;N3;-1;V;p4
+4007;4007;ソッコー;(finishing something) suddenly,abruptly;ソッコー;3866;96.70253965;0.00100328;;-1;V;p4
+4008;4008;その中;wherein,therein,thereinto;そのなか;3866;96.70354293;0.00100328;;-1;V;p4
+4009;4009;そらす;to turn away (one's eyes, face, etc.),to avert,to divert (e.g. one's attention),to evade (e.g. a question),to change (e.g. the subject);そらす;3866;96.70454621;0.00100328;N1;54;V;p4
+4010;4010;そりゃあ;very,extremely;それは;3866;96.7055495;0.00100328;;-1;V;p4
+4011;4011;それどころ;(not) so much,(not) that much;それどころ;3866;96.70655278;0.00100328;;-1;V;p4
+4012;4012;ダイエット;diet;ダイエット;3866;96.70755607;0.00100328;;-1;V;p4
+4013;4013;だいじない;Name;;3866;96.70855935;0.00100328;;-1;V;p4
+4014;4014;タイム;time;タイム;3866;96.70956264;0.00100328;N1;-1;V;p4
+4015;4015;ダウジング;dowsing;ダウジング;3866;96.71056592;0.00100328;;-1;V;p4
+4016;4016;タケ;bamboo (any grass of subfamily Bambusoideae);たけ;3866;96.7115692;0.00100328;N2;4;V;p4
+4017;4017;たしか;sure,certain,positive,definite;たしか;3866;96.71257249;0.00100328;N4;-1;V;p4
+4018;4018;たった今;just now,a moment ago,this very minute;たったいま;3866;96.71357577;0.00100328;;-1;V;p4
+4019;4019;たとえば;for example,for instance,e.g.;たとえば;3866;96.71457906;0.00100328;N4;14;V;p4
+4020;4020;たどり着く;to arrive at (after a struggle),to finally reach,to find one's way to,to finally hit on (e.g. an idea);たどりつく;3866;96.71558234;0.00100328;N1;-1;V;p4
+4021;4021;たら;indicates supposition,if ... then,when,after;たら;3866;96.71658562;0.00100328;;-1;V;p4
+4022;4022;ダラダラ;in drops,dripping,trickling,streaming,flowing;だらだら;3866;96.71758891;0.00100328;;-1;V;p4
+4023;4023;たるむ;to slacken,to loosen,to relax,to droop (e.g. loose or flabby skin),to sag (ceiling);たるむ;3866;96.71859219;0.00100328;N1;-1;V;p4
+4024;4024;ダレ;undercut (of a machined edge);ダレ;3866;96.71959548;0.00100328;;-1;V;p4
+4025;4025;チーズ;cheese;チーズ;3866;96.72059876;0.00100328;N3;-1;V;p4
+4026;4026;ちくしょう;beast (i.e. any animal other than man);ちくしょう;3866;96.72160204;0.00100328;N1;48;V;p4
+4027;4027;ちと;a little bit;ちっと;3866;96.72260533;0.00100328;;-1;V;p4
+4028;4028;ちなむ;to be associated (with),to be connected (with);ちなむ;3866;96.72360861;0.00100328;;-1;V;p4
+4029;4029;チャイム;chime,bell (e.g. doorbell);チャイム;3866;96.72461190000001;0.00100328;N1;-1;V;p4
+4030;4030;ちゅう;annotation,explanatory note,comment;ちゅう;3866;96.72561518;0.00100328;N3;-1;V;p4
+4031;4031;ちょうど今;right now,just now;ちょうどいま;3866;96.72661846;0.00100328;;-1;V;p4
+4032;4032;チョコ;chocolate;チョコ;3866;96.72762175;0.00100328;;-1;V;p4
+4033;4033;ちょっとした;slight,minor,trifling,trivial,petty;ちょっとした;3866;96.72862503;0.00100328;;-1;V;p4
+4034;4034;ちょっとずつ;little by little,step by step;ちょっとずつ;3866;96.72962832;0.00100328;;-1;V;p4
+4035;4035;チンプンカンプン;"unintelligible language,incoherent language,talking nonsense,""all Greek to me"",double Dutch,(something) incomprehensible,babble,gibberish,jargon,gobbledygook";ちんぷんかんぷん;3866;96.7306316;0.00100328;;-1;V;p4
+4036;4036;ツアー;tour;ツアー;3866;96.73163488;0.00100328;;-1;V;p4
+4037;4037;ついさっき;just now,a little while back,a short time ago;ついさっき;3866;96.73263817;0.00100328;;-1;V;p4
+4038;4038;ついつい;unintentionally,unconsciously,by mistake,heedlessly,against one's better judgement (judgment);ついつい;3866;96.73364145;0.00100328;;-1;V;p4
+4039;4039;つぎ;next,following,subsequent;つぎ;3866;96.73464474;0.00100328;N5;6;V;p4
+4040;4040;づく;to become (a state, condition, etc.);づく;3866;96.73564802;0.00100328;;-1;V;p4
+4041;4041;つくし;fertile shoot of field horsetail;つくし;3866;96.73665131;0.00100328;;-1;V;p4
+4042;4042;っこい;rich in ...,high in ...,full of ...,very ...,quite ...;こい;3866;96.73765459;0.00100328;;-1;V;p4
+4043;4043;つのる;to become stronger,to grow in intensity,to grow violent,to become worse;つのる;3866;96.73865787;0.00100328;N1;37;V;p4
+4044;4044;ツブ;whelk (esp. Neptunea and Buccinum spp.);つぶ;3866;96.73966116;0.00100328;;-1;V;p4
+4045;4045;デー;day (as in holiday);デー;3866;96.74066444;0.00100328;;-1;V;p4
+4046;4046;ですら;even;でさえ;3866;96.74166773;0.00100328;;-1;V;p4
+4047;4047;でん;legend,tradition;でん;3866;96.74267101;0.00100328;;-1;V;p4
+4048;4048;どころ;the place for,the time for,the level of;どころ;3866;96.74367429;0.00100328;;-1;V;p4
+4049;4049;としても;even if ...,even supposing that ...;としても;3866;96.74467758;0.00100328;;-1;V;p4
+4050;4050;トモエ;Baikal teal (species of dabbling duck, Anas formosa);ともえがも;3866;96.74568086;0.00100328;;-1;V;p4
+4051;4051;どれか;which one;どれか;3866;96.74668415;0.00100328;;-1;V;p4
+4052;4052;ナイ;knife;ナイフ;3866;96.74768743;0.00100328;N5;-1;V;p4
+4053;4053;なおさら;still more,even more,all the more;なおさら;3866;96.74869071;0.00100328;N1;56;V;p4
+4054;4054;なだめる;to soothe,to calm,to pacify;なだめる;3866;96.74969399999999;0.00100328;;-1;V;p4
+4055;4055;なんだかんだ;something or other,one thing or another,this or that;なんだかんだ;3866;96.75069728;0.00100328;N1;-1;V;p4
+4056;4056;なんとなく;somehow or other,for some reason or another,without knowing why;なんとなく;3866;96.75170057;0.00100328;N2;-1;V;p4
+4057;4057;にかけて;till,to,over (a period),through (e.g. Monday through Thursday),about (approx. time or place),on;にかけて;3866;96.75270385;0.00100328;;-1;V;p4
+4058;4058;にも拘わらず;in spite of,nevertheless,although,despite,no matter the,regardless of;にもかかわらず;3866;96.75370713;0.00100328;N1;-1;V;p4
+4059;4059;ニヤニヤ;grinning,smirking;ニヤニヤ;3866;96.75471042;0.00100328;;-1;V;p4
+4060;4060;に対して;towards,against,regarding,in contrast with;にたいして;3866;96.7557137;0.00100328;;-1;V;p4
+4061;4061;に対する;regarding,in,to,towards,with regards to;にたいする;3866;96.75671699;0.00100328;;-1;V;p4
+4062;4062;ぬいぐるみ;stuffed toy,stuffed animal,plush toy,soft toy,cuddly toy;ぬいぐるみ;3866;96.75772027;0.00100328;;-1;V;p4
+4063;4063;ヌルヌル;slimy,slippery,greasy,clammy;ヌルヌル;3866;96.75872356;0.00100328;;-1;V;p4
+4064;4064;ねェ;right?,don't you think;ね;3866;96.75972684;0.00100328;;-1;V;p4
+4065;4065;はあ;yes,indeed,well;はあ;3866;96.76073012;0.00100328;N3;-1;V;p4
+4066;4066;パーッと;with energy (of parties and such),enthusiastically,going all out;パーッと;3866;96.76173341;0.00100328;;-1;V;p4
+4067;4067;バイク;motorcycle,motorbike;バイク;3866;96.76273669;0.00100328;;-1;V;p4
+4068;4068;ハキハキ;briskly,smartly,promptly,clearly,lucidly;はきはき;3866;96.76373998;0.00100328;N2;-1;V;p4
+4069;4069;パスカル;pascal (unit of pressure);パスカル;3866;96.76474326;0.00100328;;-1;V;p4
+4070;4070;パターン;pattern;パターン;3866;96.76574654;0.00100328;N2;-1;V;p4
+4071;4071;パタゴニア;Patagonia (clothing);;3866;96.76674983;0.00100328;;-1;V;p4
+4072;4072;バトル;battle;バトル;3866;96.76775311;0.00100328;;-1;V;p4
+4073;4073;ハマる;to fit,to get into,to go into,to be fitted with (e.g. door with a window);はまる;3866;96.7687564;0.00100328;N1;-1;V;p4
+4074;4074;ハメ;fucking,screwing,having sex;ハメ;3866;96.76975968;0.00100328;;-1;V;p4
+4075;4075;ばる;balcony;バル;3866;96.77076296;0.00100328;;-1;V;p4
+4076;4076;はるばる;from afar,over a great distance,all the way;はるばる;3866;96.77176625;0.00100328;;-1;V;p4
+4077;4077;パン;bread,pastries (e.g. croissants),pastry-based products;パン;3866;96.77276953;0.00100328;N5;-1;V;p4
+4078;4078;ハンカチ;handkerchief;ハンカチ;3866;96.77377282;0.00100328;N5;-1;V;p4
+4079;4079;ヒーリング;healing (esp. through alternative therapies, music, color therapy, supernatural powers, etc.);ヒーリング;3866;96.7747761;0.00100328;;-1;V;p4
+4080;4080;ヒエログリフ;hieroglyph,hieroglyphics;ヒエログリフ;3866;96.77577938;0.00100328;;-1;V;p4
+4081;4081;ひき逃げ;hit-and-run (causing personal injury);ひきにげ;3866;96.77678267;0.00100328;;-1;V;p4
+4082;4082;ひたむき;earnest,single-minded;ひたむき;3866;96.77778595;0.00100328;;-1;V;p4
+4083;4083;ビデオ;video;ビデオ;3866;96.77878924;0.00100328;N3;-1;V;p4
+4084;4084;ひどく;very much,terribly,badly,awfully,extremely;ひどく;3866;96.77979252;0.00100328;;-1;V;p4
+4085;4085;ひとしきり;for a while,for some time,for a period;ひとしきり;3866;96.78079579999999;0.00100328;;-1;V;p4
+4086;4086;ひとまず;for now,for the time being,for the present;ひとまず;3866;96.78179909;0.00100328;N2;-1;V;p4
+4087;4087;フェザー;feather;フェザー;3866;96.78280237;0.00100328;;-1;V;p4
+4088;4088;ふき;giant butterbur (Petasites japonicus),Japanese sweet coltsfoot;ふき;3866;96.78380566;0.00100328;;-1;V;p4
+4089;4089;ぶつける;to hit (e.g. one's head),to strike,to crash into;ぶつける;3866;96.78480894;0.00100328;N2;-1;V;p4
+4090;4090;フラフラ;unsteadily (e.g. on one's feet),shakily,staggering,tottering,reeling,dizzily,giddily;ふらふら;3866;96.78581223;0.00100328;;-1;V;p4
+4091;4091;フランス;France;フランス;3866;96.78681551;0.00100328;;-1;V;p4
+4092;4092;フランス語;French (language);フランスご;3866;96.78781879;0.00100328;;10;V;p4
+4093;4093;ぶら下げる;to hang,to suspend,to dangle,to swing,to carry;ぶらさげる;3866;96.78882208;0.00100328;N2;-1;V;p4
+4094;4094;フン;Hun;フン;3866;96.78982536;0.00100328;;-1;V;p4
+4095;4095;ページ;page;ページ;3866;96.79082865;0.00100328;N5;-1;V;p4
+4096;4096;ペン;pen;ペン;3866;96.79183193;0.00100328;N2;-1;V;p4
+4097;4097;ほいほい;recklessly,thoughtlessly,carelessly,readily,blithely,willingly,easily;ほいほい;3866;96.79283521;0.00100328;;-1;V;p4
+4098;4098;ボーイ;boy;ボーイ;3866;96.7938385;0.00100328;N3;-1;V;p4
+4099;4099;まいる;to go,to come,to call;まいる;3866;96.79484178;0.00100328;N4;14;V;p4
+4100;4100;まう;to dance (orig. a whirling dance);まう;3866;96.79584507;0.00100328;N1;36;V;p4
+4101;4101;まかなう;to supply (goods, money, etc.),to cover (costs),to pay,to finance,to maintain (e.g. a family);まかなう;3866;96.79684835;0.00100328;N1;38;V;p4
+4102;4102;まくる;to turn up,to roll up (e.g. sleeves);まくる;3866;96.79785163;0.00100328;N1;-1;V;p4
+4103;4103;マスク;(face) mask;マスク;3866;96.79885492;0.00100328;N2;-1;V;p4
+4104;4104;まだしも;rather,better;まだしも;3866;96.7998582;0.00100328;;-1;V;p4
+4105;4105;まぶしい;dazzling,radiant;まぶしい;3866;96.80086149;0.00100328;N2;-1;V;p4
+4106;4106;ままごと;playing house;ままごと;3866;96.80186477;0.00100328;;-1;V;p4
+4107;4107;マン;man;マン;3866;96.80286805;0.00100328;;-1;V;p4
+4108;4108;まんまと;successfully,fairly,artfully,nicely,thoroughly;まんまと;3866;96.80387134;0.00100328;;-1;V;p4
+4109;4109;ミステリアス;mysterious;ミステリアス;3866;96.80487462;0.00100328;;-1;V;p4
+4110;4110;みせる;to show,to display;みせる;3866;96.80587791;0.00100328;N5;4;V;p4
+4111;4111;ミツ;honeybee (Apis sp.),honey bee;みつばち;3866;96.80688119;0.00100328;;-1;V;p4
+4112;4112;ミルク;milk;ミルク;3866;96.80788448;0.00100328;N3;-1;V;p4
+4113;4113;ミレニアム;millennium;ミレニアム;3866;96.80888776;0.00100328;;-1;V;p4
+4114;4114;むかえる;to go out to meet;むかえる;3866;96.80989104;0.00100328;N4;32;V;p4
+4115;4115;メイン;main,principal part;メイン;3866;96.81089433;0.00100328;;-1;V;p4
+4116;4116;めさる;Name;;3866;96.81189761;0.00100328;;-1;V;p4
+4117;4117;メンツ;face,honour,honor;メンツ;3866;96.8129009;0.00100328;;-1;V;p4
+4118;4118;もう一つ;another,one more;もうひとつ;3866;96.81390418;0.00100328;;-1;V;p4
+4119;4119;もち;mochi,(sticky) rice cake;もち;3866;96.81490746;0.00100328;N2;-1;V;p4
+4120;4120;もっかい;once more,once again;もっかい;3866;96.81591075;0.00100328;;-1;V;p4
+4121;4121;もつれる;to get entangled,to get tangled,to tangle;もつれる;3866;96.81691403;0.00100328;;-1;V;p4
+4122;4122;もてはやす;to praise extravagantly,to lionize,to lionise,to make much of;もてはやす;3866;96.81791732;0.00100328;;-1;V;p4
+4123;4123;ものか;"as if (something untrue were actually true),like hell (e.g. ""like hell I will"")";ものか;3866;96.81892059999998;0.00100328;;-1;V;p4
+4124;4124;やさしい;easy,plain,simple;やさしい;3866;96.81992388;0.00100328;N5;19;V;p4
+4125;4125;やり残し;things left undone;やりのこし;3866;96.82092717;0.00100328;;-1;V;p4
+4126;4126;ゆがめる;to bend,to curve,to warp,to distort,to disfigure;ゆがめる;3866;96.82193045;0.00100328;;-1;V;p4
+4127;4127;ようこそ;welcome!,nice to see you!;ようこそ;3866;96.82293374;0.00100328;;-1;V;p4
+4128;4128;よこしま;wicked,evil;よこしま;3866;96.82393702;0.00100328;;50;V;p4
+4129;4129;よりによって;of all (things, people, places, days, etc.);よりによって;3866;96.8249403;0.00100328;;-1;V;p4
+4130;4130;りか;science (inc. mathematics, medicine, etc.),natural science;りか;3866;96.82594359;0.00100328;N2;-1;V;p4
+4131;4131;リポーター;reporter;リポーター;3866;96.82694687;0.00100328;;-1;V;p4
+4132;4132;レッスン;lesson;レッスン;3866;96.82795016;0.00100328;N1;-1;V;p4
+4133;4133;レモン;lemon;レモン;3866;96.82895344;0.00100328;;-1;V;p4
+4134;4134;ローカル;local;ローカル;3866;96.82995673;0.00100328;;-1;V;p4
+4135;4135;ロケ;location (e.g. of film shoot),remote (shoot at a remote location);ロケ;3866;96.83096001;0.00100328;;-1;V;p4
+4136;4136;ワイルド;wild;ワイルド;3866;96.83196329;0.00100328;;-1;V;p4
+4137;4137;わざと;on purpose;わざと;3866;96.83296658;0.00100328;N3;22;V;p4
+4138;4138;一切;all,everything,entirety,the whole;いっさい;3866;96.83396986;0.00100328;N1;-1;V;p4
+4139;4139;一撃;blow,hit,poke;いちげき;3866;96.83497315;0.00100328;;-1;V;p4
+4140;4140;一方的;one-sided,unilateral,arbitrary;いっぽうてき;3866;96.83597643;0.00100328;;-1;V;p4
+4141;4141;万年筆;fountain pen;まんねんひつ;3866;96.83697971;0.00100328;N5;26;V;p4
+4142;4142;三角形;triangle;さんかくけい;3866;96.837983;0.00100328;;7;V;p4
+4143;4143;上映;screening (a movie),showing;じょうえい;3866;96.83898628;0.00100328;;-1;V;p4
+4144;4144;下手っぴ;unskilled,awkward,bad,clumsy,poor;へたっぴ;3866;96.83998957;0.00100328;;-1;V;p4
+4145;4145;下級生;student in a lower grade,underclassman;かきゅうせい;3866;96.84099285;0.00100328;;-1;V;p4
+4146;4146;不便;inconvenience,inexpediency,unhandiness;ふべん;3866;96.84199613;0.00100328;N4;11;V;p4
+4147;4147;不可分;atomic,indivisibility;ふかぶん;3866;96.84299942;0.00100328;;20;V;p4
+4148;4148;不器用;clumsy,awkward,unskillfulness,lack of ability;ぶきよう;3866;96.8440027;0.00100328;;-1;V;p4
+4149;4149;不在;absence;ふざい;3866;96.84500599;0.00100328;N1;-1;V;p4
+4150;4150;不審者;suspicious person;ふしんしゃ;3866;96.84600927;0.00100328;;-1;V;p4
+4151;4151;不毛;barren,sterile,infertile;ふもう;3866;96.84701255;0.00100328;;-1;V;p4
+4152;4152;世界一;best in the world;せかいいち;3866;96.84801584;0.00100328;;-1;V;p4
+4153;4153;世紀;century;せいき;3866;96.84901912;0.00100328;N3;15;V;p4
+4154;4154;中には;among (them),of (them);なかには;3866;96.85002241;0.00100328;;-1;V;p4
+4155;4155;中学生;junior high school student,middle school pupil;ちゅうがくせい;3866;96.85102569;0.00100328;;7;V;p4
+4156;4156;中心;center,centre,middle,heart,core,focus,pivot,emphasis,balance;ちゅうしん;3866;96.85202897;0.00100328;N3;-1;V;p4
+4157;4157;中止;suspension,stoppage,discontinuance,interruption;ちゅうし;3866;96.85303226;0.00100328;N3;3;V;p4
+4158;4158;丸い;round,circular,spherical;まるい;3866;96.85403554;0.00100328;N3;2;V;p4
+4159;4159;丸める;to make round,to roll up,to curl up;まるめる;3866;96.85503883;0.00100328;N1;-1;V;p4
+4160;4160;乗り気;interest,eagerness,enthusiasm;のりき;3866;96.85604211;0.00100328;;-1;V;p4
+4161;4161;二人目;second person;ふたりめ;3866;96.8570454;0.00100328;;-1;V;p4
+4162;4162;五;five;ご;3866;96.85804868;0.00100328;N5;2;V;p4
+4163;4163;交わす;to exchange (messages, greetings, arguments, etc.);かわす;3866;96.85905196;0.00100328;N1;-1;V;p4
+4164;4164;交代;alternation,change,relief,relay,shift,substitution (sports, etc.),taking turns;こうたい;3866;96.86005525;0.00100328;N2;-1;V;p4
+4165;4165;人の子;(somebody's) child,person with parents,(also) human,born human;ひとのこ;3866;96.86105853;0.00100328;;-1;V;p4
+4166;4166;人殺し;murder,murderer;ひとごろし;3866;96.86206182;0.00100328;;15;V;p4
+4167;4167;人目;public gaze,public notice,attention;ひとめ;3866;96.8630651;0.00100328;N1;-1;V;p4
+4168;4168;今こそ;now is the time;いまこそ;3866;96.86406838;0.00100328;;-1;V;p4
+4169;4169;今ごろ;about this time;いまごろ;3866;96.86507167;0.00100328;;-1;V;p4
+4170;4170;今では;now,nowadays;いまでは;3866;96.86607495;0.00100328;;-1;V;p4
+4171;4171;今宵;this evening,tonight;こよい;3866;96.86707824;0.00100328;;-1;V;p4
+4172;4172;仕上がる;to be finished,to be completed,to be done;しあがる;3866;96.86808152;0.00100328;N2;-1;V;p4
+4173;4173;仕上げ;finish,finishing,finishing touches;しあげ;3866;96.8690848;0.00100328;N1;-1;V;p4
+4174;4174;仕組み;structure,construction,arrangement,contrivance,mechanism,workings;しくみ;3866;96.87008809;0.00100328;N1;-1;V;p4
+4175;4175;仕草;gesture,movement,action,behavior,behaviour,bearing,mannerism;しぐさ;3866;96.87109137;0.00100328;;5;V;p4
+4176;4176;仕込む;to train,to teach,to educate;しこむ;3866;96.87209466;0.00100328;;-1;V;p4
+4177;4177;他所;another place,somewhere else,strange parts;よそ;3866;96.87309794;0.00100328;N2;8;V;p4
+4178;4178;他校;another school,other schools;たこう;3866;96.87410122;0.00100328;;-1;V;p4
+4179;4179;代わる;to succeed,to relieve,to replace;かわる;3866;96.87510451;0.00100328;N2;25;V;p4
+4180;4180;代表;representative,representation,delegation,type,example,model;だいひょう;3866;96.87610779;0.00100328;N3;-1;V;p4
+4181;4181;以来;since,henceforth;いらい;3866;96.87711108;0.00100328;N3;-1;V;p4
+4182;4182;仲間外れ;being left out,being ostracized;なかまはずれ;3866;96.87811436;0.00100328;;-1;V;p4
+4183;4183;任す;to entrust,to leave to a person;まかす;3866;96.87911765;0.00100328;N1;-1;V;p4
+4184;4184;休み中;closed,on break;おやすみちゅう;3866;96.88012093;0.00100328;;-1;V;p4
+4185;4185;休校;(temporary) closure of school;きゅうこう;3866;96.88112421;0.00100328;;-1;V;p4
+4186;4186;会社;company,corporation;かいしゃ;3866;96.8821275;0.00100328;N5;5;V;p4
+4187;4187;佐藤;Satō;;3866;96.88313078;0.00100328;;-1;V;p4
+4188;4188;体当たり;ramming attack,hurling oneself (at);たいあたり;3866;96.88413407;0.00100328;;-1;V;p4
+4189;4189;体格;physique,constitution;たいかく;3866;96.88513735;0.00100328;N1;-1;V;p4
+4190;4190;体調不良;poor physical health,bad shape;たいちょうふりょう;3866;96.88614063;0.00100328;;-1;V;p4
+4191;4191;何らか;some,any,in any way,of some kind,of some sort;なんらか;3866;96.88714392;0.00100328;;-1;V;p4
+4192;4192;何事も;anything,whatever;なにごとも;3866;96.8881472;0.00100328;;-1;V;p4
+4193;4193;何度でも;any number of times;なんどでも;3866;96.88915049;0.00100328;;-1;V;p4
+4194;4194;余る;to remain,to be left over,to be in excess,to be too many;あまる;3866;96.89015377;0.00100328;N2;20;V;p4
+4195;4195;余寒;lingering winter;よかん;3866;96.89115705;0.00100328;;-1;V;p4
+4196;4196;作り出す;to manufacture,to produce,to raise (crops);つくりだす;3866;96.89216034;0.00100328;;-1;V;p4
+4197;4197;作用;action,operation,effect,function;さよう;3866;96.89316362;0.00100328;N1;5;V;p4
+4198;4198;使い;errand,mission,going as envoy;つかい;3866;96.89416691;0.00100328;N1;-1;V;p4
+4199;4199;使用;use,application,employment,utilization,utilisation;しよう;3866;96.89517019;0.00100328;N3;9;V;p4
+4200;4200;例外;exception;れいがい;3866;96.89617347;0.00100328;N2;14;V;p4
+4201;4201;便利;convenient,handy,useful;べんり;3866;96.89717676;0.00100328;N5;11;V;p4
+4202;4202;値段;price,cost;ねだん;3866;96.89818004;0.00100328;N4;27;V;p4
+4203;4203;偽;imitation,fake,phony,counterfeit,forged,bogus,sham;にせ;3866;96.89918333;0.00100328;;41;V;p4
+4204;4204;傷つける;to wound,to injure;きずつける;3866;96.90018661;0.00100328;;34;V;p4
+4205;4205;儲かる;to be profitable,to yield a profit;もうかる;3866;96.90118989;0.00100328;N2;-1;V;p4
+4206;4206;元気いっぱい;brimming with health (vigor, vigour),full of vitality,full of health;げんきいっぱい;3866;96.90219318;0.00100328;;-1;V;p4
+4207;4207;兄;older brother,elder brother;あに;3866;96.90319646;0.00100328;N5;5;V;p4
+4208;4208;克服;conquest (of a difficulty, illness, handicap, etc.),overcoming,bringing under control,subjugation,victory over;こくふく;3866;96.90419975;0.00100328;N3;44;V;p4
+4209;4209;入学;entry to school or university,matriculation,enrolment (in university, etc.) (enrollment);にゅうがく;3866;96.90520303;0.00100328;N4;5;V;p4
+4210;4210;入浴;bathing;にゅうよく;3866;96.90620632;0.00100328;N1;-1;V;p4
+4211;4211;共通;common,shared,mutual;きょうつう;3866;96.90720959999999;0.00100328;N3;-1;V;p4
+4212;4212;共鳴;resonance,sympathetic (sound),(being in) sympathy;きょうめい;3866;96.90821288;0.00100328;N1;-1;V;p4
+4213;4213;内面;inside,interior;ないめん;3866;96.90921617;0.00100328;;-1;V;p4
+4214;4214;冷;cold water;ひや;3866;96.91021945;0.00100328;;-1;V;p4
+4215;4215;冷ます;to cool (e.g. from a high temperature to room temperature),to let cool;さます;3866;96.91122274;0.00100328;N2;-1;V;p4
+4216;4216;冷蔵庫;refrigerator,fridge;れいぞうこ;3866;96.91222602;0.00100328;N5;33;V;p4
+4217;4217;凄い;terrible,dreadful;すごい;3866;96.9132293;0.00100328;N4;-1;V;p4
+4218;4218;凝る;to become stiff (of muscles);こる;3866;96.91423259;0.00100328;;55;V;p4
+4219;4219;出し;dashi (Japanese soup stock made from fish and kelp);だし;3866;96.91523587;0.00100328;;-1;V;p4
+4220;4220;出ろ;origin,source,authority;しゅっしょ;3866;96.91623916;0.00100328;;8;V;p4
+4221;4221;出入り;going in and out,entering and exiting;でいり;3866;96.91724244;0.00100328;N2;-1;V;p4
+4222;4222;出張る;to project,to stand out,to jut out,to protrude;でばる;3866;96.91824572;0.00100328;;-1;V;p4
+4223;4223;出方;attitude,approach,move;でかた;3866;96.91924901;0.00100328;;-1;V;p4
+4224;4224;出演;performance,appearance (in a stage, film, TV show, etc.);しゅつえん;3866;96.92025229;0.00100328;N1;-1;V;p4
+4225;4225;出題;setting a question (for an exam, quiz, etc.);しゅつだい;3866;96.92125558;0.00100328;N1;-1;V;p4
+4226;4226;初心;original intention,initial resolution;しょしん;3866;96.92225886;0.00100328;;-1;V;p4
+4227;4227;判断;judgment,judgement,decision,conclusion,adjudication;はんだん;3866;96.92326214;0.00100328;N3;23;V;p4
+4228;4228;券;ticket,coupon,bond,certificate;けん;3866;96.92426543;0.00100328;N3;28;V;p4
+4229;4229;刺す;to pierce,to stab,to prick,to stick,to thrust;さす;3866;96.92526871;0.00100328;N2;26;V;p4
+4230;4230;刺激;stimulus,impetus,incentive,encouragement,motivation,provocation,excitement,thrill;しげき;3866;96.926272;0.00100328;N3;26;V;p4
+4231;4231;刻む;to mince,to cut fine,to chop up,to hash,to shred;きざむ;3866;96.92727528;0.00100328;N2;34;V;p4
+4232;4232;前向き;front-facing;まえむき;3866;96.92827857;0.00100328;;-1;V;p4
+4233;4233;副;assistant,associate,vice-,sub-,deputy,substitute,auxiliary,supplementary,additional,collateral;ふく;3866;96.92928185;0.00100328;;-1;V;p4
+4234;4234;副部長;deputy director,assistant director,vice director,deputy general manager,assistant general manager,vice (general) manager;ふくぶちょう;3866;96.93028513;0.00100328;;-1;V;p4
+4235;4235;割れる;to break,to be smashed;われる;3866;96.93128842;0.00100328;N4;25;V;p4
+4236;4236;力不足;lack of ability,inadequacy,(being) out of one's depth;ちからぶそく;3866;96.93229170000001;0.00100328;;-1;V;p4
+4237;4237;力添え;help,assistance,service;ちからぞえ;3866;96.93329499;0.00100328;;-1;V;p4
+4238;4238;加える;to add,to add up,to sum up,to append,to annex;くわえる;3866;96.93429827;0.00100328;N3;19;V;p4
+4239;4239;加減;degree,extent,amount,balance,state,condition;かげん;3866;96.93530155;0.00100328;N3;-1;V;p4
+4240;4240;労働;manual labor,manual labour,toil,work;ろうどう;3866;96.93630484;0.00100328;N3;11;V;p4
+4241;4241;動転;disturbance of mind,losing one's head,being upset,being astonished,being frightened;どうてん;3866;96.93730812;0.00100328;;-1;V;p4
+4242;4242;務める;to work (for),to be employed (at),to serve (in);つとめる;3866;96.93831141;0.00100328;N2;34;V;p4
+4243;4243;勝ち;win,victory;かち;3866;96.93931469;0.00100328;N3;11;V;p4
+4244;4244;勝利;victory,triumph,conquest,success,win;しょうり;3866;96.94031797;0.00100328;N1;-1;V;p4
+4245;4245;勤める;to work (for),to be employed (at),to serve (in);つとめる;3866;96.94132126;0.00100328;N2;34;V;p4
+4246;4246;勿体;superior airs,air of importance;もったい;3866;96.94232454;0.00100328;;-1;V;p4
+4247;4247;包丁;kitchen knife,carving knife;ほうちょう;3866;96.94332783;0.00100328;N2;41;V;p4
+4248;4248;医師;doctor,physician;いし;3866;96.94433111;0.00100328;N3;23;V;p4
+4249;4249;半ば;middle,half,semi,halfway,partly;なかば;3866;96.94533439;0.00100328;N3;-1;V;p4
+4250;4250;半径;radius;はんけい;3866;96.94633768;0.00100328;N2;31;V;p4
+4251;4251;占い;fortune-telling,divination;うらない;3866;96.94734096;0.00100328;;26;V;p4
+4252;4252;危;danger;き;3866;96.94834425;0.00100328;;-1;V;p4
+4253;4253;原因不明;cause unknown;げんいんふめい;3866;96.94934753;0.00100328;;-1;V;p4
+4254;4254;参謀;staff officer,military staff;さんぼう;3866;96.95035082;0.00100328;;-1;V;p4
+4255;4255;及ぶ;to reach,to amount to,to befall,to happen to,to extend,to go on (for, until);およぶ;3866;96.9513541;0.00100328;N1;36;V;p4
+4256;4256;友;friend,companion,comrade,pal;とも;3866;96.95235738;0.00100328;N3;-1;V;p4
+4257;4257;双方;both parties,both sides;そうほう;3866;96.95336067;0.00100328;;-1;V;p4
+4258;4258;反抗期;rebellious phase,rebellious age;はんこうき;3866;96.95436395;0.00100328;;-1;V;p4
+4259;4259;収容;accommodation,reception,housing;しゅうよう;3866;96.95536724;0.00100328;N1;-1;V;p4
+4260;4260;取り出す;to take out,to produce,to pick out;とりだす;3866;96.95637052;0.00100328;N2;18;V;p4
+4261;4261;取り揃える;to assemble (e.g. goods into a set),to gather,to put together;とりそろえる;3866;96.9573738;0.00100328;;-1;V;p4
+4262;4262;受け止める;to catch,to stop the blow;うけとめる;3866;96.95837709;0.00100328;N1;-1;V;p4
+4263;4263;受験勉強;studying for a test (esp. school or university entrance examinations);じゅけんべんきょう;3866;96.95938037;0.00100328;;-1;V;p4
+4264;4264;口実;excuse,pretext;こうじつ;3866;96.96038366;0.00100328;N2;-1;V;p4
+4265;4265;召集;convening,calling together (e.g. parliament),call-up (for military service);しょうしゅう;3866;96.96138694;0.00100328;;-1;V;p4
+4266;4266;史;history;し;3866;96.96239022;0.00100328;;-1;V;p4
+4267;4267;号泣;crying aloud,lamentation,wailing;ごうきゅう;3866;96.96339351;0.00100328;;-1;V;p4
+4268;4268;合わす;to match (rhythm, speed, etc.);あわす;3866;96.96439679;0.00100328;N1;-1;V;p4
+4269;4269;吊るす;to hang,to hang up;つるす;3866;96.96540008;0.00100328;N2;-1;V;p4
+4270;4270;同一人物;the very same person;どういつじんぶつ;3866;96.96640336;0.00100328;;-1;V;p4
+4271;4271;同級生;classmate;どうきゅうせい;3866;96.96740664;0.00100328;;-1;V;p4
+4272;4272;向き;direction,orientation,aspect,exposure;むき;3866;96.96840993;0.00100328;N1;-1;V;p4
+4273;4273;含める;to include (in a group or scope);ふくめる;3866;96.96941321;0.00100328;N2;-1;V;p4
+4274;4274;吸い込む;to inhale,to breathe in,to suck up,to imbibe;すいこむ;3866;96.9704165;0.00100328;;-1;V;p4
+4275;4275;吹ける;to blow against,to spray (paint, etc.) (onto a surface);ふきつける;3866;96.97141978;0.00100328;;-1;V;p4
+4276;4276;告;confession,acknowledgement,acknowledgment;こくはく;3866;96.97242306;0.00100328;N1;18;V;p4
+4277;4277;告げる;to tell,to inform,to announce;つげる;3866;96.97342635;0.00100328;N1;18;V;p4
+4278;4278;周辺;circumference,outskirts,environs,around,in the area of,in the vicinity of;しゅうへん;3866;96.97442963;0.00100328;N2;-1;V;p4
+4279;4279;呪う;to curse,to put a curse on,to detest intensely;のろう;3866;96.97543292;0.00100328;;45;V;p4
+4280;4280;味噌;miso,fermented condiment usu. made from soybeans;みそ;3866;96.97643620000001;0.00100328;N4;35;V;p4
+4281;4281;命綱;lifeline;いのちづな;3866;96.97743949;0.00100328;;-1;V;p4
+4282;4282;和歌;waka,classic Japanese poem, esp. a tanka, often 31 morae;わか;3866;96.97844277;0.00100328;;-1;V;p4
+4283;4283;品;elegance,grace,refinement,class,dignity;ひん;3866;96.97944605;0.00100328;N3;-1;V;p4
+4284;4284;商品;commodity,article of commerce,goods,stock,merchandise;しょうひん;3866;96.98044934;0.00100328;N3;16;V;p4
+4285;4285;問;question,query;とい;3866;96.98145262;0.00100328;N3;-1;V;p4
+4286;4286;問題児;problem child;もんだいじ;3866;96.98245591;0.00100328;;-1;V;p4
+4287;4287;喰う;to eat;くう;3866;96.98345919;0.00100328;N3;-1;V;p4
+4288;4288;噛み締める;to chew thoroughly,to bite (e.g. one's lip);かみしめる;3866;96.98446247;0.00100328;;-1;V;p4
+4289;4289;噛む;to bite;かむ;3866;96.98546576;0.00100328;N4;-1;V;p4
+4290;4290;図書室;library (usu. single-room),small library;としょしつ;3866;96.98646904;0.00100328;;-1;V;p4
+4291;4291;地域;area,region;ちいき;3866;96.98747233;0.00100328;N3;22;V;p4
+4292;4292;地形;terrain,geographical features,topography;ちけい;3866;96.98847561;0.00100328;N1;-1;V;p4
+4293;4293;地球温暖化;global warming;ちきゅうおんだんか;3866;96.98947889;0.00100328;;-1;V;p4
+4294;4294;基準;standard,basis,criterion,norm,reference,datum;きじゅん;3866;96.99048218;0.00100328;N2;24;V;p4
+4295;4295;堰を切ったよう;gushing forth,bursting out,like breaking a dam;せきをきったよう;3866;96.99148546;0.00100328;;-1;V;p4
+4296;4296;報じる;to inform,to report;ほうじる;3866;96.99248875;0.00100328;N1;18;V;p4
+4297;4297;塞ぐ;to stop up,to close up,to block (up),to plug up,to shut up,to cover (ears, eyes, etc.),to close (eyes, mouth);ふさぐ;3866;96.99349203;0.00100328;N2;-1;V;p4
+4298;4298;増やす;to increase,to add to,to augment;ふやす;3866;96.99449531;0.00100328;N2;23;V;p4
+4299;4299;変人;eccentric,crank,oddball;へんじん;3866;96.99549859999999;0.00100328;;15;V;p4
+4300;4300;変更;change,modification,alteration,revision,amendment;へんこう;3866;96.99650188;0.00100328;N3;30;V;p4
+4301;4301;夏期;summer term (e.g. school),summer period;かき;3866;96.99750517;0.00100328;;-1;V;p4
+4302;4302;外出;going out,outing,leaving (one's home, office, etc.);がいしゅつ;3866;96.99850845;0.00100328;N3;-1;V;p4
+4303;4303;多;multi-;た;3866;96.99951174;0.00100328;;-1;V;p4

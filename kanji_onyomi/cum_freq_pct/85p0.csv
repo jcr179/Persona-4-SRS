@@ -1,0 +1,44 @@
+﻿;Unnamed: 0;Ja;En;Kunyomi;Onyomi;Frequency Rank;Cumulative Freq. Pct.;Frequency Pct.;JLPT Level;WK Level;Item Type;Tags
+276;276;地;ground,earth;;ち;275;82.55222751;0.0627069;N3;6;K;p4
+277;277;羽;feathers,counter for birds;は;う;275;82.61493441;0.0627069;N3;5;K;p4
+278;278;覆;capsize,cover,shade,mantle,be ruined;おおう;ふく;275;82.67764132;0.0627069;N3;51;K;p4
+279;279;習;learn;ならう;しゅう;280;82.73978329;0.06214198;N5;10;K;p4
+280;280;落;fall,drop,come down,village,hamlet;おちる;らく;280;82.80192527;0.06214198;N4;10;K;p4
+281;281;葉;leaf,plane,lobe,needle,blade,spear,counter for flat things,fragment,piece;は;よう;280;82.86406725;0.06214198;N4;10;K;p4
+282;282;稲;rice plant;いね;とう;283;82.9256443;0.06157705;N3;39;K;p4
+283;283;要;need,main point,essence,pivot,key to;いる;よう;284;82.98665642;0.06101212;N5;9;K;p4
+284;284;遊;play;あそぶ;ゆう;284;83.04766855;0.06101212;N4;32;K;p4
+285;285;院;Inst.,institution,temple,mansion,school;;いん;286;83.10811574;0.0604472;;-1;K;p4
+286;286;得;gain,get,find,earn,acquire,can,may,able to,profit,advantage,benefit;える;とく;287;83.16799801;0.05988227;N3;19;K;p4
+287;287;発;departure,discharge,publish,emit,start from,disclose,counter for gunshots;たつ;はつ;287;83.22788028;0.05988227;N4;9;K;p4
+288;288;絶;discontinue,sever,cut off,abstain,interrupt,suppress,be beyond,without match,peerless,unparalleled;たえる;ぜつ;287;83.28776255;0.05988227;N3;43;K;p4
+289;289;化;change,take the form of,influence,enchant,delude,-ization;ばける;か;290;83.34707989;0.05931734;N3;47;K;p4
+290;290;安;relax,cheap,low,quiet,rested,contented,peaceful;やすい;あん;291;83.40583231;0.05875242;N5;6;K;p4
+291;291;止;stop,halt;とまる;し;292;83.4640198;0.05818749;N5;3;K;p4
+292;292;約;promise,approximately,shrink;つづまる;やく;292;83.52220728;0.05818749;N3;14;K;p4
+293;293;能;ability,talent,skill,capacity;よく;のう;292;83.58039477;0.05818749;N3;14;K;p4
+294;294;役;duty,war,campaign,drafted labor,office,service,role;;やく;295;83.63801733;0.05762256;N3;8;K;p4
+295;295;絆;bonds,fetters;きずな;はん;295;83.69563989;0.05762256;;-1;K;p4
+296;296;失;lose,error,fault,disadvantage,loss;うしなう;しつ;297;83.75269753;0.05705763;N2;17;K;p4
+297;297;寝;lie down,sleep,rest,bed,remain unsold;ねる;しん;297;83.80975516;0.05705763;N5;22;K;p4
+298;298;肉;meat;しし;にく;297;83.86681279;0.05705763;N5;5;K;p4
+299;299;勉;exertion,endeavour,encourage,strive,make effort,diligent;つとめる;べん;300;83.92330550000001;0.05649271;N5;12;K;p4
+300;300;彼;he,that,the;かれ;ひ;300;83.97979821;0.05649271;N4;35;K;p4
+301;301;晴;clear up;はれる;せい;300;84.03629091;0.05649271;N5;15;K;p4
+302;302;流;current,a sink,flow,forfeit;ながれる;りゅう;300;84.09278362;0.05649271;N3;14;K;p4
+303;303;守;guard,protect,defend,obey;まもる;しゅ;304;84.14871140000001;0.05592778;N3;16;K;p4
+304;304;達;accomplished,reach,arrive,attain;たち;たつ;304;84.20463918;0.05592778;;-1;K;p4
+305;305;八;eight,eight radical (no. 12);や;はち;306;84.26000203;0.05536285;N5;1;K;p4
+306;306;嫌;dislike,detest,hate;きらう;けん;306;84.31536489;0.05536285;N5;20;K;p4
+307;307;答;solution,answer;こたえる;とう;306;84.37072774;0.05536285;N4;8;K;p4
+308;308;起;rouse,wake up,get up;おきる;き;306;84.42609059;0.05536285;N5;10;K;p4
+309;309;苦;suffering,trial,worry,hardship,feel bitter,scowl;くるしい;く;310;84.48088852;0.05479793;N4;9;K;p4
+310;310;電;electricity;;でん;310;84.53568644;0.05479793;N5;8;K;p4
+311;311;口;mouth;くち;こう;312;84.58991944;0.054233;N5;1;K;p4
+312;312;期;period,time,date,term;;き;312;84.64415244;0.054233;N3;12;K;p4
+313;313;倒;overthrow,fall,collapse,drop,break down;たおれる;とう;314;84.69782051;0.05366807;N2;30;K;p4
+314;314;呼;call,call out to,invite;よぶ;こ;314;84.75148858;0.05366807;N5;23;K;p4
+315;315;始;commence,begin;はじめる;し;314;84.80515665;0.05366807;N5;13;K;p4
+316;316;組;association,braid,plait,construct,assemble,unite,cooperate,grapple;くむ;そ;314;84.85882473;0.05366807;N3;7;K;p4
+317;317;願;petition,request,vow,wish,hope;ねがう;がん;314;84.9124928;0.05366807;;-1;K;p4
+318;318;代;substitute,change,convert,replace,period,age,counter for decades of ages,generation,charge,rate,fee;かわる;だい;319;84.96559594;0.05310314;N1;4;K;p4

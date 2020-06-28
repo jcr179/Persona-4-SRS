@@ -1,0 +1,748 @@
+﻿;Unnamed: 0;Ja;En;Reading;Frequency Rank;Cumulative Freq. Pct.;Frequency Pct.;JLPT Level;WK Level;Item Type;Tags
+8424;8424;単独;sole,single,solo;たんどく;6483;99.25021236;0.00033443;N1;-1;V;p4
+8425;8425;単純;simple,plain,uncomplicated,straightforward;たんじゅん;6483;99.25054679;0.00033443;N3;34;V;p4
+8426;8426;単調;monotony,monotone,dullness;たんちょう;6483;99.25088122;0.00033443;N1;-1;V;p4
+8427;8427;単身赴任;job transfer away from one's home,taking up a new post leaving one's family behind;たんしんふにん;6483;99.25121565;0.00033443;;-1;V;p4
+8428;8428;博打;gambling,gaming;ばくち;6483;99.25155007;0.00033443;;28;V;p4
+8429;8429;占う;to tell someone's fortune,to forecast,to predict,to divine;うらなう;6483;99.2518845;0.00033443;N2;-1;V;p4
+8430;8430;危なく;nearly,almost,on the point of (doing);あぶなく;6483;99.25221893;0.00033443;;-1;V;p4
+8431;8431;危ぶむ;to fear,to doubt,to have misgivings about,to worry about,to be anxious about,to be apprehensive about;あやぶむ;6483;99.25255336;0.00033443;N1;-1;V;p4
+8432;8432;危篤;critical condition,being on the verge of death;きとく;6483;99.25288779;0.00033443;;59;V;p4
+8433;8433;危険人物;dangerous person,security risk;きけんじんぶつ;6483;99.25322221;0.00033443;;-1;V;p4
+8434;8434;危険信号;danger signal,red light;きけんしんごう;6483;99.25355664;0.00033443;;-1;V;p4
+8435;8435;危険物;hazardous materials,dangerous goods,explosives,combustibles;きけんぶつ;6483;99.25389107;0.00033443;;-1;V;p4
+8436;8436;即ち;that is,namely,i.e.;すなわち;6483;99.2542255;0.00033443;N3;-1;V;p4
+8437;8437;即答;immediate reply;そくとう;6483;99.25455993;0.00033443;;-1;V;p4
+8438;8438;即興;improvisation;そっきょう;6483;99.25489435;0.00033443;;43;V;p4
+8439;8439;却って;on the contrary,rather,all the more,instead;かえって;6483;99.25522878;0.00033443;N2;38;V;p4
+8440;8440;卸す;to sell wholesale;おろす;6483;99.25556321;0.00033443;N2;54;V;p4
+8441;8441;厄介;trouble,burden,nuisance,bother,worry;やっかい;6483;99.25589764;0.00033443;N3;35;V;p4
+8442;8442;厄介事;trouble,difficulty,burden;やっかいごと;6483;99.25623207;0.00033443;;-1;V;p4
+8443;8443;厚着;wearing thick clothes,dressing warmly;あつぎ;6483;99.25656649;0.00033443;;-1;V;p4
+8444;8444;原;field,plain,prairie,tundra,moor,wilderness;はら;6483;99.25690092;0.00033443;N3;-1;V;p4
+8445;8445;原チャ;motor scooter,moped,motorized bicycle;げんチャ;6483;99.25723535;0.00033443;;-1;V;p4
+8446;8446;原点;origin (coordinates),starting point;げんてん;6483;99.25756978;0.00033443;N1;-1;V;p4
+8447;8447;厳格;strict,severe,stern,rigid,rigorous,tough;げんかく;6483;99.25790421;0.00033443;;-1;V;p4
+8448;8448;厳禁;strict prohibition,ban,interdiction;げんきん;6483;99.25823863;0.00033443;;32;V;p4
+8449;8449;参上;calling on,visiting;さんじょう;6483;99.25857306;0.00033443;N1;-1;V;p4
+8450;8450;参考人;person given as a reference,witness;さんこうにん;6483;99.25890749;0.00033443;;-1;V;p4
+8451;8451;友情;friendship,fellowship,camaraderie;ゆうじょう;6483;99.25924192;0.00033443;N3;-1;V;p4
+8452;8452;友達付き合い;friendly relations,social relations,social life;ともだちづきあい;6483;99.25957635;0.00033443;;-1;V;p4
+8453;8453;反対方向;opposite direction;はんたいほうこう;6483;99.25991077;0.00033443;;-1;V;p4
+8454;8454;反復練習;practice by repetition,learning by rote;はんぷくれんしゅう;6483;99.2602452;0.00033443;;-1;V;p4
+8455;8455;反省の色;sign of remorse,indication of regret;はんせいのいろ;6483;99.26057963;0.00033443;;-1;V;p4
+8456;8456;反面;on the other hand,opposite side,reverse;はんめん;6483;99.26091406;0.00033443;;-1;V;p4
+8457;8457;反響;echo,reverberation;はんきょう;6483;99.26124849;0.00033443;N1;25;V;p4
+8458;8458;収束;conclusion,resolution,firming up (plans, etc.),coming together,returning to normal;しゅうそく;6483;99.26158291;0.00033443;;-1;V;p4
+8459;8459;収穫;harvest,crop,ingathering;しゅうかく;6483;99.26191734;0.00033443;N3;48;V;p4
+8460;8460;叔父貴;uncle (younger than one's parent);おじき;6483;99.26225177;0.00033443;;-1;V;p4
+8461;8461;取りえ;worth,merit,value,good point,redeeming feature,saving grace;とりえ;6483;99.2625862;0.00033443;;-1;V;p4
+8462;8462;取り合う;to take each other's hands,to clasp (hands);とりあう;6483;99.26292063;0.00033443;;-1;V;p4
+8463;8463;取り壊し;demolition,pulling down,destruction,dismantling;とりこわし;6483;99.26325505;0.00033443;;-1;V;p4
+8464;8464;取り寄せる;to order,to send away for,to have (something) sent to one;とりよせる;6483;99.26358948;0.00033443;N1;-1;V;p4
+8465;8465;取り押さえる;to seize,to capture,to arrest;とりおさえる;6483;99.26392391;0.00033443;;-1;V;p4
+8466;8466;取り柄;worth,merit,value,good point,redeeming feature,saving grace;とりえ;6483;99.26425834;0.00033443;;-1;V;p4
+8467;8467;取り残す;to leave behind;とりのこす;6483;99.26459277;0.00033443;;-1;V;p4
+8468;8468;取り沙汰;talk (of the town),rumour,rumor,gossip;とりざた;6483;99.2649272;0.00033443;;-1;V;p4
+8469;8469;取り的;low-ranking unsalaried wrestler (ranked below juryo);とりてき;6483;99.26526162;0.00033443;;-1;V;p4
+8470;8470;取り直す;to re-grip,to re-wrestle;とりなおす;6483;99.26559605;0.00033443;;-1;V;p4
+8471;8471;取り調べ;investigation (e.g. by police or prosecutors),examination,inquiry,enquiry;とりしらべ;6483;99.26593048;0.00033443;;-1;V;p4
+8472;8472;取調べ;investigation (e.g. by police or prosecutors),examination,inquiry,enquiry;とりしらべ;6483;99.26626491;0.00033443;;-1;V;p4
+8473;8473;受かる;to pass (examination);うかる;6483;99.26659934;0.00033443;N1;-1;V;p4
+8474;8474;受け継ぐ;to inherit,to succeed,to take over;うけつぐ;6483;99.26693376;0.00033443;N1;-1;V;p4
+8475;8475;受容;reception;じゅよう;6483;99.26726819;0.00033443;;-1;V;p4
+8476;8476;口ずさむ;to hum (a tune),to sing to oneself,to croon;くちずさむ;6483;99.26760262;0.00033443;N1;-1;V;p4
+8477;8477;口ばっかり;all talk (and no action);くちばかり;6483;99.26793705;0.00033443;;-1;V;p4
+8478;8478;口下手;defective speech,slowness of speech,poor talker,tongue-tied person;くちべた;6483;99.26827148;0.00033443;;-1;V;p4
+8479;8479;口出し;interference,meddling,butting in;くちだし;6483;99.2686059;0.00033443;;-1;V;p4
+8480;8480;口答え;retort,back talk,backchat;くちごたえ;6483;99.26894033;0.00033443;;-1;V;p4
+8481;8481;口論;quarrel,argument,row,(verbal) dispute;こうろん;6483;99.26927476;0.00033443;;-1;V;p4
+8482;8482;古事記;Kojiki,Records of Ancient Matters,Japan's oldest historical record;こじき;6483;99.26960919;0.00033443;;-1;V;p4
+8483;8483;古今;ancient and modern times,all ages,past and present;ここん;6483;99.26994362;0.00033443;;-1;V;p4
+8484;8484;古代文明;ancient civilization,ancient civilisation;こだいぶんめい;6483;99.27027804;0.00033443;;-1;V;p4
+8485;8485;古風;old-fashioned,archaic,antique,antiquated;こふう;6483;99.27061247;0.00033443;;-1;V;p4
+8486;8486;叩き付ける;to throw violently against,to slam against,to strike,to slap something onto,to dash (e.g. to the floor);たたきつける;6483;99.2709469;0.00033443;;-1;V;p4
+8487;8487;叩き込む;to drive into (e.g. a nail into a board),to hit into (e.g. a home run into the stands);たたきこむ;6483;99.27128133;0.00033443;;-1;V;p4
+8488;8488;叫び声;shout,yell,scream;さけびごえ;6483;99.27161576;0.00033443;;46;V;p4
+8489;8489;召し上がる;to eat,to drink;めしあがる;6483;99.27195018;0.00033443;N4;53;V;p4
+8490;8490;可哀相;poor,pitiable,pathetic,pitiful;かわいそう;6483;99.27228461;0.00033443;N3;47;V;p4
+8491;8491;台所;kitchen;だいどころ;6483;99.27261904;0.00033443;N5;10;V;p4
+8492;8492;史上;in history,ever,historical;しじょう;6483;99.27295347;0.00033443;;-1;V;p4
+8493;8493;号;number,edition,make,model,issue,part of that group;ごう;6483;99.27328790000001;0.00033443;N1;4;V;p4
+8494;8494;各;each,every,all;かく;6483;99.27362232;0.00033443;;22;V;p4
+8495;8495;各々;each,respectively;それぞれ;6483;99.27395675;0.00033443;N3;22;V;p4
+8496;8496;各所;each place,various places;かくしょ;6483;99.27429118;0.00033443;;-1;V;p4
+8497;8497;合いの子;person of mixed parentage,crossbreed,Eurasian,mulatto,hybrid;あいのこ;6483;99.27462561;0.00033443;;-1;V;p4
+8498;8498;合わさる;to join,to be put together,to combine,to unite,to fit,to close (e.g. of a wound);あわさる;6483;99.27496004;0.00033443;;-1;V;p4
+8499;8499;合わせ;joint together,opposite,facing;あわせ;6483;99.27529446;0.00033443;N1;-1;V;p4
+8500;8500;合わせて;in all,in total,collectively;あわせて;6483;99.27562889;0.00033443;;-1;V;p4
+8501;8501;合法;legal,lawful,legitimate;ごうほう;6483;99.27596332;0.00033443;;-1;V;p4
+8502;8502;合法的;legal,lawful,legitimate,law-abiding,in order;ごうほうてき;6483;99.27629775;0.00033443;;-1;V;p4
+8503;8503;同い年;the same age;おないどし;6483;99.27663218;0.00033443;N1;-1;V;p4
+8504;8504;同伴;accompanying,being accompanied by,going with;どうはん;6483;99.2769666;0.00033443;;38;V;p4
+8505;8505;同僚;coworker,co-worker,colleague,associate;どうりょう;6483;99.27730103;0.00033443;N3;29;V;p4
+8506;8506;同化;assimilation,absorption;どうか;6483;99.27763546;0.00033443;;-1;V;p4
+8507;8507;同居;coexistence,living together;どうきょ;6483;99.27796989;0.00033443;N1;-1;V;p4
+8508;8508;同年代;the same generation,coeval;どうねんだい;6483;99.27830432;0.00033443;;-1;V;p4
+8509;8509;同感;same feeling,same sentiment,same opinion,sympathy,agreement,concurrence;どうかん;6483;99.27863874;0.00033443;N1;13;V;p4
+8510;8510;同然;similar to,same,right,proper,just,natural;どうぜん;6483;99.27897317;0.00033443;;-1;V;p4
+8511;8511;同等;equality,equal,same rights,same rank,equivalence;どうとう;6483;99.27930759999998;0.00033443;N1;-1;V;p4
+8512;8512;同罪;same crime,being equally guilty;どうざい;6483;99.27964203;0.00033443;;-1;V;p4
+8513;8513;同郷;same village,same town,same province;どうきょう;6483;99.27997646;0.00033443;;-1;V;p4
+8514;8514;名ばかり;in name only,titular,nominal;なばかり;6483;99.28031088;0.00033443;;-1;V;p4
+8515;8515;名折れ;disgrace,discredit,dishonor,dishonour,blot,shame;なおれ;6483;99.28064531;0.00033443;;-1;V;p4
+8516;8516;名残;remains,traces,vestiges,relics;なごり;6483;99.28097974;0.00033443;N1;-1;V;p4
+8517;8517;名残惜しい;reluctant (to part);なごりおしい;6483;99.28131417;0.00033443;;-1;V;p4
+8518;8518;名産;noted product,local specialty;めいさん;6483;99.2816486;0.00033443;N1;-1;V;p4
+8519;8519;名門;noted family,noble family;めいもん;6483;99.28198302;0.00033443;;-1;V;p4
+8520;8520;吐き出す;to vomit,to spit out;はきだす;6483;99.28231745;0.00033443;;36;V;p4
+8521;8521;向かい風;headwind,head wind;むかいかぜ;6483;99.28265188;0.00033443;;-1;V;p4
+8522;8522;向き不向き;different suitabilities,being cut out for certain things (and not for others);むきふむき;6483;99.28298631;0.00033443;;-1;V;p4
+8523;8523;君子;man of virtue,wise man,(true) gentleman;くんし;6483;99.28332074;0.00033443;;-1;V;p4
+8524;8524;否;no,nay;いいえ;6483;99.28365516;0.00033443;N3;33;V;p4
+8525;8525;呆け;fool,idiot;ぼけ;6483;99.28398959;0.00033443;;58;V;p4
+8526;8526;呆然;dumbfounded,overcome with surprise,in blank amazement,in a daze;ぼうぜん;6483;99.28432402;0.00033443;N1;-1;V;p4
+8527;8527;呆然と;Name;;6483;99.28465845;0.00033443;;-1;V;p4
+8528;8528;告知;notice,announcement;こくち;6483;99.28499288;0.00033443;;-1;V;p4
+8529;8529;呪言;spell,curse,incantation;じゅごん;6483;99.28532729999999;0.00033443;;-1;V;p4
+8530;8530;味付け;seasoning,flavour,flavor;あじつけ;6483;99.28566173;0.00033443;;-1;V;p4
+8531;8531;味噌汁;miso soup;みそしる;6483;99.28599616;0.00033443;;37;V;p4
+8532;8532;味覚;taste,palate,sense of taste;みかく;6483;99.28633059;0.00033443;N1;-1;V;p4
+8533;8533;呼び;call,invitation;よび;6483;99.28666502;0.00033443;;-1;V;p4
+8534;8534;呼び出し;call,summons,paging,curtain call;よびだし;6483;99.28699944;0.00033443;;-1;V;p4
+8535;8535;呼び出せる;Name;;6483;99.28733387;0.00033443;;-1;V;p4
+8536;8536;呼び捨て;"addressing (someone) without using a suffix such as ""-san"" or ""-chan"" (considered impolite)";よびすて;6483;99.28766829999999;0.00033443;;-1;V;p4
+8537;8537;呼び込む;to call in,to invite,to bring in;よびこむ;6483;99.28800273;0.00033443;;-1;V;p4
+8538;8538;呼吸;breathing,respiration;こきゅう;6483;99.28833716;0.00033443;N3;-1;V;p4
+8539;8539;呼応;hailing each other;こおう;6483;99.28867158;0.00033443;;-1;V;p4
+8540;8540;命じる;to order,to command;めいじる;6483;99.28900601;0.00033443;N3;-1;V;p4
+8541;8541;命ずる;to order,to command;めいずる;6483;99.28934044;0.00033443;N2;-1;V;p4
+8542;8542;命の恩人;lifesaver,person who saved one's life;いのちのおんじん;6483;99.28967487;0.00033443;;-1;V;p4
+8543;8543;命運;fate,destiny;めいうん;6483;99.2900093;0.00033443;;-1;V;p4
+8544;8544;命題;proposition,thesis,notion,theory;めいだい;6483;99.29034373;0.00033443;;-1;V;p4
+8545;8545;和歌集;Name;;6483;99.29067815;0.00033443;;-1;V;p4
+8546;8546;和洋;Japan and Europe;わよう;6483;99.29101258;0.00033443;;-1;V;p4
+8547;8547;和装;Japanese clothing,being dressed in a kimono;わそう;6483;99.29134701;0.00033443;;-1;V;p4
+8548;8548;咳;cough,coughing,tussis;せき;6483;99.29168144;0.00033443;N3;-1;V;p4
+8549;8549;咳き込む;to cough violently,to have a coughing fit;せきこむ;6483;99.29201587;0.00033443;;-1;V;p4
+8550;8550;哀しい;sad,miserable,unhappy,sorrowful;かなしい;6483;99.29235029;0.00033443;N4;19;V;p4
+8551;8551;哀れみ;pity,compassion;あわれみ;6483;99.29268472;0.00033443;;-1;V;p4
+8552;8552;品性;character;ひんせい;6483;99.29301915;0.00033443;;-1;V;p4
+8553;8553;品揃え;assortment,product lineup;しなぞろえ;6483;99.29335358;0.00033443;;-1;V;p4
+8554;8554;哲学;philosophy;てつがく;6483;99.29368801;0.00033443;N3;42;V;p4
+8555;8555;唯一;only,sole,unique;ゆいいつ;6483;99.29402243;0.00033443;N3;49;V;p4
+8556;8556;唱える;to recite,to chant;となえる;6483;99.29435686;0.00033443;N1;40;V;p4
+8557;8557;商品券;gift certificate;しょうひんけん;6483;99.29469129;0.00033443;;-1;V;p4
+8558;8558;問いただす;to enquire of someone about something (inquire),to question;といただす;6483;99.29502572;0.00033443;;-1;V;p4
+8559;8559;問い合わせる;to enquire,to inquire,to seek information;といあわせる;6483;99.29536015;0.00033443;N1;-1;V;p4
+8560;8560;問い質す;to enquire of someone about something (inquire),to question;といただす;6483;99.29569457;0.00033443;;-1;V;p4
+8561;8561;問答無用;there being no use in arguing (about it);もんどうむよう;6483;99.296029;0.00033443;;-1;V;p4
+8562;8562;問題解決;problem-solving;もんだいかいけつ;6483;99.29636343;0.00033443;;-1;V;p4
+8563;8563;善;good,goodness,right,virtue;ぜん;6483;99.29669786;0.00033443;N3;-1;V;p4
+8564;8564;善良;goodness,excellence,virtue;ぜんりょう;6483;99.29703229;0.00033443;N1;-1;V;p4
+8565;8565;喜ばす;to delight,to give pleasure;よろこばす;6483;99.29736671;0.00033443;;-1;V;p4
+8566;8566;喜んで;with pleasure ...;よろこんで;6483;99.29770114;0.00033443;;-1;V;p4
+8567;8567;喫煙;smoking;きつえん;6483;99.29803557;0.00033443;;18;V;p4
+8568;8568;営業;business,trade,operations;えいぎょう;6483;99.29836999999999;0.00033443;N3;24;V;p4
+8569;8569;嗅ぎ当てる;to sniff out,to catch the scent of;かぎあてる;6483;99.29870443;0.00033443;;-1;V;p4
+8570;8570;嗅ぐ;to sniff,to smell;かぐ;6483;99.29903885;0.00033443;N2;-1;V;p4
+8571;8571;嘘泣き;faking crying,crocodile tears;うそなき;6483;99.29937328;0.00033443;;-1;V;p4
+8572;8572;噛み付く;to bite (at),to snap at;かみつく;6483;99.29970771;0.00033443;;-1;V;p4
+8573;8573;噛み合う;to gear (engage) with,to be in gear (mesh);かみあう;6483;99.30004214;0.00033443;;-1;V;p4
+8574;8574;噛める;to chew thoroughly,to bite (e.g. one's lip);かみしめる;6483;99.30037657;0.00033443;;-1;V;p4
+8575;8575;器;bowl,vessel,container;うつわ;6483;99.30071099;0.00033443;N1;13;V;p4
+8576;8576;噴出;spewing,gushing,spouting,eruption,effusion;ふんしゅつ;6483;99.30104542;0.00033443;N1;52;V;p4
+8577;8577;回し;mawashi,belt,loincloth;まわし;6483;99.30137985;0.00033443;;-1;V;p4
+8578;8578;回れる;Name;;6483;99.30171428;0.00033443;;-1;V;p4
+8579;8579;回分;batch;かいぶん;6483;99.30204871;0.00033443;;-1;V;p4
+8580;8580;回戦;counter for numbering the rounds in a tournament;かいせん;6483;99.30238313;0.00033443;;-1;V;p4
+8581;8581;団;body,group,party,company,troupe;だん;6483;99.30271756;0.00033443;;-1;V;p4
+8582;8582;困った事;trouble,problem,mess,difficulty,nuisance;こまったこと;6483;99.30305199;0.00033443;;-1;V;p4
+8583;8583;困り果てる;to be at a complete loss,to be without recourse,to be completely stymied,to have absolutely no idea what to do;こまりはてる;6483;99.30338642;0.00033443;;-1;V;p4
+8584;8584;図体;body,frame;ずうたい;6483;99.30372085;0.00033443;;-1;V;p4
+8585;8585;図工;drawing and manual arts (school subject);ずこう;6483;99.30405527;0.00033443;;-1;V;p4
+8586;8586;図書館;library;としょかん;6483;99.3043897;0.00033443;N5;16;V;p4
+8587;8587;固め;hardening,fortifying;かため;6483;99.30472413;0.00033443;;-1;V;p4
+8588;8588;固める;to harden,to freeze,to strengthen,to solidify,to make (a fist),to tramp down (snow, dirt);かためる;6483;99.30505856;0.00033443;N1;16;V;p4
+8589;8589;固定;fixing (in place),being fixed (in place),securing,anchoring,fastening down;こてい;6483;99.30539299;0.00033443;N1;-1;V;p4
+8590;8590;国内;internal,domestic;こくない;6483;99.30572741;0.00033443;;-1;V;p4
+8591;8591;国民食;food universally loved by all citizens,comfort food;こくみんしょく;6483;99.30606184;0.00033443;;-1;V;p4
+8592;8592;国立大;national university;こくりつだい;6483;99.30639627;0.00033443;;-1;V;p4
+8593;8593;国道;national highway;こくどう;6483;99.3067307;0.00033443;;-1;V;p4
+8594;8594;土俵;(wrestling) ring;どひょう;6483;99.30706513;0.00033443;N1;46;V;p4
+8595;8595;土木;engineering works,civil engineering,public works;どぼく;6483;99.30739955;0.00033443;N1;-1;V;p4
+8596;8596;土産品;souvenir;みやげひん;6483;99.30773398;0.00033443;;-1;V;p4
+8597;8597;在る;to be,to exist,to live;ある;6483;99.30806841;0.00033443;N3;6;V;p4
+8598;8598;地中海;Mediterranean Sea;ちちゅうかい;6483;99.30840284;0.00033443;;8;V;p4
+8599;8599;地元民;local people;じもとみん;6483;99.30873727;0.00033443;;-1;V;p4
+8600;8600;地取り;laying out (e.g. ground plan, garden),layout;じどり;6483;99.30907169;0.00033443;;-1;V;p4
+8601;8601;地図;map;ちず;6483;99.30940612;0.00033443;N5;6;V;p4
+8602;8602;地学;earth sciences (geology, mineralogy, petrology, geophysics, geochemistry, seismology, etc.);ちがく;6483;99.30974055;0.00033443;;-1;V;p4
+8603;8603;地獄;hell;じごく;6483;99.31007498;0.00033443;N1;35;V;p4
+8604;8604;地球上;on Earth;ちきゅうじょう;6483;99.31040941;0.00033443;;-1;V;p4
+8605;8605;地理;geography;ちり;6483;99.31074383;0.00033443;N4;7;V;p4
+8606;8606;地道;steady,honest,sober,straightforward;じみち;6483;99.31107826;0.00033443;;-1;V;p4
+8607;8607;地震;earthquake;じしん;6483;99.31141269;0.00033443;N4;20;V;p4
+8608;8608;地鶏;nationally protected chicken breed,free-range local traditional pedigree chicken,chicken meat from same;じどり;6483;99.31174712;0.00033443;;-1;V;p4
+8609;8609;坂;slope,hill;さか;6483;99.31208155;0.00033443;N4;15;V;p4
+8610;8610;坂本;Sakamoto;;6483;99.31241597;0.00033443;;-1;V;p4
+8611;8611;坊や;boy;ぼうや;6483;99.31275040000001;0.00033443;N2;-1;V;p4
+8612;8612;垂らす;to dribble,to spill;たらす;6483;99.31308483;0.00033443;;33;V;p4
+8613;8613;埋まる;to be buried,to be covered,to be surrounded;うまる;6483;99.31341926;0.00033443;N1;43;V;p4
+8614;8614;執拗;persistent,obstinate,tenacious,relentless,insistent,importunate,persevering,stubborn;しつよう;6483;99.31375369;0.00033443;;-1;V;p4
+8615;8615;基づく;to be grounded on,to be based on,to be due to,to originate from;もとづく;6483;99.31408812;0.00033443;N3;-1;V;p4
+8616;8616;基地;base (military, expedition, etc.);きち;6483;99.31442254;0.00033443;N2;-1;V;p4
+8617;8617;基本的;fundamental,basic;きほんてき;6483;99.31475697;0.00033443;;16;V;p4
+8618;8618;基礎知識;fundamental knowledge;きそちしき;6483;99.31509140000001;0.00033443;;-1;V;p4
+8619;8619;堅;strength,solidity,firmness;けん;6483;99.31542583;0.00033443;;-1;V;p4
+8620;8620;堕落;depravity,corruption,degradation;だらく;6483;99.31576026;0.00033443;;57;V;p4
+8621;8621;報酬;remuneration,recompense,reward,toll;ほうしゅう;6483;99.31609468;0.00033443;N1;54;V;p4
+8622;8622;場慣れ;experience,being accustomed (to something),poise in a critical situation;ばなれ;6483;99.31642911;0.00033443;;-1;V;p4
+8623;8623;場違い;out-of-place,inappropriate,sticking out like a sore thumb;ばちがい;6483;99.31676354;0.00033443;;-1;V;p4
+8624;8624;塔;tower,steeple,spire;とう;6483;99.31709797;0.00033443;N3;44;V;p4
+8625;8625;塞がる;to be closed,to be blocked,to be healed (e.g. wound),to be shut up;ふさがる;6483;99.3174324;0.00033443;N2;-1;V;p4
+8626;8626;塾;cram school,private tutoring school,juku;じゅく;6483;99.31776682;0.00033443;N1;45;V;p4
+8627;8627;境;border,boundary;さかい;6483;99.31810125;0.00033443;N3;24;V;p4
+8628;8628;境地;state (of mind),mental state,emotional condition;きょうち;6483;99.31843568;0.00033443;;-1;V;p4
+8629;8629;境界線;boundary line;きょうかいせん;6483;99.31877011;0.00033443;;-1;V;p4
+8630;8630;墓所;graveyard;ぼしょ;6483;99.31910454;0.00033443;;-1;V;p4
+8631;8631;増す;to increase,to grow;ます;6483;99.31943896;0.00033443;N3;25;V;p4
+8632;8632;増やし;increase;ふやし;6483;99.31977339;0.00033443;;-1;V;p4
+8633;8633;増量;increased volume or quantity;ぞうりょう;6483;99.32010782;0.00033443;;-1;V;p4
+8634;8634;壮大;magnificent,grand,majestic,splendid;そうだい;6483;99.32044225;0.00033443;N1;50;V;p4
+8635;8635;売り;sale,selling;うり;6483;99.32077668;0.00033443;;-1;V;p4
+8636;8636;売り上げ;amount sold,sales,proceeds,takings,turnover;うりあげ;6483;99.3211111;0.00033443;N2;11;V;p4
+8637;8637;売り切れ;sold-out;うりきれ;6483;99.32144553;0.00033443;N2;11;V;p4
+8638;8638;売上;amount sold,sales,proceeds,takings,turnover;うりあげ;6483;99.32177996;0.00033443;N2;11;V;p4
+8639;8639;売店;stand,stall,booth,kiosk,store;ばいてん;6483;99.32211439;0.00033443;N2;-1;V;p4
+8640;8640;変る;to change,to be transformed,to be altered,to vary;かわる;6483;99.32244882;0.00033443;N4;17;V;p4
+8641;8641;変わりよう;change,alteration,modification;かわりよう;6483;99.32278324;0.00033443;;-1;V;p4
+8642;8642;変換;change,conversion,transformation;へんかん;6483;99.32311767;0.00033443;;36;V;p4
+8643;8643;夏目;Rio Natsume;;6483;99.3234521;0.00033443;;-1;V;p4
+8644;8644;夕ご飯;evening meal,dinner,supper;ゆうごはん;6483;99.32378653;0.00033443;;-1;V;p4
+8645;8645;夕刊;evening paper;ゆうかん;6483;99.32412096;0.00033443;N2;38;V;p4
+8646;8646;夕暮れ;evening,dusk,twilight;ゆうぐれ;6483;99.32445538;0.00033443;N1;-1;V;p4
+8647;8647;外側;exterior,outside,outer,external,lateral;そとがわ;6483;99.32478981;0.00033443;;17;V;p4
+8648;8648;外回り;circumference,perimeter;そとまわり;6483;99.32512424;0.00033443;;-1;V;p4
+8649;8649;外国語;foreign language;がいこくご;6483;99.32545867;0.00033443;;-1;V;p4
+8650;8650;外科;surgery;げか;6483;99.3257931;0.00033443;N2;-1;V;p4
+8651;8651;外見;outward appearance;がいけん;6483;99.32612752;0.00033443;;-1;V;p4
+8652;8652;外野;outfield;がいや;6483;99.32646195;0.00033443;;-1;V;p4
+8653;8653;外食;eating out,dining out;がいしょく;6483;99.32679638;0.00033443;;-1;V;p4
+8654;8654;多少;more or less,somewhat,a little,a few,some;たしょう;6483;99.32713081;0.00033443;N3;-1;V;p4
+8655;8655;多数決;majority decision,majority vote,majority rule;たすうけつ;6483;99.32746524;0.00033443;N1;-1;V;p4
+8656;8656;夜店;night stall,night shop,night fair;よみせ;6483;99.32779966;0.00033443;;-1;V;p4
+8657;8657;夜明かし;staying up all night,all-night vigil;よあかし;6483;99.32813409;0.00033443;;-1;V;p4
+8658;8658;夜通し;all night,throughout the night;よどおし;6483;99.32846852;0.00033443;;-1;V;p4
+8659;8659;夜食;"supper,night meal,late-night snack,""fourth meal"",midnight snack";やしょく;6483;99.32880295;0.00033443;;-1;V;p4
+8660;8660;大き目;largish,biggish,a little bit larger;おおきめ;6483;99.32913738;0.00033443;;-1;V;p4
+8661;8661;大けが;serious injury;おおけが;6483;99.3294718;0.00033443;;-1;V;p4
+8662;8662;大して;(not so) much,(not) very;たいして;6483;99.32980623;0.00033443;N2;-1;V;p4
+8663;8663;大人しい;obedient,docile,quiet;おとなしい;6483;99.33014066;0.00033443;N2;3;V;p4
+8664;8664;大人気;very popular,highly favoured;だいにんき;6483;99.33047509;0.00033443;;-1;V;p4
+8665;8665;大半;majority,more than half,most (of);たいはん;6483;99.33080952;0.00033443;N3;-1;V;p4
+8666;8666;大喜び;great joy;おおよろこび;6483;99.33114394;0.00033443;;-1;V;p4
+8667;8667;大地;ground,earth,the solid earth,the (vast) land;だいち;6483;99.33147837;0.00033443;;-1;V;p4
+8668;8668;大失敗;massive failure,debacle,fiasco;だいしっぱい;6483;99.33181280000001;0.00033443;;19;V;p4
+8669;8669;大学生;university student,college student;だいがくせい;6483;99.33214723;0.00033443;N4;7;V;p4
+8670;8670;大岩;Oscar Oiwa;;6483;99.33248166;0.00033443;;-1;V;p4
+8671;8671;大工;carpenter;だいく;6483;99.33281608;0.00033443;N2;-1;V;p4
+8672;8672;大当たり;big hit,big prize,bumper crop,striking it rich,right on the mark,bonanza,bull's eye,bullseye;おおあたり;6483;99.33315051;0.00033443;;-1;V;p4
+8673;8673;大御所;leading figure,influential figure,mogul;おおごしょ;6483;99.33348494;0.00033443;;-1;V;p4
+8674;8674;大成功;huge success;だいせいこう;6483;99.33381937;0.00033443;;-1;V;p4
+8675;8675;大根;daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus);だいこん;6483;99.3341538;0.00033443;;12;V;p4
+8676;8676;大概;generally,mainly,usually,normally,mostly,for the most part;たいがい;6483;99.33448822;0.00033443;N1;49;V;p4
+8677;8677;大歓迎;warm welcome;だいかんげい;6483;99.33482265;0.00033443;;-1;V;p4
+8678;8678;大活躍;being very active,being very useful,playing a very active part,making a spectacular showing,great efforts,splendid work;だいかつやく;6483;99.33515708;0.00033443;;-1;V;p4
+8679;8679;大爆笑;very loud laugh,explosive laughter;だいばくしょう;6483;99.33549151;0.00033443;;-1;V;p4
+8680;8680;大画面;large screen (TV, film, etc.);だいがめん;6483;99.33582594;0.00033443;;-1;V;p4
+8681;8681;大盛り;large serving;おおもり;6483;99.33616036;0.00033443;;-1;V;p4
+8682;8682;大神;god;おおかみ;6483;99.33649479;0.00033443;;-1;V;p4
+8683;8683;大福;great fortune,good luck;だいふく;6483;99.33682922;0.00033443;;-1;V;p4
+8684;8684;大自然;nature,Mother Nature;だいしぜん;6483;99.33716365;0.00033443;;-1;V;p4
+8685;8685;大航海時代;Age of Discovery,Age of Exploration;だいこうかいじだい;6483;99.33749808;0.00033443;;-1;V;p4
+8686;8686;大規模;large-scale;だいきぼ;6483;99.33783251;0.00033443;;27;V;p4
+8687;8687;大都会;metropolis,big city;だいとかい;6483;99.33816693;0.00033443;;-1;V;p4
+8688;8688;大量;large quantity,massive (quantity),mass (e.g. mass production, mass transit, mass destruction);たいりょう;6483;99.33850136;0.00033443;;24;V;p4
+8689;8689;大金星;surprise victory,upset,coup;だいきんぼし;6483;99.33883579;0.00033443;;-1;V;p4
+8690;8690;天候;weather;てんこう;6483;99.33917022;0.00033443;N3;25;V;p4
+8691;8691;天皇;Emperor of Japan;てんのう;6483;99.33950465;0.00033443;N2;33;V;p4
+8692;8692;太め;plump,somewhat large;ふとめ;6483;99.33983907;0.00033443;;-1;V;p4
+8693;8693;太もも;thigh;ふともも;6483;99.34017349999999;0.00033443;;-1;V;p4
+8694;8694;太田;Ryu Ota;;6483;99.34050793;0.00033443;;-1;V;p4
+8695;8695;夫人;wife,Mrs,madam;ふじん;6483;99.34084236;0.00033443;N3;-1;V;p4
+8696;8696;失す;to disappear,to vanish,to fade away;うす;6483;99.34117679;0.00033443;;-1;V;p4
+8697;8697;失望;disappointment,despair;しつぼう;6483;99.34151121;0.00033443;N3;14;V;p4
+8698;8698;失神;faint,trance,swoon,stupefaction;しっしん;6483;99.34184564;0.00033443;;-1;V;p4
+8699;8699;奇妙;strange,odd,peculiar,queer,curious;きみょう;6483;99.34218007;0.00033443;N3;29;V;p4
+8700;8700;奇怪;strange,wonderful,weird,outrageous,mysterious;きかい;6483;99.34251450000001;0.00033443;;-1;V;p4
+8701;8701;奇跡的;miraculous;きせきてき;6483;99.34284893;0.00033443;;-1;V;p4
+8702;8702;奉仕;service,ministry,attendance,church work;ほうし;6483;99.34318335;0.00033443;N1;55;V;p4
+8703;8703;奏す;to report to the Emperor;そうす;6483;99.34351778;0.00033443;;-1;V;p4
+8704;8704;奏者;instrumentalist,player;そうしゃ;6483;99.34385221;0.00033443;;-1;V;p4
+8705;8705;契約者;party to a contract,subscriber,policy owner (insurance);けいやくしゃ;6483;99.34418664;0.00033443;;-1;V;p4
+8706;8706;奥深い;profound,deep;おくふかい;6483;99.34452107;0.00033443;;38;V;p4
+8707;8707;奥深さ;depth,profundity;おくふかさ;6483;99.34485549;0.00033443;;-1;V;p4
+8708;8708;奮い立つ;to cheer up,to be encouraged (by),to be in high spirits;ふるいたつ;6483;99.34518992;0.00033443;;-1;V;p4
+8709;8709;女々しい;effeminate;めめしい;6483;99.34552435;0.00033443;;-1;V;p4
+8710;8710;女らしい;womanly,ladylike,feminine;おんならしい;6483;99.34585878;0.00033443;;-1;V;p4
+8711;8711;女史;Ms,Miss,Madame;じょし;6483;99.34619321;0.00033443;N1;-1;V;p4
+8712;8712;女嫌い;misogyny,woman-hater,misogynist;おんなぎらい;6483;99.34652763;0.00033443;;-1;V;p4
+8713;8713;女性関係;relations with women;じょせいかんけい;6483;99.34686206;0.00033443;;-1;V;p4
+8714;8714;女物;women's goods;おんなもの;6483;99.34719649;0.00033443;;-1;V;p4
+8715;8715;女王;queen;じょおう;6483;99.34753092;0.00033443;N3;2;V;p4
+8716;8716;女生徒;girl student,schoolgirl;じょせいと;6483;99.34786535;0.00033443;;-1;V;p4
+8717;8717;好;good;こう;6483;99.34819977;0.00033443;;-1;V;p4
+8718;8718;好きなように;as you want,as you will;すきなように;6483;99.3485342;0.00033443;;-1;V;p4
+8719;8719;好き嫌い;likes and dislikes,pickiness (about food),choosiness,fussiness,tastes,preferences;すききらい;6483;99.34886863;0.00033443;N2;-1;V;p4
+8720;8720;好く;nicely,properly,well,skillfully,skilfully;よく;6483;99.34920306;0.00033443;N5;-1;V;p4
+8721;8721;好む;to like,to prefer;このむ;6483;99.34953749;0.00033443;N3;15;V;p4
+8722;8722;好評;favorable reception,good reputation,popularity;こうひょう;6483;99.34987191;0.00033443;N1;-1;V;p4
+8723;8723;妄言;reckless remark,rash remark,abusive language,thoughtless words;ぼうげん;6483;99.35020634;0.00033443;;-1;V;p4
+8724;8724;妖しい;suspicious,dubious,questionable,dodgy,shady,fishy;あやしい;6483;99.35054077;0.00033443;N2;26;V;p4
+8725;8725;妥協;compromise,giving in;だきょう;6483;99.3508752;0.00033443;N1;16;V;p4
+8726;8726;妬ける;to burn,to be roasted,to be heated,to be sunburnt,to fade (in the sun),to glow red (i.e. of the sky at sunset);やける;6483;99.35120963;0.00033443;N4;20;V;p4
+8727;8727;姉さん;older sister,elder sister;ねえさん;6483;99.35154405;0.00033443;;-1;V;p4
+8728;8728;姉弟;older sister and younger brother;してい;6483;99.35187848;0.00033443;;-1;V;p4
+8729;8729;始末;management,dealing with,settlement,cleaning up,disposal;しまつ;6483;99.35221291;0.00033443;N1;-1;V;p4
+8730;8730;始業式;opening ceremony (of the school term);しぎょうしき;6483;99.35254734;0.00033443;;-1;V;p4
+8731;8731;姿見;full-length mirror;すがたみ;6483;99.35288177;0.00033443;;-1;V;p4
+8732;8732;威信;prestige,dignity;いしん;6483;99.35321619;0.00033443;;-1;V;p4
+8733;8733;婆さん;grandmother;ばあさん;6483;99.35355062;0.00033443;;-1;V;p4
+8734;8734;媚びる;to flatter,to curry favor with,to curry favour with,to fawn on,to butter up to;こびる;6483;99.35388505;0.00033443;;-1;V;p4
+8735;8735;嫌がらせ;harassment,pestering;いやがらせ;6483;99.35421948;0.00033443;;-1;V;p4
+8736;8736;嫌味;disagreeableness,unpleasantness,nastiness,offensiveness,tastelessness;いやみ;6483;99.35455391;0.00033443;;22;V;p4
+8737;8737;嬢;unmarried woman;じょう;6483;99.35488833;0.00033443;N1;-1;V;p4
+8738;8738;嬢さん;daughter (of a good family);とうさん;6483;99.35522276;0.00033443;;-1;V;p4
+8739;8739;子ら;children;こら;6483;99.35555719;0.00033443;;-1;V;p4
+8740;8740;子供扱い;treating someone like a child;こどもあつかい;6483;99.35589162;0.00033443;;-1;V;p4
+8741;8741;子供用;for use by children,for children;こどもよう;6483;99.35622605;0.00033443;;-1;V;p4
+8742;8742;子役;dramatic role for child,child actor;こやく;6483;99.35656047;0.00033443;;-1;V;p4
+8743;8743;子羊;lamb;こひつじ;6483;99.3568949;0.00033443;;-1;V;p4
+8744;8744;子育て;child rearing,child raising,raising children,parenting;こそだて;6483;99.35722933;0.00033443;;-1;V;p4
+8745;8745;孤独;solitude,loneliness,isolation;こどく;6483;99.35756376;0.00033443;N1;52;V;p4
+8746;8746;学;learning,scholarship,study,erudition,knowledge,education;がく;6483;99.35789819;0.00033443;N3;-1;V;p4
+8747;8747;学ぶ;to study (in depth),to learn,to take lessons in;まなぶ;6483;99.35823261;0.00033443;N3;5;V;p4
+8748;8748;学べる;Name;;6483;99.35856704;0.00033443;;-1;V;p4
+8749;8749;学力;scholarly ability,scholarship,knowledge,literary ability;がくりょく;6483;99.35890147;0.00033443;N2;-1;V;p4
+8750;8750;学問;scholarship,study,learning;がくもん;6483;99.3592359;0.00033443;N3;13;V;p4
+8751;8751;学園都市;university town,college town;がくえんとし;6483;99.35957033;0.00033443;;-1;V;p4
+8752;8752;学校行事;school event;がっこうぎょうじ;6483;99.35990475;0.00033443;;-1;V;p4
+8753;8753;学生時代;student days;がくせいじだい;6483;99.36023918;0.00033443;;-1;V;p4
+8754;8754;学生生活;student (college) life;がくせいせいかつ;6483;99.36057361;0.00033443;;-1;V;p4
+8755;8755;学級閉鎖;temporary closing of classes;がっきゅうへいさ;6483;99.36090804;0.00033443;;-1;V;p4
+8756;8756;宇宙;universe,cosmos,space;うちゅう;6483;99.36124247;0.00033443;N3;19;V;p4
+8757;8757;宇治;Japanese gunboat Uji (1903);;6483;99.3615769;0.00033443;;-1;V;p4
+8758;8758;守備;defense,defence;しゅび;6483;99.36191132;0.00033443;N1;-1;V;p4
+8759;8759;安;cheap;やす;6483;99.36224575;0.00033443;;-1;V;p4
+8760;8760;安売り;bargain sale,selling cheaply;やすうり;6483;99.36258018;0.00033443;;11;V;p4
+8761;8761;安定;stability,steadiness,equilibrium;あんてい;6483;99.36291461;0.00033443;N3;-1;V;p4
+8762;8762;安眠;sound sleep,good sleep,quiet sleep;あんみん;6483;99.36324904;0.00033443;;-1;V;p4
+8763;8763;完食;eating everything (on one's plate, etc.);かんしょく;6483;99.36358346;0.00033443;;-1;V;p4
+8764;8764;定める;to decide,to determine;さだめる;6483;99.36391789;0.00033443;N1;-1;V;p4
+8765;8765;定時;regular time,stated period;ていじ;6483;99.36425232;0.00033443;;-1;V;p4
+8766;8766;定理;theorem,proposition;ていり;6483;99.36458675;0.00033443;;-1;V;p4
+8767;8767;定番;standard,routine,regular,basic,staple;ていばん;6483;99.36492118;0.00033443;;-1;V;p4
+8768;8768;定義;definition;ていぎ;6483;99.3652556;0.00033443;N1;21;V;p4
+8769;8769;宛て;aim,object,purpose,end;あて;6483;99.36559003;0.00033443;N1;-1;V;p4
+8770;8770;宝珠;Globus cruciger;;6483;99.36592446;0.00033443;;-1;V;p4
+8771;8771;実る;to bear fruit,to ripen;みのる;6483;99.36625889;0.00033443;N2;-1;V;p4
+8772;8772;実力;(real) ability,true strength,merit,efficiency,competency;じつりょく;6483;99.36659332;0.00033443;N2;9;V;p4
+8773;8773;実名;real name;じつめい;6483;99.36692774;0.00033443;;-1;V;p4
+8774;8774;実在;actual existence,real existence,existing in real life;じつざい;6483;99.36726217;0.00033443;;20;V;p4
+8775;8775;実情;real condition,actual circumstances,actual state of affairs;じつじょう;6483;99.36759659999998;0.00033443;N1;-1;V;p4
+8776;8776;実戦;combat,battle,action,active service,actual fighting;じっせん;6483;99.36793103;0.00033443;;-1;V;p4
+8777;8777;実行;execution (e.g. of a plan),carrying out,practice,action,implementation,fulfillment,realization;じっこう;6483;99.36826546;0.00033443;N3;-1;V;p4
+8778;8778;実行委員;action committee,executive committee;じっこういいん;6483;99.36859988;0.00033443;;-1;V;p4
+8779;8779;実践;practice,putting into practice,implementation;じっせん;6483;99.36893431;0.00033443;N1;54;V;p4
+8780;8780;実際に;virtually,practically,in practice,actually;じっさいに;6483;99.36926874;0.00033443;;-1;V;p4
+8781;8781;客層;clientele,customer stratum;きゃくそう;6483;99.36960317;0.00033443;;-1;V;p4
+8782;8782;客来;Name;;6483;99.3699376;0.00033443;;-1;V;p4
+8783;8783;宣言;declaration,proclamation,announcement;せんげん;6483;99.37027202;0.00033443;N1;35;V;p4
+8784;8784;宮殿;palace;きゅうでん;6483;99.37060645;0.00033443;N1;-1;V;p4
+8785;8785;害;injury,harm,evil influence,damage;がい;6483;99.37094088;0.00033443;N3;-1;V;p4
+8786;8786;宴会;party,banquet,reception,feast,dinner;えんかい;6483;99.37127531;0.00033443;N2;29;V;p4
+8787;8787;家主;landlord,landlady;やぬし;6483;99.37160974;0.00033443;N2;-1;V;p4
+8788;8788;家名;family name,house name;かめい;6483;99.37194416;0.00033443;;-1;V;p4
+8789;8789;家庭;home,family,household;かてい;6483;99.37227859;0.00033443;N5;12;V;p4
+8790;8790;家庭的;family-oriented,familial;かていてき;6483;99.37261302;0.00033443;;-1;V;p4
+8791;8791;家庭科;home economics;かていか;6483;99.37294745;0.00033443;;-1;V;p4
+8792;8792;家政婦;housekeeper,maid;かせいふ;6483;99.37328188;0.00033443;;28;V;p4
+8793;8793;家着;casual wear,ordinary clothes,everyday clothes,home wear;いえぎ;6483;99.3736163;0.00033443;;-1;V;p4
+8794;8794;家系;family lineage;かけい;6483;99.37395073;0.00033443;;-1;V;p4
+8795;8795;家計;household economy,family finances;かけい;6483;99.37428516;0.00033443;N1;-1;V;p4
+8796;8796;家路;the road home;いえじ;6483;99.37461959;0.00033443;;-1;V;p4
+8797;8797;容貌;looks,personal appearance,features;ようぼう;6483;99.37495402;0.00033443;;-1;V;p4
+8798;8798;宿主;(parasitic) host;しゅくしゅ;6483;99.37528844;0.00033443;;-1;V;p4
+8799;8799;寂しん坊;lonely person,someone who easily succumbs to loneliness;さびしんぼう;6483;99.37562287;0.00033443;;-1;V;p4
+8800;8800;寂れる;to decline (in prosperity),to become deserted,to become desolate;さびれる;6483;99.3759573;0.00033443;;-1;V;p4
+8801;8801;寄り添う;to get close,to cuddle close together,to nestle close to,to snuggle up to;よりそう;6483;99.37629173;0.00033443;;-1;V;p4
+8802;8802;寄越す;to send,to forward;よこす;6483;99.37662616;0.00033443;N2;-1;V;p4
+8803;8803;密談;private talk,confidential talk,secret talk;みつだん;6483;99.37696058;0.00033443;;-1;V;p4
+8804;8804;富む;to be rich in,to abound in,to be abundant in,to be full of;とむ;6483;99.37729501;0.00033443;N1;31;V;p4
+8805;8805;寒気;chill,the shivers,shivering fit;さむけ;6483;99.37762944;0.00033443;N1;-1;V;p4
+8806;8806;寛大;tolerant,generous,lenient,broad-minded,magnanimous;かんだい;6483;99.37796387;0.00033443;;53;V;p4
+8807;8807;寝かす;to put to sleep,to lay (something) on its side;ねかす;6483;99.3782983;0.00033443;;-1;V;p4
+8808;8808;寝たきり;bedridden,confined to bed;ねたきり;6483;99.37863272;0.00033443;;-1;V;p4
+8809;8809;寝ぼける;to be still half asleep,to be half awake,to be not yet quite awake;ねぼける;6483;99.37896715;0.00033443;;-1;V;p4
+8810;8810;寝室;bedroom;しんしつ;6483;99.37930158;0.00033443;;-1;V;p4
+8811;8811;寝落ち;dozing off in the middle of doing something (esp. in an online chat or during an online game),becoming inactive due to falling asleep;ねおち;6483;99.37963601;0.00033443;;-1;V;p4
+8812;8812;寝込み;asleep (in bed),sick in bed;ねこみ;6483;99.37997044;0.00033443;;-1;V;p4
+8813;8813;察し;consideration,guess,conjecture,judgment,judgement;さっし;6483;99.38030486;0.00033443;;-1;V;p4
+8814;8814;察す;to guess,to sense,to presume,to judge;さっす;6483;99.38063929;0.00033443;;-1;V;p4
+8815;8815;対する;to face (each other),to be facing;たいする;6483;99.38097372;0.00033443;N3;-1;V;p4
+8816;8816;対処;dealing with,coping with;たいしょ;6483;99.38130815;0.00033443;N1;-1;V;p4
+8817;8817;対戦;waging war,competition;たいせん;6483;99.38164258;0.00033443;;-1;V;p4
+8818;8818;対抗意識;(sense of) rivalry,competitiveness;たいこういしき;6483;99.381977;0.00033443;;-1;V;p4
+8819;8819;対象;target,object (of worship, study, etc.),subject (of taxation, etc.);たいしょう;6483;99.38231143;0.00033443;N3;24;V;p4
+8820;8820;対面;meeting face-to-face,seeing in person;たいめん;6483;99.38264586;0.00033443;N1;-1;V;p4
+8821;8821;寿命;life span;じゅみょう;6483;99.38298029;0.00033443;N2;35;V;p4
+8822;8822;封;seal;ふう;6483;99.38331472;0.00033443;N1;43;V;p4
+8823;8823;専ら;wholly,solely,entirely,exclusively,devotedly,fixedly;もっぱら;6483;99.38364914;0.00033443;N1;-1;V;p4
+8824;8824;専念;absorption,giving undivided attention,devoting oneself (to);せんねん;6483;99.38398357;0.00033443;;-1;V;p4
+8825;8825;専業主婦;housewife;せんぎょうしゅふ;6483;99.38431800000001;0.00033443;;-1;V;p4
+8826;8826;専用;(one's) exclusive use,private use,personal use;せんよう;6483;99.38465243;0.00033443;N1;-1;V;p4
+8827;8827;専門;speciality,specialty,subject of study,expert,area of expertise;せんもん;6483;99.38498686;0.00033443;;16;V;p4
+8828;8828;専門知識;expertise,special knowledge,technical knowledge,expert knowledge;せんもんちしき;6483;99.38532129;0.00033443;;-1;V;p4
+8829;8829;射的;target practice;しゃてき;6483;99.38565571;0.00033443;;-1;V;p4
+8830;8830;将軍;general,shogun;しょうぐん;6483;99.38599014;0.00033443;;36;V;p4
+8831;8831;尊厳;dignity,majesty,sanctity;そんげん;6483;99.38632457;0.00033443;;-1;V;p4
+8832;8832;尋ねる;to ask,to enquire,to inquire;たずねる;6483;99.386659;0.00033443;N4;31;V;p4
+8833;8833;導き;guidance;みちびき;6483;99.38699343;0.00033443;;-1;V;p4
+8834;8834;小っちゃ;tiny,little,wee;ちっちゃな;6483;99.38732785;0.00033443;;-1;V;p4
+8835;8835;小ぶり;smallish,on the small side,somewhat small,undersized,small size;こぶり;6483;99.38766228;0.00033443;;-1;V;p4
+8836;8836;小僧;youngster,boy,kid,brat;こぞう;6483;99.38799671;0.00033443;;-1;V;p4
+8837;8837;小型;small,small-sized,small-scale,miniature;こがた;6483;99.38833114;0.00033443;;-1;V;p4
+8838;8838;小型車;small car,compact car;こがたしゃ;6483;99.38866557;0.00033443;;-1;V;p4
+8839;8839;小声;low voice,whisper;こごえ;6483;99.38899999;0.00033443;;7;V;p4
+8840;8840;小夜;evening;さよ;6483;99.38933442;0.00033443;;-1;V;p4
+8841;8841;小屋;hut,cabin,shed,(animal) pen;こや;6483;99.38966885;0.00033443;N3;-1;V;p4
+8842;8842;小悪魔;rogue,devil,imp;こあくま;6483;99.39000328;0.00033443;;-1;V;p4
+8843;8843;小林;Kobayashi;;6483;99.39033771;0.00033443;;-1;V;p4
+8844;8844;小野小町;Ono Komachi,Poet of the Heian period, included in the Ogura Hyakunin Isshu;おのこまち;6483;99.39067213;0.00033443;;-1;V;p4
+8845;8845;少;small,little,few;しょう;6483;99.39100656;0.00033443;;-1;V;p4
+8846;8846;尚;still,yet;なお;6483;99.39134099;0.00033443;N1;54;V;p4
+8847;8847;尚更;still more,even more,all the more;なおさら;6483;99.39167542;0.00033443;N1;56;V;p4
+8848;8848;尽き;to be used up,to be run out,to be exhausted,to be consumed,to come to an end;つきる;6483;99.39200985;0.00033443;N1;48;V;p4
+8849;8849;尽くめ;entirely,completely,all,nothing but;ずくめ;6483;99.39234427;0.00033443;;-1;V;p4
+8850;8850;尽力;efforts,exertion,endeavour,assistance,services;じんりょく;6483;99.3926787;0.00033443;;48;V;p4
+8851;8851;尾ヒレ;tail and fins;おひれ;6483;99.39301313;0.00033443;;-1;V;p4
+8852;8852;居;residence;きょ;6483;99.39334756;0.00033443;;-1;V;p4
+8853;8853;居残る;to stay behind,to remain,to work overtime;いのこる;6483;99.39368199;0.00033443;;-1;V;p4
+8854;8854;展;exhibition,exhibit;てん;6483;99.39401641;0.00033443;;-1;V;p4
+8855;8855;展示品;goods on display,(an) exhibit,exhibition (of goods);てんじひん;6483;99.39435084;0.00033443;;-1;V;p4
+8856;8856;属性;attribute,property,context,element;ぞくせい;6483;99.39468527;0.00033443;;-1;V;p4
+8857;8857;層;layer,seam,bed,stream,class,stratum;そう;6483;99.3950197;0.00033443;;24;V;p4
+8858;8858;山ほど;a heap,great amount of;やまほど;6483;99.39535413;0.00033443;;-1;V;p4
+8859;8859;山場;climax,turning point;やまば;6483;99.39568855;0.00033443;;-1;V;p4
+8860;8860;山田;Yamada;;6483;99.39602298;0.00033443;;-1;V;p4
+8861;8861;山菜;edible wild plants;さんさい;6483;99.39635741;0.00033443;;-1;V;p4
+8862;8862;岩屋;cavern,grotto;いわや;6483;99.39669184;0.00033443;;-1;V;p4
+8863;8863;崩壊;collapse,crumbling,breaking down,caving in;ほうかい;6483;99.39702627;0.00033443;N1;37;V;p4
+8864;8864;川上;upper reaches of a river,upstream;かわかみ;6483;99.39736069;0.00033443;;-1;V;p4
+8865;8865;川柳;senryū,comic haiku,humorous seventeen-mora poem;せんりゅう;6483;99.39769512;0.00033443;;47;V;p4
+8866;8866;巡らせる;to go around;めぐる;6483;99.39802955;0.00033443;N2;40;V;p4
+8867;8867;巡り会う;to meet fortuitously (e.g. running into an old friend),to meet by chance,to happen across;めぐりあう;6483;99.39836398;0.00033443;;-1;V;p4
+8868;8868;工事;construction work;こうじ;6483;99.39869841;0.00033443;N2;9;V;p4
+8869;8869;工房;workshop,studio,atelier;こうぼう;6483;99.39903283;0.00033443;;-1;V;p4
+8870;8870;左ハンドル;left hand drive (of cars, etc.);ひだりハンドル;6483;99.39936726;0.00033443;;-1;V;p4
+8871;8871;左手;left hand;ひだりて;6483;99.39970169;0.00033443;;4;V;p4
+8872;8872;巧妙;ingenious,skillful,clever,deft;こうみょう;6483;99.40003612;0.00033443;N1;50;V;p4
+8873;8873;差し上げる;to give,to offer;さしあげる;6483;99.40037055;0.00033443;N4;26;V;p4
+8874;8874;差し掛かる;to come near,to approach;さしかかる;6483;99.40070497;0.00033443;N1;-1;V;p4
+8875;8875;市外;outside the city area,suburbs;しがい;6483;99.4010394;0.00033443;;-1;V;p4
+8876;8876;市民;citizen,citizenry,public;しみん;6483;99.40137383;0.00033443;N4;-1;V;p4
+8877;8877;市議;city councillor,city councilor,city assemblyman;しぎ;6483;99.40170826;0.00033443;;-1;V;p4
+8878;8878;布教;propagation (e.g. a religion),proselytizing,missionary work;ふきょう;6483;99.40204269;0.00033443;;-1;V;p4
+8879;8879;希望の光;ray of hope,glimmer of hope;きぼうのひかり;6483;99.40237711;0.00033443;;-1;V;p4
+8880;8880;希望の星;ray of light,ray of hope,promising talent;きぼうのほし;6483;99.40271154;0.00033443;;-1;V;p4
+8881;8881;希薄;thin (e.g. air),diluted,sparse,lean,weak,rarified,rarefied;きはく;6483;99.40304597;0.00033443;;-1;V;p4
+8882;8882;師走;twelfth month (esp. of the lunar calendar),December;しわす;6483;99.4033804;0.00033443;;-1;V;p4
+8883;8883;席取り;saving a seat (e.g. by leaving something on it),holding a seat (for a friend, etc.),reserving a place;せきとり;6483;99.40371483;0.00033443;;-1;V;p4
+8884;8884;帰す;to send (someone) back,to send (someone) home;かえす;6483;99.40404925;0.00033443;N2;-1;V;p4
+8885;8885;帰省;homecoming,returning home;きせい;6483;99.40438368;0.00033443;;-1;V;p4
+8886;8886;帳;curtain,hanging,bunting;とばり;6483;99.40471811;0.00033443;N1;-1;V;p4
+8887;8887;常識;common sense,good sense,common knowledge,general knowledge,common practice,accepted practice,social etiquette;じょうしき;6483;99.40505254;0.00033443;N3;17;V;p4
+8888;8888;干からびる;to dry up completely,to become stale;ひからびる;6483;99.40538697;0.00033443;;-1;V;p4
+8889;8889;干す;to air,to dry,to desiccate;ほす;6483;99.40572139;0.00033443;N2;17;V;p4
+8890;8890;干渉;interference,intervention,meddling;かんしょう;6483;99.40605582;0.00033443;N1;17;V;p4
+8891;8891;平らか;level,just,peaceful;たいらか;6483;99.40639025;0.00033443;;-1;V;p4
+8892;8892;平らげる;to eat up (completely);たいらげる;6483;99.40672468;0.00033443;;-1;V;p4
+8893;8893;平仮名;hiragana,cursive Japanese syllabary used primarily for native Japanese words (esp. function words, inflections, etc.);ひらがな;6483;99.40705911;0.00033443;N2;11;V;p4
+8894;8894;平均点;average mark,mean point;へいきんてん;6483;99.40739353;0.00033443;;-1;V;p4
+8895;8895;平日;weekday,ordinary days (i.e. non-holiday);へいじつ;6483;99.40772796;0.00033443;N2;4;V;p4
+8896;8896;平気で;without compunction,coolly,without batting an eyelid,unscrupulously,nonchalantly,remorselessly,without hesitation;へいきで;6483;99.40806239;0.00033443;;-1;V;p4
+8897;8897;平穏;tranquil,calm,restful,peaceful,quiet;へいおん;6483;99.40839682;0.00033443;;46;V;p4
+8898;8898;年の暮れ;year end;としのくれ;6483;99.40873125;0.00033443;;-1;V;p4
+8899;8899;幸福;happiness,well-being,joy,welfare,blessedness;こうふく;6483;99.40906567;0.00033443;N3;16;V;p4
+8900;8900;幸運;good luck,fortune;こううん;6483;99.4094001;0.00033443;N3;16;V;p4
+8901;8901;幻滅;disillusionment;げんめつ;6483;99.40973453;0.00033443;;43;V;p4
+8902;8902;幽霊部員;member of a (school) club who does not partake in the club's activities;ゆうれいぶいん;6483;99.41006896;0.00033443;;-1;V;p4
+8903;8903;幾つも;many,much,plenty;いくつも;6483;99.41040339;0.00033443;;-1;V;p4
+8904;8904;幾らか;some,(a) little;いくらか;6483;99.41073782;0.00033443;;-1;V;p4
+8905;8905;幾何学;geometry;きかがく;6483;99.41107224;0.00033443;;31;V;p4
+8906;8906;幾分;somewhat,to some extent,to some degree;いくぶん;6483;99.41140667;0.00033443;N2;-1;V;p4
+8907;8907;幾多;many,numerous;いくた;6483;99.4117411;0.00033443;N1;-1;V;p4
+8908;8908;幾度となく;on countless occasions,many a time;いくどとなく;6483;99.41207553;0.00033443;;-1;V;p4
+8909;8909;広々;extensive,spacious;ひろびろ;6483;99.41240996;0.00033443;N2;-1;V;p4
+8910;8910;広げる;to spread,to extend,to expand,to enlarge,to widen,to broaden;ひろげる;6483;99.41274438;0.00033443;N2;-1;V;p4
+8911;8911;広める;to spread,to propagate,to popularize,to disseminate;ひろめる;6483;99.41307881;0.00033443;N2;-1;V;p4
+8912;8912;底抜け;bottomless (bucket, etc.);そこぬけ;6483;99.41341324;0.00033443;;-1;V;p4
+8913;8913;底辺;base (e.g. of a triangle);ていへん;6483;99.41374767;0.00033443;;-1;V;p4
+8914;8914;店先;storefront,shopfront;みせさき;6483;99.4140821;0.00033443;;-1;V;p4
+8915;8915;店内;store interior;てんない;6483;99.41441652;0.00033443;;-1;V;p4
+8916;8916;度々;often,again and again,over and over again,repeatedly,frequently;たびたび;6483;99.41475095;0.00033443;N3;-1;V;p4
+8917;8917;庫入れ;warehousing,storing in a warehouse;くらいれ;6483;99.41508538;0.00033443;;-1;V;p4
+8918;8918;廃棄;disposal,abandonment,scrapping,discarding,abolition;はいき;6483;99.41541981;0.00033443;N1;41;V;p4
+8919;8919;廃業;discontinuation (of business),closing down,giving up (one's practice),retiring;はいぎょう;6483;99.41575424;0.00033443;;-1;V;p4
+8920;8920;廃車;decommissioned vehicle,out of service vehicle,end of life vehicle;はいしゃ;6483;99.41608866;0.00033443;;-1;V;p4
+8921;8921;延々;forever,endlessly,on and on;えんえん;6483;99.41642309;0.00033443;;-1;V;p4
+8922;8922;延々と;forever,endlessly,on and on;えんえん;6483;99.41675752;0.00033443;;-1;V;p4
+8923;8923;延ばす;to grow long (e.g. hair, nails);のばす;6483;99.41709195;0.00033443;N3;38;V;p4
+8924;8924;延長;extension,elongation,prolongation,lengthening;えんちょう;6483;99.41742638;0.00033443;N2;32;V;p4
+8925;8925;建てる;to build,to construct;たてる;6483;99.4177608;0.00033443;N4;15;V;p4
+8926;8926;建て直す;to rebuild,to reconstruct;たてなおす;6483;99.41809523;0.00033443;;-1;V;p4
+8927;8927;建前;face,official stance,public position or attitude (as opposed to private thoughts);たてまえ;6483;99.41842966;0.00033443;N1;17;V;p4
+8928;8928;建築;construction,architecture (of buildings);けんちく;6483;99.41876409;0.00033443;N3;15;V;p4
+8929;8929;建築業者;builder,constructor;けんちくぎょうしゃ;6483;99.41909852;0.00033443;;-1;V;p4
+8930;8930;弁える;to discern (e.g. right from wrong),to discriminate,to distinguish;わきまえる;6483;99.41943294;0.00033443;;-1;V;p4
+8931;8931;弁当持参;bringing one's own lunch;べんとうじさん;6483;99.41976737;0.00033443;;-1;V;p4
+8932;8932;式;equation,formula,expression;しき;6483;99.4201018;0.00033443;N3;15;V;p4
+8933;8933;引きずり;train of dress,trailing skirt;ひきずり;6483;99.42043623;0.00033443;;-1;V;p4
+8934;8934;引き出せる;Name;;6483;99.42077066;0.00033443;;-1;V;p4
+8935;8935;引き継ぐ;to take over,to hand over;ひきつぐ;6483;99.42110508;0.00033443;;-1;V;p4
+8936;8936;引き締まる;to become tense,to be tightened,to become firm (e.g. body);ひきしまる;6483;99.42143951;0.00033443;;-1;V;p4
+8937;8937;引き締める;to tighten,to stiffen,to brace,to strain;ひきしめる;6483;99.42177394;0.00033443;;-1;V;p4
+8938;8938;引き起こす;to cause,to induce,to bring about,to provoke;ひきおこす;6483;99.42210837;0.00033443;N1;-1;V;p4
+8939;8939;引き返せる;Name;;6483;99.4224428;0.00033443;;-1;V;p4
+8940;8940;引っかく;to scratch,to claw;ひっかく;6483;99.42277722;0.00033443;N1;-1;V;p4
+8941;8941;引っかける;to hang (something) on (something),to throw on (clothes);ひっかける;6483;99.42311165;0.00033443;N1;-1;V;p4
+8942;8942;引取り;leaving,accepting;ひきとり;6483;99.42344608;0.00033443;;-1;V;p4
+8943;8943;引越し;moving (dwelling, office, etc.),changing residence;ひっこし;6483;99.42378051;0.00033443;N2;-1;V;p4
+8944;8944;引越す;to move (house),to change residence;ひっこす;6483;99.42411494;0.00033443;N4;34;V;p4
+8945;8945;弧;arc;こ;6483;99.42444936;0.00033443;;-1;V;p4
+8946;8946;弱き者;weak person,the weak;よわきもの;6483;99.42478379;0.00033443;;-1;V;p4
+8947;8947;弱まる;to abate,to weaken,to be emaciated,to be dejected,to be perplexed;よわまる;6483;99.42511822;0.00033443;N1;-1;V;p4
+8948;8948;弱み;(a) weakness,shortcoming,failing,sore point;よわみ;6483;99.42545265;0.00033443;;-1;V;p4
+8949;8949;弱気;timid,weak-kneed,fainthearted;よわき;6483;99.42578708;0.00033443;;-1;V;p4
+8950;8950;弱火;low flame (cooking),low heat,simmering;よわび;6483;99.4261215;0.00033443;;-1;V;p4
+8951;8951;弱肉強食;survival of the fittest,the law of the jungle,the weak are meat the strong do eat;じゃくにくきょうしょく;6483;99.42645593;0.00033443;;-1;V;p4
+8952;8952;弱虫;coward,weakling,scaredy cat,wimp,sissy;よわむし;6483;99.42679036;0.00033443;;9;V;p4
+8953;8953;張りきる;to be in high spirits,to be full of vigor (vigour),to be enthusiastic,to be eager,to stretch to breaking point;はりきる;6483;99.42712479;0.00033443;N2;-1;V;p4
+8954;8954;張り倒す;to knock down,to slap down,to floor;はりたおす;6483;99.42745922;0.00033443;;-1;V;p4
+8955;8955;張り込む;to be on the lookout,to lie in wait;はりこむ;6483;99.42779364;0.00033443;;-1;V;p4
+8956;8956;張本人;originator,ringleader,perpetrator,main culprit,person responsible;ちょうほんにん;6483;99.42812807;0.00033443;;-1;V;p4
+8957;8957;強力粉;bread flour (high gluten),strong flour,hard flour;きょうりきこ;6483;99.4284625;0.00033443;;-1;V;p4
+8958;8958;強大;mighty,powerful;きょうだい;6483;99.42879693;0.00033443;;-1;V;p4
+8959;8959;強打;smiting,blow;きょうだ;6483;99.42913136;0.00033443;;-1;V;p4
+8960;8960;強欲;greedy,avaricious,rapacious,insatiable;ごうよく;6483;99.42946578;0.00033443;;-1;V;p4
+8961;8961;強調;emphasis,highlight,stress,stressed point;きょうちょう;6483;99.42980021;0.00033443;N3;10;V;p4
+8962;8962;当たり障り;obstacle;あたりさわり;6483;99.43013464;0.00033443;;-1;V;p4
+8963;8963;当てはまる;to apply (a rule),to be applicable,to come under (a category),to fulfill,to hold true;あてはまる;6483;99.43046907;0.00033443;N2;-1;V;p4
+8964;8964;当てはめる;to apply,to adapt;あてはめる;6483;99.43080350000001;0.00033443;N2;-1;V;p4
+8965;8965;当る;to be hit,to strike;あたる;6483;99.43113792;0.00033443;N3;5;V;p4
+8966;8966;当事者;person concerned,interested party,related party;とうじしゃ;6483;99.43147235;0.00033443;;-1;V;p4
+8967;8967;当人;the person concerned,the person in question,the said person;とうにん;6483;99.43180678;0.00033443;N1;-1;V;p4
+8968;8968;当日;day in question,appointed day,that very day,the day (of issue, publication, etc.);とうじつ;6483;99.43214121;0.00033443;N2;-1;V;p4
+8969;8969;当番;being on duty,person on duty;とうばん;6483;99.43247564;0.00033443;N2;-1;V;p4
+8970;8970;形式;form (as opposed to substance),formality;けいしき;6483;99.43281006;0.00033443;N2;-1;V;p4
+8971;8971;往復;making a round trip,going and returning,coming and going;おうふく;6483;99.43314449;0.00033443;N2;26;V;p4
+8972;8972;待ち受ける;to await,to expect;まちうける;6483;99.43347892;0.00033443;;-1;V;p4
+8973;8973;待ち合わせ;appointment;まちあわせ;6483;99.43381335;0.00033443;N1;-1;V;p4
+8974;8974;待ち合わせる;to rendezvous,to meet at a prearranged place and time,to arrange to meet;まちあわせる;6483;99.43414778;0.00033443;N2;-1;V;p4
+8975;8975;待ち構える;to lie in wait,to be on the watch for;まちかまえる;6483;99.43448221;0.00033443;;-1;V;p4
+8976;8976;後任;successor;こうにん;6483;99.43481663;0.00033443;;-1;V;p4
+8977;8977;後始末;settlement (of affairs),remedial measures,cleaning up afterwards;あとしまつ;6483;99.43515106;0.00033443;;-1;V;p4
+8978;8978;後姿;retreating figure,appearance from behind;うしろすがた;6483;99.43548549;0.00033443;;-1;V;p4
+8979;8979;後日;in the future,another day,later;ごじつ;6483;99.43581992;0.00033443;;-1;V;p4
+8980;8980;後頭部;back of head;こうとうぶ;6483;99.43615435;0.00033443;;-1;V;p4
+8981;8981;徒競走;foot race;ときょうそう;6483;99.43648877;0.00033443;;-1;V;p4
+8982;8982;得意げ;proud,elated;とくいげ;6483;99.4368232;0.00033443;;-1;V;p4
+8983;8983;得点;scoring,score,points made,marks obtained,goals,runs;とくてん;6483;99.43715763;0.00033443;N1;-1;V;p4
+8984;8984;御;honorific,polite,humble prefix;ご;6483;99.43749206;0.00033443;N3;-1;V;p4
+8985;8985;御する;to drive (e.g. horse, carriage);ぎょする;6483;99.43782649;0.00033443;;-1;V;p4
+8986;8986;御免;your pardon,sorry,no thanks;ごめん;6483;99.43816091;0.00033443;N2;39;V;p4
+8987;8987;御曹司;son of a distinguished family,son of a noble;おんぞうし;6483;99.43849534;0.00033443;;-1;V;p4
+8988;8988;微生物;microbe,germ;びせいぶつ;6483;99.43882977;0.00033443;;28;V;p4
+8989;8989;微笑;smile;びしょう;6483;99.4391642;0.00033443;N1;-1;V;p4
+8990;8990;微笑み;smile;ほほえみ;6483;99.43949863;0.00033443;;-1;V;p4
+8991;8991;徴収;collection (of fees, taxes, etc.),levy;ちょうしゅう;6483;99.43983305;0.00033443;N1;-1;V;p4
+8992;8992;心がけ;(mental) attitude,way of thinking,attention,care,prudence,intention;こころがけ;6483;99.44016748;0.00033443;N1;-1;V;p4
+8993;8993;心して;carefully,with caution;こころして;6483;99.44050191;0.00033443;;-1;V;p4
+8994;8994;心する;to take care,to mind,to be attentive;こころする;6483;99.44083634;0.00033443;;-1;V;p4
+8995;8995;心の奥;inner heart;こころのおく;6483;99.44117077;0.00033443;;-1;V;p4
+8996;8996;心の平ら;even-tempered;こころのたいら;6483;99.44150519;0.00033443;;-1;V;p4
+8997;8997;心地よい;comfortable,pleasant;ここちよい;6483;99.44183962;0.00033443;;-1;V;p4
+8998;8998;心得る;to know,to understand,to be aware of,to regard as,to take for;こころえる;6483;99.44217405;0.00033443;N2;23;V;p4
+8999;8999;心構え;preparedness,readiness,mental attitude,frame of mind;こころがまえ;6483;99.44250848;0.00033443;;-1;V;p4
+9000;9000;心温まる;to be heart-warming;こころあたたまる;6483;99.44284291;0.00033443;;-1;V;p4
+9001;9001;心理学;psychology;しんりがく;6483;99.44317733;0.00033443;;7;V;p4
+9002;9002;心許ない;uneasy,unsure,anxious;こころもとない;6483;99.44351176;0.00033443;;-1;V;p4
+9003;9003;心身;mind and body;しんしん;6483;99.44384619;0.00033443;N2;8;V;p4
+9004;9004;心配事;worries,cares,troubles;しんぱいごと;6483;99.44418062;0.00033443;;12;V;p4
+9005;9005;心配性;nervous temperament,worrier's disposition;しんぱいしょう;6483;99.44451505;0.00033443;;-1;V;p4
+9006;9006;心霊現象;psychic phenomenon;しんれいげんしょう;6483;99.44484947;0.00033443;;-1;V;p4
+9007;9007;必殺;bringing certain death,deadly,knockout (blow);ひっさつ;6483;99.4451839;0.00033443;;-1;V;p4
+9008;9008;必須;indispensable,essential,requisite,required,compulsory,necessary;ひっす;6483;99.44551833;0.00033443;;52;V;p4
+9009;9009;忌み嫌う;to detest,to abhor,to loathe;いみきらう;6483;99.44585276;0.00033443;;-1;V;p4
+9010;9010;志望動機;reason for (one's) application (esp. to a company);しぼうどうき;6483;99.44618719;0.00033443;;-1;V;p4
+9011;9011;志望校;school of one's (first, second) choice;しぼうこう;6483;99.44652161;0.00033443;;-1;V;p4
+9012;9012;忘れ;to forget,to leave carelessly,to be forgetful of,to forget about,to forget (an article);わすれる;6483;99.44685604;0.00033443;N5;18;V;p4
+9013;9013;忘れかける;to start forgetting;わすれかける;6483;99.44719047;0.00033443;;-1;V;p4
+9014;9014;忘れ物;lost article,something forgotten;わすれもの;6483;99.4475249;0.00033443;N4;20;V;p4
+9015;9015;応募;application,subscription,entry (competition, raffle, etc.),enlistment;おうぼ;6483;99.44785933;0.00033443;N1;39;V;p4
+9016;9016;快眠;pleasant sleep;かいみん;6483;99.44819375;0.00033443;;-1;V;p4
+9017;9017;念;sense,idea,thought,feeling;ねん;6483;99.44852818;0.00033443;N1;-1;V;p4
+9018;9018;念のため;(just) making sure,just to be sure,just in case,for caution's sake;ねんのため;6483;99.44886261;0.00033443;;-1;V;p4
+9019;9019;怒らす;to anger,to displease,to offend;いからす;6483;99.44919704;0.00033443;;-1;V;p4
+9020;9020;怒り;anger,rage,fury,wrath,indignation;いかり;6483;99.44953147;0.00033443;N1;29;V;p4
+9021;9021;怒り狂う;to be in a fit (of anger),to rage;いかりくるう;6483;99.44986589;0.00033443;;-1;V;p4
+9022;9022;怒れる;Sinners in the Hands of an Angry God;;6483;99.45020032;0.00033443;;-1;V;p4
+9023;9023;怖い顔;grim face,angry look;こわいかお;6483;99.45053475;0.00033443;;-1;V;p4
+9024;9024;怖気;fear,dread,fright,willies;おぞけ;6483;99.45086918;0.00033443;;-1;V;p4
+9025;9025;思いがけず;unexpectedly,surprisingly;おもいがけず;6483;99.45120361;0.00033443;;-1;V;p4
+9026;9026;思いこみ;wrong impression,subjective impression,assumption,prejudice;おもいこみ;6483;99.45153803;0.00033443;;-1;V;p4
+9027;9027;思いで;memories,recollections,reminiscence;おもいで;6483;99.45187246;0.00033443;N3;8;V;p4
+9028;9028;思い上がる;to be conceited;おもいあがる;6483;99.45220689;0.00033443;;-1;V;p4
+9029;9029;思い付き;plan,idea,suggestion;おもいつき;6483;99.45254132;0.00033443;N1;-1;V;p4
+9030;9030;思い悩む;to worry about,to be worried about,to fret about,to not know what to do,to be at a loss (as to what to do);おもいなやむ;6483;99.45287575;0.00033443;;-1;V;p4
+9031;9031;思い残す;to regret;おもいのこす;6483;99.45321017;0.00033443;;-1;V;p4
+9032;9032;思い浮かべる;to be reminded of,to call to mind;おもいうかべる;6483;99.4535446;0.00033443;;-1;V;p4
+9033;9033;思い知らす;to make someone realize (e.g. their mistake),to bring (something) home to someone,to teach someone a lesson;おもいしらす;6483;99.45387903;0.00033443;;-1;V;p4
+9034;9034;思い違い;misunderstanding,misapprehension,false impression,misconception;おもいちがい;6483;99.45421346;0.00033443;;-1;V;p4
+9035;9035;思うツボ;one's wishes,one's expectations;おもうつぼ;6483;99.45454789;0.00033443;;-1;V;p4
+9036;9036;思念;thought;しねん;6483;99.45488231;0.00033443;;-1;V;p4
+9037;9037;怠る;to be negligent in doing something,to shirk,to be off one's guard;おこたる;6483;99.45521674;0.00033443;N2;52;V;p4
+9038;9038;急変;sudden turn,sudden change;きゅうへん;6483;99.45555117;0.00033443;;-1;V;p4
+9039;9039;急患;emergency case;きゅうかん;6483;99.45588559999999;0.00033443;;37;V;p4
+9040;9040;急速;rapid (e.g. progress);きゅうそく;6483;99.45622003;0.00033443;N3;-1;V;p4
+9041;9041;性根;nature,character,disposition;しょうね;6483;99.45655445;0.00033443;;-1;V;p4
+9042;9042;性質;nature,property,disposition;せいしつ;6483;99.45688888;0.00033443;N2;-1;V;p4
+9043;9043;怪獣;monster;かいじゅう;6483;99.45722331;0.00033443;N1;26;V;p4
+9044;9044;怪訝;dubious,puzzled,suspicious;けげん;6483;99.45755774;0.00033443;;-1;V;p4
+9045;9045;恋人同士;pair of lovers,girlfriend and boyfriend;こいびとどうし;6483;99.45789217;0.00033443;;-1;V;p4
+9046;9046;恐い;scary,frightening,eerie,dreadful;こわい;6483;99.45822659999999;0.00033443;N4;31;V;p4
+9047;9047;恐怖;fear,dread,dismay,terror,horror,scare,panic;きょうふ;6483;99.45856102;0.00033443;N3;29;V;p4
+9048;9048;恐怖症;morbid fear,phobia;きょうふしょう;6483;99.45889545;0.00033443;;29;V;p4
+9049;9049;恐縮;feeling obliged,being grateful,being thankful,being sorry,being ashamed;きょうしゅく;6483;99.45922988;0.00033443;N2;-1;V;p4
+9050;9050;恥じらう;to feel shy,to be bashful,to blush;はじらう;6483;99.45956431;0.00033443;N1;-1;V;p4
+9051;9051;恥ずかしがり屋;shy person;はずかしがりや;6483;99.45989874;0.00033443;;-1;V;p4
+9052;9052;恥知らず;shameless,shameless person;はじしらず;6483;99.46023316;0.00033443;;37;V;p4
+9053;9053;恨みつらみ;pent-up resentment,grudges and hard feelings;うらみつらみ;6483;99.46056759;0.00033443;;-1;V;p4
+9054;9054;恵み;blessing,grace;めぐみ;6483;99.46090202;0.00033443;N1;-1;V;p4
+9055;9055;悔し涙;tears of regret,bitter tears,vexation,chagrin;くやしなみだ;6483;99.46123645;0.00033443;;-1;V;p4
+9056;9056;悔し紛れ;spite,frustration,vexation;くやしまぎれ;6483;99.46157088;0.00033443;;-1;V;p4
+9057;9057;悔やむ;to mourn,to lament;くやむ;6483;99.4619053;0.00033443;N2;50;V;p4
+9058;9058;悠長;leisurely,slow,deliberate,easygoing;ゆうちょう;6483;99.46223973;0.00033443;;54;V;p4
+9059;9059;悪い評判;bad,poor,undesirable;わるい;6483;99.46257416;0.00033443;N5;12;V;p4
+9060;9060;悪党;scoundrel,rascal,villain;あくとう;6483;99.46290859;0.00033443;;-1;V;p4
+9061;9061;悪役;villain,baddie,the villain's part;あくやく;6483;99.46324302;0.00033443;;-1;V;p4
+9062;9062;悪戯;mischief,prank,trick,practical joke;いたずら;6483;99.46357744;0.00033443;N3;60;V;p4
+9063;9063;悪気;ill will,malice,evil intent;わるぎ;6483;99.46391187;0.00033443;;14;V;p4
+9064;9064;悪臭;stink,bad odor,bad odour,stench;あくしゅう;6483;99.4642463;0.00033443;;-1;V;p4
+9065;9065;悲惨;disastrous,tragic,miserable,wretched,pitiful,woeful;ひさん;6483;99.46458073;0.00033443;N1;53;V;p4
+9066;9066;情報交換;information exchange;じょうほうこうかん;6483;99.46491516;0.00033443;;-1;V;p4
+9067;9067;情報開示;information discovery,disclosure of information;じょうほうかいじ;6483;99.46524958;0.00033443;;-1;V;p4
+9068;9068;情熱;passion,enthusiasm,zeal;じょうねつ;6483;99.46558401;0.00033443;N1;13;V;p4
+9069;9069;惑う;to be puzzled,to be perplexed,to have doubts,to feel lost,to be at sea;まどう;6483;99.46591844;0.00033443;;27;V;p4
+9070;9070;惜しむ;to be frugal,to be sparing;おしむ;6483;99.46625287;0.00033443;N1;55;V;p4
+9071;9071;惨たらしい;incredibly brutal,gory,gruesome;むごたらしい;6483;99.4665873;0.00033443;;-1;V;p4
+9072;9072;意図的;intentional,on purpose;いとてき;6483;99.46692172;0.00033443;;14;V;p4
+9073;9073;意地;stubbornness,obstinacy,willpower,pride;いじ;6483;99.46725615;0.00033443;N1;-1;V;p4
+9074;9074;意地っ張り;obstinate,stubborn;いじっぱり;6483;99.46759058;0.00033443;;-1;V;p4
+9075;9075;意地悪;malicious,ill-tempered,unkind;いじわる;6483;99.46792501;0.00033443;N2;14;V;p4
+9076;9076;意思表示;expressing one's feelings,communicating one's intention;いしひょうじ;6483;99.46825944;0.00033443;;-1;V;p4
+9077;9077;意気込み;ardor,enthusiasm;いきごみ;6483;99.46859386;0.00033443;;-1;V;p4
+9078;9078;意気込む;to be enthusiastic about,to be eager,to be keen;いきごむ;6483;99.46892829;0.00033443;N1;-1;V;p4
+9079;9079;愚昧;stupid;ぐまい;6483;99.46926272;0.00033443;;-1;V;p4
+9080;9080;愚痴る;to complain,to grumble;ぐちる;6483;99.46959715;0.00033443;;-1;V;p4
+9081;9081;愚者;fool,nitwit;ぐしゃ;6483;99.46993158;0.00033443;;-1;V;p4
+9082;9082;愛せる;Name;;6483;99.47026600000001;0.00033443;;-1;V;p4
+9083;9083;愛情表現;expression of love,showing love;あいじょうひょうげん;6483;99.47060043;0.00033443;;-1;V;p4
+9084;9084;感度;sensitivity (e.g. of a measuring instrument),reception (radio, TV, etc.);かんど;6483;99.47093486;0.00033443;N1;-1;V;p4
+9085;9085;感激;deep emotion,impression,inspiration;かんげき;6483;99.47126929;0.00033443;N2;-1;V;p4
+9086;9086;慈愛;affection (esp. parental),love,fondness;じあい;6483;99.47160372;0.00033443;;51;V;p4
+9087;9087;慎み;modesty,self-control,discretion;つつしみ;6483;99.47193814;0.00033443;;-1;V;p4
+9088;9088;慰謝料;consolation money,solatium,reparation,damages,settlement;いしゃりょう;6483;99.47227257;0.00033443;;43;V;p4
+9089;9089;憑かれる;to be possessed;つかれる;6483;99.472607;0.00033443;;-1;V;p4
+9090;9090;憲法;constitution;けんぽう;6483;99.47294143;0.00033443;N3;28;V;p4
+9091;9091;懐かし;dear,desired,missed,longed-for,nostalgic;なつかし;6483;99.47327586;0.00033443;;-1;V;p4
+9092;9092;懲らしめ;chastisement;こらしめ;6483;99.47361028;0.00033443;;-1;V;p4
+9093;9093;懸念;worry,fear,anxiety,concern;けねん;6483;99.47394471;0.00033443;;-1;V;p4
+9094;9094;懸賞金;prize money,reward;けんしょうきん;6483;99.47427914;0.00033443;;-1;V;p4
+9095;9095;成金;upstart,nouveau riche,new money,new rich,coming into wealth suddenly;なりきん;6483;99.47461357;0.00033443;;-1;V;p4
+9096;9096;我が校;our school,my school;わがこう;6483;99.474948;0.00033443;;-1;V;p4
+9097;9097;戦士;soldier,combatant,warrior;せんし;6483;99.47528242;0.00033443;;-1;V;p4
+9098;9098;戯れる;to be playful,to gambol,to be amused (with something),to play,to sport,to frolic,to joke;たわむれる;6483;99.47561685;0.00033443;;58;V;p4
+9099;9099;戸締り;locking up (doors and windows),fastening the doors;とじまり;6483;99.47595128;0.00033443;N1;-1;V;p4
+9100;9100;戻せる;Name;;6483;99.47628571;0.00033443;;-1;V;p4
+9101;9101;戻り;return,reaction,recovery;もどり;6483;99.47662014;0.00033443;;-1;V;p4
+9102;9102;所属;belonging to (a group, organization, etc.),affiliation (with),being attached to,being under the control of;しょぞく;6483;99.47695456;0.00033443;N1;25;V;p4
+9103;9103;所持;possession,owning;しょじ;6483;99.47728899;0.00033443;N1;-1;V;p4
+9104;9104;手こずる;to have much trouble,to have a hard time,to not know how to handle;てこずる;6483;99.47762342;0.00033443;;-1;V;p4
+9105;9105;手さげ;handbag,purse;てさげ;6483;99.47795785;0.00033443;;-1;V;p4
+9106;9106;手つだう;to help,to assist,to aid;てつだう;6483;99.47829228;0.00033443;N4;13;V;p4
+9107;9107;手っ取り早い;quick,prompt,without delay;てっとりばやい;6483;99.47862669999999;0.00033443;;-1;V;p4
+9108;9108;手の平;palm (of one's hand);てのひら;6483;99.47896113;0.00033443;N1;47;V;p4
+9109;9109;手元;at hand,on hand,nearby,close at hand;てもと;6483;99.47929556;0.00033443;N1;-1;V;p4
+9110;9110;手加減;measuring by feel,adjusting by feel,doing by feel,knack,skill;てかげん;6483;99.47962999;0.00033443;;-1;V;p4
+9111;9111;手厚い;courteous,cordial,warm;てあつい;6483;99.47996442;0.00033443;;-1;V;p4
+9112;9112;手向かい;resistance;てむかい;6483;99.48029884;0.00033443;;-1;V;p4
+9113;9113;手抜き;omitting crucial steps,cutting corners,skimping;てぬき;6483;99.48063327;0.00033443;;-1;V;p4
+9114;9114;手摺り;handrail,railing,banister;てすり;6483;99.48096770000001;0.00033443;;-1;V;p4
+9115;9115;手放す;to let go of,to release,to drop;てばなす;6483;99.48130213;0.00033443;;-1;V;p4
+9116;9116;手料理;home cooking;てりょうり;6483;99.48163656;0.00033443;;-1;V;p4
+9117;9117;手札;one's hand (when playing cards);てふだ;6483;99.48197099;0.00033443;;-1;V;p4
+9118;9118;手短;short,brief;てみじか;6483;99.48230541;0.00033443;;-1;V;p4
+9119;9119;手編み;(hand) knitting;てあみ;6483;99.48263984;0.00033443;;-1;V;p4
+9120;9120;手近;near,close by,within reach,handy;てぢか;6483;99.48297427;0.00033443;N1;-1;V;p4
+9121;9121;手遅れ;being too late,losing one's final chance;ておくれ;6483;99.48330870000001;0.00033443;N1;-1;V;p4
+9122;9122;手間;time,labour,labor;てま;6483;99.48364313;0.00033443;N3;-1;V;p4
+9123;9123;手間取る;to take more time than expected,to take a long time,to be delayed;てまどる;6483;99.48397755;0.00033443;;-1;V;p4
+9124;9124;手頃;handy,convenient;てごろ;6483;99.48431198;0.00033443;N2;45;V;p4
+9125;9125;手順;process,procedure,sequence,protocol,instruction;てじゅん;6483;99.48464641;0.00033443;N1;-1;V;p4
+9126;9126;打ちのめす;to knock down,to beat (someone) up;うちのめす;6483;99.48498084;0.00033443;;-1;V;p4
+9127;9127;打ち上げ花火;skyrocket (firework);うちあげはなび;6483;99.48531527;0.00033443;;-1;V;p4
+9128;9128;打ち切る;to stop,to abort,to discontinue,to close;うちきる;6483;99.48564969;0.00033443;N1;-1;V;p4
+9129;9129;打ち合わせ;advance arrangements,preparatory meeting,briefing session;うちあわせ;6483;99.48598412;0.00033443;N2;-1;V;p4
+9130;9130;打ち明け話;confession,confidential talk,frank talk;うちあけばなし;6483;99.48631855;0.00033443;;-1;V;p4
+9131;9131;打ち消し;negation,denial,negative;うちけし;6483;99.48665298;0.00033443;N1;-1;V;p4
+9132;9132;打ち解ける;to open one's heart,to throw off reserve,to be frank;うちとける;6483;99.48698741;0.00033443;;-1;V;p4
+9133;9133;打ち込む;to drive in (e.g. nail, stake),to hammer in;うちこむ;6483;99.48732183;0.00033443;N1;-1;V;p4
+9134;9134;打合せ;advance arrangements,preparatory meeting,briefing session;うちあわせ;6483;99.48765626;0.00033443;N2;-1;V;p4
+9135;9135;扮;make-up,get-up,disguise,costume;ふんそう;6483;99.48799069;0.00033443;;-1;V;p4
+9136;9136;技術;technology,engineering;ぎじゅつ;6483;99.48832512;0.00033443;N4;16;V;p4
+9137;9137;投げやり;negligent,careless,slipshod,slovenly,reckless,irresponsible,offhand;なげやり;6483;99.48865955;0.00033443;;-1;V;p4
+9138;9138;投げ出す;to throw down,to throw out,to stretch out (one's legs);なげだす;6483;99.48899397;0.00033443;N1;-1;V;p4
+9139;9139;投じる;to throw,to cast (e.g. vote, light, shadow);とうじる;6483;99.4893284;0.00033443;;-1;V;p4
+9140;9140;投函;mailing,posting;とうかん;6483;99.48966283;0.00033443;;-1;V;p4
+9141;9141;投票用紙;ballot paper,voting paper;とうひょうようし;6483;99.48999726;0.00033443;;-1;V;p4
+9142;9142;折り合う;to reach an agreement,to come to an understanding,to compromise (with),to meet halfway;おりあう;6483;99.49033169;0.00033443;;-1;V;p4
+9143;9143;折り鶴;folded paper crane;おりづる;6483;99.49066611;0.00033443;;-1;V;p4
+9144;9144;抜け駆け;stealing a march on,getting a head start,secretly acting before others;ぬけがけ;6483;99.49100054;0.00033443;;-1;V;p4
+9145;9145;披露宴;reception (e.g. wedding),banquet,celebration,party;ひろうえん;6483;99.49133497;0.00033443;;55;V;p4
+9146;9146;抱く;to hold in one's arms (e.g. a baby),to embrace,to hug;いだく;6483;99.4916694;0.00033443;N3;37;V;p4
+9147;9147;押さえ;weight (e.g. paperweight),pressing down;おさえ;6483;99.49200383;0.00033443;;-1;V;p4
+9148;9148;押さえ込む;to pin down,to immobilize,to immobilise,to control,to suppress;おさえこむ;6483;99.49233825;0.00033443;;-1;V;p4
+9149;9149;押しつける;to press,to push,to force;おしつける;6483;99.49267268;0.00033443;;-1;V;p4
+9150;9150;押しのける;to push aside,to brush aside;おしのける;6483;99.49300711;0.00033443;;-1;V;p4
+9151;9151;押し付け;imposition (i.e. of rules, of a decision),compulsion;おしつけ;6483;99.49334154;0.00033443;;-1;V;p4
+9152;9152;押し出す;to crowd out,to push out,to squeeze out;おしだす;6483;99.49367597;0.00033443;;-1;V;p4
+9153;9153;押し込む;to push into,to cram into,to stuff into,to crowd into;おしこむ;6483;99.49401039;0.00033443;N1;-1;V;p4
+9154;9154;押し黙る;to keep silent;おしだまる;6483;99.49434482;0.00033443;;-1;V;p4
+9155;9155;押入れ;closet;おしいれ;6483;99.49467925;0.00033443;N4;32;V;p4
+9156;9156;担ぐ;to shoulder,to carry on one's shoulder;かつぐ;6483;99.49501368;0.00033443;N2;24;V;p4
+9157;9157;担任の先生;class teacher,homeroom teacher,form teacher;たんにんのせんせい;6483;99.49534811;0.00033443;;-1;V;p4
+9158;9158;拉致;taking captive,carrying away,kidnapping,kidnaping,abduction;らち;6483;99.49568253;0.00033443;;-1;V;p4
+9159;9159;拍手;clapping hands,applause;はくしゅ;6483;99.49601696;0.00033443;N3;56;V;p4
+9160;9160;拒む;to refuse,to reject,to decline;こばむ;6483;99.49635139;0.00033443;;39;V;p4
+9161;9161;拒否;refusal,rejection,denial,veto;きょひ;6483;99.49668582;0.00033443;N1;39;V;p4
+9162;9162;拒絶反応;(organ) rejection;きょぜつはんのう;6483;99.49702025;0.00033443;;-1;V;p4
+9163;9163;拘留;custody,detention,confinement;こうりゅう;6483;99.49735467;0.00033443;;-1;V;p4
+9164;9164;拘置所;prison,detention house,detention center,jail;こうちしょ;6483;99.49768909999999;0.00033443;;-1;V;p4
+9165;9165;招待状;written invitation;しょうたいじょう;6483;99.49802353;0.00033443;;-1;V;p4
+9166;9166;拝む;to assume the posture of praying,to press the palms and fingers of both hands together,to do reverence (e.g. before a statue of the Buddha),to pay one's respects;おがむ;6483;99.49835796;0.00033443;N2;34;V;p4
+9167;9167;拝啓;Dear (so and so),Dear Sir,Dear Madam,To Whom It May Concern;はいけい;6483;99.49869239;0.00033443;N1;-1;V;p4
+9168;9168;拡がる;to spread (out),to extend,to stretch,to reach to,to get around,to fill (e.g. a space);ひろがる;6483;99.49902681;0.00033443;N3;33;V;p4
+9169;9169;拭く;to wipe,to dry;ふく;6483;99.49936124;0.00033443;N2;-1;V;p4
+9170;9170;拾える;Name;;6483;99.49969567;0.00033443;;-1;V;p4

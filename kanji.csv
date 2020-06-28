@@ -1,0 +1,1809 @@
+﻿;Ja;En;Kunyomi;Onyomi;Frequency Rank;Cumulative Freq. Pct.;Frequency Pct.;JLPT Level;WK Level;Item Type;Tags
+0;子;child,sign of the rat,11PM-1AM,first sign of Chinese zodiac;こ;し;1;2.41167365;2.41167365;N4;2;K;p4
+1;介;jammed in,shellfish,mediate,concern oneself with;;かい;2;4.28214717;1.87047352;N1;35;K;p4
+2;陽;sunshine,yang principle,positive,male,heaven,daytime;ひ;よう;3;6.14301694;1.86086976;N4;2;K;p4
+3;花;flower;はな;か;4;7.93666038;1.7936434399999999;N5;4;K;p4
+4;村;village,town;むら;そん;5;9.7110963;1.7744359200000002;N5;4;K;p4
+5;中;in,inside,middle,mean,center;なか;ちゅう;6;11.36011841;1.64902211;N5;2;K;p4
+6;里;ri,village,parent's home,league;さと;り;7;12.72780684;1.36768843;;-1;K;p4
+7;千;thousand;ち;せん;8;14.07063848;1.34283164;N5;2;K;p4
+8;枝;bough,branch,twig,limb,counter for branches;えだ;し;9;15.40556114;1.33492266;N4;34;K;p4
+9;人;person;ひと;じん;10;16.55123324;1.14567209;N5;1;K;p4
+10;一;one,one radical (no.1);ひと;いち;11;17.66809405;1.11686081;N5;1;K;p4
+11;島;island;しま;とう;12;18.78213023;1.11403618;N4;12;K;p4
+12;直;straightaway,honesty,frankness,fix,repair;ただちに;ちょく;13;19.81199227;1.02986204;N3;22;K;p4
+13;雪;snow;ゆき;せつ;13;20.84185432;1.02986204;N5;7;K;p4
+14;堂;public chamber,hall;;どう;15;21.81126917;0.96941485;;-1;K;p4
+15;斗;Big Dipper,ten sho (vol),sake dipper,dots and cross radical (no. 68);;と;16;22.76204142;0.95077226;;-1;K;p4
+16;二;two,two radical (no. 7);ふた;に;17;23.69304123;0.93099981;N5;1;K;p4
+17;何;what;なに;か;18;24.56867818;0.87563696;N5;5;K;p4
+18;分;part,minute of time,segment,share,degree,one's lot,duty,understand,know,rate,1%,chances,shaku,100;わける;ぶん;19;25.44375021;0.87507203;N3;3;K;p4
+19;天;heavens,sky,imperial;あまつ;てん;20;26.3137379;0.86998768;N4;20;K;p4
+20;今;now;いま;こん;21;27.17977109;0.8660332;N5;3;K;p4
+21;事;matter,thing,fact,business,reason,possibly;こと;じ;22;28.03959009;0.859819;N3;9;K;p4
+22;完;perfect,completion,end;;かん;23;28.89488967;0.85529958;N3;14;K;p4
+23;白;white;しろ;はく;24;29.73154666;0.83665699;N5;2;K;p4
+24;城;castle;しろ;じょう;25;30.56537901;0.83383235;N3;23;K;p4
+25;日;day,sun,Japan,counter for days;ひ;にち;26;31.37830906;0.81293005;N4;2;K;p4
+26;鐘;bell,gong,chimes;かね;しょう;27;32.16468754;0.78637848;N2;45;K;p4
+27;菜;vegetable,side dish,greens;な;さい;28;32.92225474;0.7575672;;-1;K;p4
+28;言;say,word;いう;げん;29;33.66682861;0.74457388;N5;12;K;p4
+29;気;spirit,mind,air,atmosphere,mood;いき;き;30;34.38598077;0.71915216;N4;4;K;p4
+30;見;see,hopes,chances,idea,opinion,look at,visible;みる;けん;31;35.09778888;0.71180811;N5;22;K;p4
+31;小;little,small;ちいさい;しょう;32;35.79151931;0.69373044;N5;24;K;p4
+32;久;long time,old story;ひさしい;きゅう;33;36.47621092;0.68469161;N1;32;K;p4
+33;出;exit,leave,go out,come out,put out,protrude;でる;しゅつ;34;37.1603376;0.68412668;N3;30;K;p4
+34;巽;southeast;たつみ;そん;35;37.82751647;0.66717887;;-1;K;p4
+35;川;stream,river,river or three-stroke river radical (no. 47);かわ;せん;36;38.48057216;0.65305569;N5;1;K;p4
+36;上;above,up;うえ;じょう;37;39.12402409;0.64345193;N5;1;K;p4
+37;前;in front,before;まえ;ぜん;38;39.75052821;0.62650412;N5;4;K;p4
+38;郎;son,counter for sons;おとこ;ろう;39;40.36516886;0.61464065;;-1;K;p4
+39;慈;mercy;いつくしむ;じ;40;40.97416024;0.60899138;;-1;K;p4
+40;太;plump,thick,big around;ふとい;たい;41;41.55490526;0.58074503;N3;12;K;p4
+41;生;life,genuine,birth;いきる;せい;42;42.1254816;0.57057634;N3;3;K;p4
+42;先;before,ahead,previous,future,precedence;さき;せん;43;42.69210345;0.56662185;N5;4;K;p4
+43;大;large,big;おお;だい;44;43.25816037;0.56605692;N5;5;K;p4
+44;行;going,journey,carry out,conduct,act,line,row,bank;いく;こう;45;43.80670455;0.54854418;N3;12;K;p4
+45;思;think;おもう;し;46;44.34733976;0.5406352;N4;6;K;p4
+46;私;private,I,me;わたくし;し;47;44.86481295;0.51747319;N5;6;K;p4
+47;実;reality,truth,seed,fruit,nut;み;じつ;48;45.37098761;0.50617465;N1;9;K;p4
+48;後;behind,back,later;のち;ご;49;45.86868835;0.49770075;N5;6;K;p4
+49;来;come,due,next,cause,become;くる;らい;50;46.35735027;0.48866191;N5;7;K;p4
+50;遼;distant;;りょう;51;46.81211656;0.45476629;;-1;K;p4
+51;結;tie,bind,contract,join,organize,do up hair,fasten;むすぶ;けつ;52;47.26010372;0.44798716;N5;30;K;p4
+52;立;stand up,rise,set up,erect;たつ;りつ;53;47.6979222;0.43781848;N5;2;K;p4
+53;音;sound,noise;おと;おん;54;48.11088388;0.41296169;N4;5;K;p4
+54;手;hand;て;しゅ;55;48.51989108;0.4090072;N5;2;K;p4
+55;無;nothingness,none,ain't,nothing,nil,not;ない;む;56;48.92268408;0.402793;N3;17;K;p4
+56;条;article,clause,counter for articles,twig,item,stripe,streak;えだ;じょう;57;49.32491215;0.40222807;N3;33;K;p4
+57;話;tale,talk;はなす;わ;58;49.72431559;0.39940344;N5;10;K;p4
+58;原;meadow,original,primitive,field,plain,prairie,tundra,wilderness;はら;げん;59;50.1231541;0.39883851;N4;17;K;p4
+59;目;eye,class,look,insight,experience,care,favor;め;もく;60;50.51747319;0.39431909;N5;2;K;p4
+60;輩;comrade,fellow,people,companions;ばら;はい;61;50.90331838;0.38584519;;-1;K;p4
+61;部;section,bureau,dept,class,copy,part,portion,counter for copies of a newspaper or magazine;べ;ぶ;62;51.28520908;0.3818907;N1;9;K;p4
+62;自;oneself;みずから;じ;63;51.66596992;0.38076084;N5;10;K;p4
+63;長;long,leader,superior,senior;ながい;ちょう;64;52.04051657;0.37454665;N1;15;K;p4
+64;綾;design,figured cloth,twill;あや;りん;65;52.41449829;0.37398172;;-1;K;p4
+65;間;interval,space;あいだ;かん;65;52.78848001;0.37398172;N3;8;K;p4
+66;足;leg,foot,be sufficient,counter for pairs of footwear;あし;そく;67;53.15455275;0.36607274;N5;4;K;p4
+67;田;rice field,rice paddy;た;でん;68;53.48898957;0.33443682;N3;2;K;p4
+68;俺;I,myself;おれ;えん;69;53.81947191;0.33048233;N1;44;K;p4
+69;鳴;chirp,cry,bark,sound,ring,echo,honk;なく;めい;70;54.14769453;0.32822263;N5;10;K;p4
+70;時;time,hour;とき;じ;71;54.4663134;0.31861887;N3;7;K;p4
+71;帰;homecoming,arrive at,lead to,result in;かえる;き;72;54.77871807;0.31240467;N5;15;K;p4
+72;知;know,wisdom;しる;ち;72;55.09112274;0.31240467;N3;17;K;p4
+73;廣;broad,wide,spacious;ひろい;こう;74;55.4012677;0.31014496;N3;18;K;p4
+74;放;set free,release,fire,shoot,emit,banish,liberate;はなす;ほう;75;55.70802309;0.3067554;N3;11;K;p4
+75;瀬;rapids,current,torrent,shallows,shoal;せ;らい;76;56.00856429;0.3005412;;-1;K;p4
+76;永;eternity,long,lengthy;ながい;えい;77;56.30684579;0.29828149;N3;32;K;p4
+77;松;pine tree;まつ;しょう;78;56.6034325;0.29658671;N3;14;K;p4
+78;入;enter,insert;いる;にゅう;79;56.89832443;0.29489193;N4;5;K;p4
+79;家;house,home,family,professional,expert,performer;いえ;か;80;57.17909318;0.28076875;N5;12;K;p4
+80;海;sea,ocean;うみ;かい;81;57.45138803;0.27229485;N5;6;K;p4
+81;老;old man,old age,grow old;おいる;ろう;82;57.72255302;0.27116499;N3;11;K;p4
+82;透;transparent,permeate,filter,penetrate;すく;とう;82;57.99371801;0.27116499;N2;40;K;p4
+83;方;direction,person,alternative;かた;ほう;84;58.26431808;0.27060007;N3;3;K;p4
+84;沢;swamp,marsh,brilliance,grace;さわ;たく;85;58.53209351;0.26777543;N5;23;K;p4
+85;紀;chronicle,account,narrative,history,annals,geologic period;;き;86;58.7970443;0.26495079;N2;23;K;p4
+86;合;fit,suit,join,0.1;あう;ごう;87;59.06143017;0.26438587;N3;14;K;p4
+87;霧;fog,mist;きり;む;88;59.32468618;0.26325601;N3;47;K;p4
+88;過;overdo,exceed,go beyond,error;すぎる;か;89;59.58003322;0.25534703;N3;22;K;p4
+89;校;exam,school,printing,proof,correction;;こう;90;59.83199069;0.25195747;N1;30;K;p4
+90;課;chapter,lesson,section,department,division,counter for chapters (of a book);;か;91;60.0805586;0.24856791;N4;13;K;p4
+91;聞;hear,ask,listen;きく;ぶん;92;60.32856158;0.24800298;N5;10;K;p4
+92;僕;me,I (male),servant,manservant;しもべ;ぼく;93;60.57204515;0.24348357;N4;12;K;p4
+93;学;study,learning,science;まなぶ;がく;93;60.81552872;0.24348357;N5;7;K;p4
+94;笑;laugh;わらう;しょう;93;61.05901228;0.24348357;N3;18;K;p4
+95;西;west,Spain;にし;せい;96;61.29797643;0.23896415;N5;5;K;p4
+96;秀;excel,excellence,beauty,surpass;ひいでる;しゅう;97;61.53468087;0.23670444;;-1;K;p4
+97;感;emotion,feeling,sensation;;かん;98;61.76347634;0.22879546;N3;13;K;p4
+98;意;idea,mind,heart,taste,thought,desire,care,liking;;い;99;61.98888224;0.2254059;N5;11;K;p4
+99;夜;night,evening;よ;や;100;62.21259335;0.22371112;N5;6;K;p4
+100;輔;help;たすける;ほ;100;62.43630447;0.22371112;N3;8;K;p4
+101;尚;esteem,furthermore,still,yet;なお;しょう;102;62.65493125;0.21862678;N1;54;K;p4
+102;本;book,present,main,origin,true,real,counter for long cylindrical things;もと;ほん;102;62.87355802;0.21862678;N5;2;K;p4
+103;全;whole,entire,all,complete,fulfill;まったく;ぜん;104;63.08879524;0.21523721;N5;9;K;p4
+104;当;hit,right,appropriate,himself;あたる;とう;105;63.29951303;0.2107178;N3;8;K;p4
+105;楽;music,comfort,ease;たのしい;がく;106;63.50684127;0.20732823;N3;8;K;p4
+106;心;heart,mind,spirit,heart radical (no. 61);こころ;しん;107;63.70739038;0.20054911;N4;3;K;p4
+107;少;few,little;すくない;しょう;108;63.90737456;0.19998418;N3;4;K;p4
+108;味;flavor,taste;あじ;み;109;64.10566396;0.1982894;N4;11;K;p4
+109;件;affair,case,matter,item;くだん;けん;110;64.29999887;0.19433491;;-1;K;p4
+110;誰;who,someone,somebody;だれ;すい;111;64.49320393;0.19320506;N5;43;K;p4
+111;食;eat,food;くう;しょく;112;64.68527913;0.1920752;N5;17;K;p4
+112;違;difference,differ;ちがう;い;113;64.87678941;0.19151028;N5;24;K;p4
+113;緒;thong,beginning,inception,end,cord,strap,mental or emotional state;お;しょ;114;65.06321534;0.18642593;;-1;K;p4
+114;体;body,substance,object,reality,counter for images;からだ;たい;115;65.24681664;0.1836013;N5;5;K;p4
+115;力;power,strength,strong,strain,bear up,exert;ちから;りょく;116;65.42928808;0.18247144;N4;1;K;p4
+116;女;woman,female;おんな;じょ;117;65.61119459;0.18190652;N5;1;K;p4
+117;変;unusual,change,strange;かわる;へん;118;65.79253618;0.18134159;N4;15;K;p4
+118;明;bright,light;あかり;めい;119;65.97105314;0.17851695;N5;8;K;p4
+119;乃;from,possessive particle,whereupon,accordingly;の;ない;120;66.14900516;0.17795203;N1;44;K;p4
+120;絵;picture,drawing,painting,sketch;;かい;121;66.32582734;0.17682217;N5;8;K;p4
+121;会;meeting,meet,party,association,interview,join;あう;かい;122;66.50095473;0.17512739;N3;5;K;p4
+122;顔;face,expression;かお;がん;123;66.6715627;0.17060797;N1;10;K;p4
+123;待;wait,depend on;まつ;たい;124;66.83595648;0.16439378;N5;12;K;p4
+124;続;continue,series,sequel;つづく;ぞく;125;66.99809055;0.16213407;N4;21;K;p4
+125;世;generation,world,society,public;よ;せい;126;67.15965969;0.16156914;N1;4;K;p4
+126;場;location,place;ば;じょう;127;67.31783927;0.15817958;N4;8;K;p4
+127;持;hold,have;もつ;じ;128;67.47545392;0.15761465;N5;9;K;p4
+128;考;consider,think over;かんがえる;こう;129;67.63193872;0.1564848;N4;5;K;p4
+129;真;true,reality,Buddhist sect;ま;しん;130;67.78729366;0.15535494;N1;49;K;p4
+130;者;someone,person;もの;しゃ;131;67.93812919;0.15083553;;-1;K;p4
+131;通;traffic,pass through,avenue,commute,counter for letters;とおる;つう;132;68.08839979;0.1502706;N2;34;K;p4
+132;動;move,motion,change,confusion,shift,shake;うごく;どう;133;68.23697561;0.14857582;N5;12;K;p4
+133;最;utmost,most,extreme;もっとも;さい;133;68.38555143;0.14857582;N4;10;K;p4
+134;年;year,counter for years;とし;ねん;135;68.53356232;0.14801089;N5;4;K;p4
+135;物;thing,object,matter;もの;ぶつ;135;68.68157321;0.14801089;N5;9;K;p4
+136;犯;crime,sin,offense;おかす;はん;135;68.8295841;0.14801089;N3;20;K;p4
+137;黒;black;くろ;こく;135;68.97759499;0.14801089;N3;29;K;p4
+138;高;tall,high,expensive;たかい;こう;139;69.12447603;0.14688104;N4;20;K;p4
+139;度;degrees,occurrence,time,counter for occurrences,consider,attitude;たび;ど;140;69.27079214;0.14631611;N3;9;K;p4
+140;好;fond,pleasing,like something;このむ;こう;141;69.41654332;0.14575118;N5;11;K;p4
+141;理;logic,arrangement,reason,justice,truth;ことわり;り;142;69.56059973;0.1440564;N3;21;K;p4
+142;雨;rain;あめ;う;143;69.7040912;0.14349148;N5;5;K;p4
+143;別;separate,branch off,diverge,fork,another,extra,specially;わかれる;べつ;144;69.84701775;0.14292655;N4;11;K;p4
+144;付;adhere,attach,refer to,append;つける;ふ;145;69.98881444;0.14179669;N1;11;K;p4
+145;木;tree,wood;き;ぼく;145;70.13061114;0.14179669;N5;2;K;p4
+146;南;south;みなみ;なん;147;70.27184291;0.14123177;N5;6;K;p4
+147;仲;go-between,relationship;なか;ちゅう;148;70.40855526;0.13671235;N3;11;K;p4
+148;張;"lengthen,counter for bows &amp; stringed instruments,stretch,spread,put up (tent)";はる;ちょう;149;70.54470268;0.13614742;N5;23;K;p4
+149;死;death,die;しぬ;し;149;70.6808501;0.13614742;N1;6;K;p4
+150;強;strong;つよい;きょう;151;70.8164326;0.1355825;N3;30;K;p4
+151;早;early,fast;はやい;そう;152;70.95145017;0.13501757;N5;10;K;p4
+152;確;assurance,firm,tight,hard,solid,confirm,clear,evident;たしか;かく;153;71.08477296;0.13332279;N2;20;K;p4
+153;休;rest,day off,retire,sleep;やすむ;きゅう;154;71.21527111;0.13049815;N5;4;K;p4
+154;所;place,extent;ところ;しょ;155;71.34463941;0.1293683;N5;8;K;p4
+155;終;end,finish;おわる;しゅう;156;71.47344278;0.12880337;N4;12;K;p4
+156;下;below,down,descend,give,low,inferior;した;か;157;71.60168122;0.12823844;N5;1;K;p4
+157;悪;bad,vice,rascal,false,evil,wrong;わるい;あく;158;71.72878981;0.12710859;N3;46;K;p4
+158;界;world,boundary;;かい;158;71.8558984;0.12710859;N3;24;K;p4
+159;柏;oak,cypress;かしわ;はく;160;71.98187714;0.12597874;;-1;K;p4
+160;様;Esq.,way,manner,situation,polite suffix;さま;よう;160;72.10785588;0.12597874;N1;13;K;p4
+161;決;decide,fix,agree upon,appoint;きめる;けつ;160;72.23383461;0.12597874;N4;8;K;p4
+162;仕;attend,doing,official,serve;つかえる;し;163;72.35924842;0.12541381;N5;11;K;p4
+163;父;father;ちち;ふ;164;72.4840973;0.12484888;N3;12;K;p4
+164;良;good,pleasing,skilled;よい;りょう;164;72.60894619;0.12484888;N5;11;K;p4
+165;同;same,agree,equal;おなじ;どう;166;72.73266521;0.12371903;N5;5;K;p4
+166;戻;re-,return,revert,resume,restore,go backwards;もどす;れい;166;72.85638424;0.12371903;N4;37;K;p4
+167;取;take,fetch,take up;とる;しゅ;168;72.97953834;0.1231541;N5;16;K;p4
+168;向;yonder,facing,beyond,confront,defy,tend toward,approach;むく;こう;169;73.10156259;0.12202425;N5;8;K;p4
+169;金;gold;かね;きん;169;73.22358683;0.12202425;N3;5;K;p4
+170;込;crowded,mixture,in bulk,included,(kokuji);こむ;;171;73.34504615;0.12145932;N4;21;K;p4
+171;回;-times,round,game,revolve,counter for occurrences;まわる;かい;172;73.46368084;0.11863468;N3;5;K;p4
+172;居;reside,to be,exist,live with;いる;きょ;173;73.58118567;0.11750483;N5;25;K;p4
+173;作;make,production,prepare,build;つくる;さく;174;73.69812557;0.1169399;N5;5;K;p4
+174;解;unravel,notes,key,explanation,understanding,untie,undo,solve,answer,cancel,absolve,explain,minute;とく;かい;175;73.81337069;0.11524512;N3;21;K;p4
+175;神;gods,mind,soul;かみ;しん;176;73.92805089;0.11468019;N3;11;K;p4
+176;典;code,ceremony,law,rule;;てん;177;74.04216616;0.11411527;;-1;K;p4
+177;近;near,early,akin,tantamount;ちかい;きん;178;74.15515157;0.11298541;N5;5;K;p4
+178;殺;kill,murder,butcher,slice off,split,diminish,reduce,spoil;ころす;さつ;179;74.26757206;0.11242049;N1;13;K;p4
+179;男;male;おとこ;だん;180;74.37942762;0.11185556;N5;4;K;p4
+180;嬉;glad,pleased,rejoice;うれしい;き;181;74.49071825;0.11129063;;-1;K;p4
+181;美;beauty,beautiful;うつくしい;び;182;74.60087903;0.11016078;N4;16;K;p4
+182;屋;roof,house,shop,dealer,seller;や;おく;183;74.71047488;0.10959585;N3;12;K;p4
+183;然;sort of thing,so,if so,in that case,well;しか;ぜん;183;74.82007073;0.10959585;;-1;K;p4
+184;外;outside;そと;がい;185;74.92910165;0.10903092;N5;3;K;p4
+185;活;lively,resuscitation,being helped,living;いきる;かつ;185;75.03813258;0.10903092;N4;3;K;p4
+186;色;color;いろ;しょく;187;75.14659857;0.108466;N5;5;K;p4
+187;不;negative,non-,bad,ugly,clumsy;;ふ;188;75.25393472;0.10733614;N3;6;K;p4
+188;室;room,apartment,chamber,greenhouse,cellar;むろ;しつ;188;75.36127086;0.10733614;N1;6;K;p4
+189;映;reflect,reflection,projection;うつる;えい;190;75.46804208;0.10677122;N5;13;K;p4
+190;買;buy;かう;ばい;190;75.57481329;0.10677122;N5;11;K;p4
+191;関;connection,barrier,gateway,involve,concerning;せき;かん;190;75.68158451;0.10677122;N4;16;K;p4
+192;面;mask,face,features,surface;おも;めん;190;75.78835572;0.10677122;N5;16;K;p4
+193;町;town,village,block,street;まち;ちょう;194;75.89343216;0.10507643;N5;4;K;p4
+194;元;beginning,former time,origin;もと;げん;195;75.99794367;0.10451151;N3;3;K;p4
+195;教;teach,faith,doctrine;おしえる;きょう;196;76.10132532;0.10338165;N5;7;K;p4
+196;特;special;;とく;196;76.20470697;0.10338165;N4;11;K;p4
+197;警;admonish,commandment;いましめる;けい;198;76.3075237;0.10281673;N4;17;K;p4
+198;山;mountain;やま;さん;199;76.40921057;0.10168687;N5;1;K;p4
+199;伝;transmit,go along,walk along,follow,report,communicate,legend,tradition;つたわる;でん;200;76.51033252;0.10112195;N3;22;K;p4
+200;番;turn,number in a series;つがい;ばん;201;76.60919475;0.09886224;N5;8;K;p4
+201;配;distribute,spouse,exile,rationing;くばる;はい;202;76.70636221;0.09716746;N3;18;K;p4
+202;野;plains,field,rustic,civilian life;の;や;202;76.80352966;0.09716746;N5;31;K;p4
+203;夫;husband,man;おっと;ふ;204;76.90013219;0.09660253;N4;15;K;p4
+204;病;ill,sick;やむ;びょう;204;76.99673472;0.09660253;N5;10;K;p4
+205;連;take along,lead,join,connect,party,gang,clique;つらなる;れん;206;77.09051261;0.09377789;N4;19;K;p4
+206;頼;trust,request;たのむ;らい;206;77.18429051;0.09377789;N5;36;K;p4
+207;切;cut,cutoff,be sharp;きる;せつ;208;77.27750347;0.09321297;N5;30;K;p4
+208;店;store,shop;みせ;てん;209;77.36902166;0.09151819;N5;6;K;p4
+209;情;feelings,emotion,passion,sympathy,circumstances,facts;なさけ;じょう;210;77.45997492;0.09095326;N3;18;K;p4
+210;深;deep,heighten,intensify,strengthen;ふかい;しん;210;77.55092818;0.09095326;N2;12;K;p4
+211;察;guess,presume,surmise,judge,understand;;さつ;212;77.64131651;0.09038833;;-1;K;p4
+212;初;first time,beginning;はじめ;しょ;213;77.73113991;0.0898234;N5;13;K;p4
+213;探;grope,search,look for;さぐる;たん;213;77.82096331;0.0898234;N4;25;K;p4
+214;母;mother;はは;ぼ;215;77.91022179;0.08925848;N3;12;K;p4
+215;優;tenderness,excel,surpass,actor,superiority,gentleness;やさしい;ゆう;216;77.99835041;0.08812862;N3;23;K;p4
+216;欲;longing,covetousness,greed,passion,desire,craving;ほっする;よく;216;78.08647904;0.08812862;N5;32;K;p4
+217;君;mister,you,ruler,male name suffix;きみ;くん;218;78.17234795;0.08586891;N4;8;K;p4
+218;可;can,passable,mustn't,should not,do not;べき;か;219;78.25765194;0.08530399;N5;18;K;p4
+219;着;don,arrive,wear,counter for suits of clothing;きる;ちゃく;219;78.34295592;0.08530399;N5;12;K;p4
+220;親;parent,intimacy,relative,familiarity,dealer (cards);おや;しん;221;78.42769498;0.08473906;N4;10;K;p4
+221;愛;love,affection,favourite;いとしい;あい;222;78.51186912;0.08417413;N3;17;K;p4
+222;次;next,order,sequence;つぐ;じ;223;78.5949134;0.08304428;N5;6;K;p4
+223;以;by means of,because,in view of,compared with;もって;い;224;78.67682782;0.08191442;N4;7;K;p4
+224;書;write;かく;しょ;224;78.75874225;0.08191442;N3;42;K;p4
+225;頑;stubborn,foolish,firmly;かたく;がん;224;78.84065667;0.08191442;N1;14;K;p4
+226;貴;precious,value,prize,esteem,honor;たっとい;き;227;78.92144124000001;0.08078457;N1;34;K;p4
+227;係;person in charge,connection,duty,concern oneself;かかる;けい;228;79.00166089;0.08021964;N2;16;K;p4
+228;備;equip,provision,preparation;そなえる;び;228;79.08188053;0.08021964;N3;23;K;p4
+229;諸;various,many,several,together;もろ;しょ;228;79.16210017;0.08021964;N1;33;K;p4
+230;保;protect,guarantee,keep,preserve,sustain,support;たもつ;ほ;231;79.24175489;0.07965472;N3;16;K;p4
+231;助;help,rescue,assist;たすける;じょ;231;79.32140961;0.07965472;N3;10;K;p4
+232;岡;mount,hill,knoll;おか;こう;231;79.40106432;0.07965472;N3;44;K;p4
+233;報;report,news,reward,retribution;むくいる;ほう;234;79.48015411;0.07908979;N4;8;K;p4
+234;丈;length,ten shaku,measure,Mr.,Ms.,height,stature,all (one has),only,that's all,merely;たけ;じょう;235;79.55867897;0.07852486;N1;15;K;p4
+235;信;faith,truth,fidelity,trust;;しん;235;79.63720384;0.07852486;N3;36;K;p4
+236;必;invariably,certain,inevitable;かならず;ひつ;235;79.7157287;0.07852486;N4;9;K;p4
+237;性;sex,gender,nature;さが;せい;235;79.79425356;0.07852486;N3;14;K;p4
+238;文;sentence,literature,style,art,decoration,figures,plan,literary radical (no. 67);ふみ;ぶん;235;79.87277842;0.07852486;N3;2;K;p4
+239;相;inter-,mutual,together,each other,minister of state,councillor,aspect,phase,physiognomy;あい;そう;240;79.95073836;0.07795994;N3;14;K;p4
+240;名;name,noted,distinguished,reputation;な;めい;241;80.02813337;0.07739501;N3;4;K;p4
+241;現;present,existing,actual;あらわれる;げん;241;80.10552838;0.07739501;N3;23;K;p4
+242;残;remainder,leftover,balance;のこる;ざん;243;80.18235846;0.07683008;N4;14;K;p4
+243;覚;memorize,learn,remember,awake,sober up;おぼえる;かく;244;80.25805868;0.07570023;N5;19;K;p4
+244;四;four;よ;し;245;80.33319398;0.0751353;N5;2;K;p4
+245;引;pull,tug,jerk,admit,install,quote,refer to;ひく;いん;245;80.40832928;0.0751353;N5;3;K;p4
+246;急;hurry,emergency,sudden,steep;いそぐ;きゅう;245;80.48346458;0.0751353;N4;16;K;p4
+247;由;wherefore,a reason;よし;ゆ;245;80.55859988;0.0751353;N2;41;K;p4
+248;兄;elder brother,big brother;あに;けい;249;80.63317026;0.07457037;N5;5;K;p4
+249;業;business,vocation,arts,performance;わざ;ぎょう;249;80.70774063;0.07457037;;-1;K;p4
+250;他;other,another,the others;ほか;た;251;80.78174608;0.07400545;N5;4;K;p4
+251;旅;trip,travel;たび;りょ;252;80.8551866;0.07344052;N3;12;K;p4
+252;正;correct,justice,righteous,10**40;ただしい;せい;253;80.92806219;0.07287559;N3;6;K;p4
+253;対;vis-a-vis,opposite,even,equal,versus,anti-,compare;あいて;たい;254;81.00037285;0.07231066;N3;24;K;p4
+254;準;semi-,correspond to,proportionate to,conform,imitate;じゅんじる;じゅん;254;81.07268352;0.07231066;N3;23;K;p4
+255;集;gather,meet,congregate,swarm,flock;あつまる;しゅう;254;81.14499418;0.07231066;N3;19;K;p4
+256;員;employee,member,number,the one in charge;;いん;257;81.21617499;0.07118081;;-1;K;p4
+257;問;question,ask,problem;とう;もん;257;81.2873558;0.07118081;N5;13;K;p4
+258;声;voice;こえ;せい;257;81.35853661;0.07118081;N5;5;K;p4
+259;数;number,strength,fate,law,figures;かず;すう;260;81.42802264;0.06948603;N3;8;K;p4
+260;演;performance,act,play,render,stage;;えん;260;81.49750867;0.06948603;N3;38;K;p4
+261;身;somebody,person,one's station in life;み;しん;260;81.5669947;0.06948603;N3;8;K;p4
+262;忘;forget;わすれる;ぼう;263;81.63535088;0.06835618;N5;18;K;p4
+263;救;salvation,save,help,rescue,reclaim;すくう;きゅう;263;81.70370705;0.06835618;N3;8;K;p4
+264;題;topic,subject;;だい;263;81.77206323;0.06835618;;-1;K;p4
+265;送;escort,send;おくる;そう;266;81.83985447;0.06779125;N4;9;K;p4
+266;定;determine,fix,establish,decide;さだめる;てい;267;81.9070808;0.06722632;N1;21;K;p4
+267;空;empty,sky,void,vacant,vacuum;そら;くう;267;81.97430712;0.06722632;N5;5;K;p4
+268;勝;victory,win,prevail,excel;かつ;しょう;269;82.04040358;0.06609647;N4;9;K;p4
+269;多;many,frequent,much;おおい;た;270;82.10593512;0.06553154;N5;5;K;p4
+270;泣;cry,weep,moan;なく;きゅう;270;82.17146666;0.06553154;N4;15;K;p4
+271;怖;dreadful,be frightened,fearful;こわい;ふ;272;82.23586835;0.06440169;N4;29;K;p4
+272;誘;entice,lead,tempt,invite,ask,call for,seduce,allure;さそう;ゆう;272;82.30027004;0.06440169;N3;27;K;p4
+273;恥;shame,dishonor;はじる;ち;274;82.36410679;0.06383676;N1;35;K;p4
+274;内;inside,within,between,among,house,home;うち;ない;275;82.4268137;0.0627069;N4;3;K;p4
+275;受;accept,undergo,answer (phone),take,get,catch,receive;うける;じゅ;275;82.4895206;0.0627069;N4;29;K;p4
+276;地;ground,earth;;ち;275;82.55222751;0.0627069;N3;6;K;p4
+277;羽;feathers,counter for birds;は;う;275;82.61493441;0.0627069;N3;5;K;p4
+278;覆;capsize,cover,shade,mantle,be ruined;おおう;ふく;275;82.67764132;0.0627069;N3;51;K;p4
+279;習;learn;ならう;しゅう;280;82.73978329;0.06214198;N5;10;K;p4
+280;落;fall,drop,come down,village,hamlet;おちる;らく;280;82.80192527;0.06214198;N4;10;K;p4
+281;葉;leaf,plane,lobe,needle,blade,spear,counter for flat things,fragment,piece;は;よう;280;82.86406725;0.06214198;N4;10;K;p4
+282;稲;rice plant;いね;とう;283;82.9256443;0.06157705;N3;39;K;p4
+283;要;need,main point,essence,pivot,key to;いる;よう;284;82.98665642;0.06101212;N5;9;K;p4
+284;遊;play;あそぶ;ゆう;284;83.04766855;0.06101212;N4;32;K;p4
+285;院;Inst.,institution,temple,mansion,school;;いん;286;83.10811574;0.0604472;;-1;K;p4
+286;得;gain,get,find,earn,acquire,can,may,able to,profit,advantage,benefit;える;とく;287;83.16799801;0.05988227;N3;19;K;p4
+287;発;departure,discharge,publish,emit,start from,disclose,counter for gunshots;たつ;はつ;287;83.22788028;0.05988227;N4;9;K;p4
+288;絶;discontinue,sever,cut off,abstain,interrupt,suppress,be beyond,without match,peerless,unparalleled;たえる;ぜつ;287;83.28776255;0.05988227;N3;43;K;p4
+289;化;change,take the form of,influence,enchant,delude,-ization;ばける;か;290;83.34707989;0.05931734;N3;47;K;p4
+290;安;relax,cheap,low,quiet,rested,contented,peaceful;やすい;あん;291;83.40583231;0.05875242;N5;6;K;p4
+291;止;stop,halt;とまる;し;292;83.4640198;0.05818749;N5;3;K;p4
+292;約;promise,approximately,shrink;つづまる;やく;292;83.52220728;0.05818749;N3;14;K;p4
+293;能;ability,talent,skill,capacity;よく;のう;292;83.58039477;0.05818749;N3;14;K;p4
+294;役;duty,war,campaign,drafted labor,office,service,role;;やく;295;83.63801733;0.05762256;N3;8;K;p4
+295;絆;bonds,fetters;きずな;はん;295;83.69563989;0.05762256;;-1;K;p4
+296;失;lose,error,fault,disadvantage,loss;うしなう;しつ;297;83.75269753;0.05705763;N2;17;K;p4
+297;寝;lie down,sleep,rest,bed,remain unsold;ねる;しん;297;83.80975516;0.05705763;N5;22;K;p4
+298;肉;meat;しし;にく;297;83.86681279;0.05705763;N5;5;K;p4
+299;勉;exertion,endeavour,encourage,strive,make effort,diligent;つとめる;べん;300;83.9233055;0.05649271;N5;12;K;p4
+300;彼;he,that,the;かれ;ひ;300;83.97979821;0.05649271;N4;35;K;p4
+301;晴;clear up;はれる;せい;300;84.03629091;0.05649271;N5;15;K;p4
+302;流;current,a sink,flow,forfeit;ながれる;りゅう;300;84.09278362;0.05649271;N3;14;K;p4
+303;守;guard,protect,defend,obey;まもる;しゅ;304;84.1487114;0.05592778;N3;16;K;p4
+304;達;accomplished,reach,arrive,attain;たち;たつ;304;84.20463918;0.05592778;;-1;K;p4
+305;八;eight,eight radical (no. 12);や;はち;306;84.26000203;0.05536285;N5;1;K;p4
+306;嫌;dislike,detest,hate;きらう;けん;306;84.31536489;0.05536285;N5;20;K;p4
+307;答;solution,answer;こたえる;とう;306;84.37072774;0.05536285;N4;8;K;p4
+308;起;rouse,wake up,get up;おきる;き;306;84.42609059;0.05536285;N5;10;K;p4
+309;苦;suffering,trial,worry,hardship,feel bitter,scowl;くるしい;く;310;84.48088852;0.05479793;N4;9;K;p4
+310;電;electricity;;でん;310;84.53568644;0.05479793;N5;8;K;p4
+311;口;mouth;くち;こう;312;84.58991944;0.054233;N5;1;K;p4
+312;期;period,time,date,term;;き;312;84.64415244;0.054233;N3;12;K;p4
+313;倒;overthrow,fall,collapse,drop,break down;たおれる;とう;314;84.69782051;0.05366807;N2;30;K;p4
+314;呼;call,call out to,invite;よぶ;こ;314;84.75148858;0.05366807;N5;23;K;p4
+315;始;commence,begin;はじめる;し;314;84.80515665;0.05366807;N5;13;K;p4
+316;組;association,braid,plait,construct,assemble,unite,cooperate,grapple;くむ;そ;314;84.85882473;0.05366807;N3;7;K;p4
+317;願;petition,request,vow,wish,hope;ねがう;がん;314;84.9124928;0.05366807;;-1;K;p4
+318;代;substitute,change,convert,replace,period,age,counter for decades of ages,generation,charge,rate,fee;かわる;だい;319;84.96559594;0.05310314;N1;4;K;p4
+319;新;new;あたらしい;しん;319;85.01869909;0.05310314;N5;10;K;p4
+320;用;utilize,business,service,use,employ;もちいる;よう;319;85.07180223;0.05310314;N4;3;K;p4
+321;逃;escape,flee,shirk,evade,set free;にげる;とう;319;85.12490537;0.05310314;N4;38;K;p4
+322;使;use,send on a mission,order,messenger,envoy,ambassador,cause;つかう;し;323;85.17744359;0.05253822;N5;37;K;p4
+323;想;concept,think,idea,thought;おもう;そう;323;85.22998181;0.05253822;N4;6;K;p4
+324;状;status quo,conditions,circumstances,form,appearance;;じょう;323;85.28252003;0.05253822;N1;13;K;p4
+325;館;building,mansion,large building,palace;やかた;かん;323;85.33505824;0.05253822;;-1;K;p4
+326;充;allot,fill;あてる;じゅう;327;85.38703153;0.05197329;N1;39;K;p4
+327;十;ten;とお;じゅう;327;85.43900482;0.05197329;N5;1;K;p4
+328;友;friend;とも;ゆう;329;85.49041319;0.05140836;N5;18;K;p4
+329;悠;permanence,distant,long time,leisure;;ゆう;329;85.54182155;0.05140836;N2;54;K;p4
+330;命;fate,command,decree,destiny,life,appoint;いのち;めい;331;85.59266499;0.05084344;N3;11;K;p4
+331;道;road-way,street,district,journey,course,moral,teachings;みち;どう;331;85.64350842;0.05084344;N5;8;K;p4
+332;予;beforehand,previous,myself,I;あらかじめ;よ;333;85.69378693;0.05027851;N4;9;K;p4
+333;捜;search,look for,locate;さがす;そう;333;85.74406544;0.05027851;N4;25;K;p4
+334;疲;exhausted,tire,weary;つかれる;ひ;333;85.79434395;0.05027851;N5;45;K;p4
+335;市;market,city,town;いち;し;336;85.84405753;0.04971358;N4;3;K;p4
+336;戦;war,battle,match;いくさ;せん;336;85.89377111;0.04971358;N4;11;K;p4
+337;族;tribe,family;;ぞく;336;85.9434847;0.04971358;;-1;K;p4
+338;束;bundle,sheaf,ream,tie in bundles,govern,manage,control;たば;そく;336;85.99319828;0.04971358;N3;14;K;p4
+339;遠;distant,far;とおい;えん;336;86.04291186;0.04971358;N5;16;K;p4
+340;乗;ride,power,multiplication,record,counter for vehicles,board,mount,join;のる;じょう;341;86.09206051;0.04914865;N4;11;K;p4
+341;重;heavy,important,esteem,respect,heap up,pile up,nest of boxes,-fold;え;じゅう;342;86.14007932;0.0480188;N5;9;K;p4
+342;商;make a deal,selling,dealing in,merchant;あきなう;しょう;343;86.18753319;0.04745387;N3;12;K;p4
+343;調;tune,tone,meter,key (music),writing style,prepare,exorcise,investigate,harmonize,mediate;しらべる;ちょう;343;86.23498706;0.04745387;N4;10;K;p4
+344;指;finger,point to,indicate,put into,play (chess),measure (ruler);ゆび;し;345;86.28131108;0.04632402;N4;11;K;p4
+345;捕;catch,capture;とらえる;ほ;345;86.3276351;0.04632402;N1;55;K;p4
+346;月;month,moon;つき;げつ;345;86.37395912;0.04632402;N3;2;K;p4
+347;皆;all,everything;みな;かい;345;86.42028314;0.04632402;N5;13;K;p4
+348;練;practice,gloss,train,drill,polish,refine;ねる;れん;345;86.46660716;0.04632402;N5;13;K;p4
+349;街;boulevard,street,town;まち;がい;345;86.51293118;0.04632402;N5;4;K;p4
+350;選;elect,select,choose,prefer;えらぶ;せん;345;86.5592552;0.04632402;N4;13;K;p4
+351;勇;courage,cheer up,be in high spirits,bravery,heroism;いさむ;ゆう;352;86.60501429;0.04575909;N3;15;K;p4
+352;的;bull's eye,mark,target,object,adjective ending;まと;てき;352;86.65077339;0.04575909;N1;14;K;p4
+353;訳;translate,reason,circumstance,case;わけ;やく;352;86.69653248;0.04575909;N4;32;K;p4
+354;返;return,answer,fade,repay;かえす;へん;352;86.74229157;0.04575909;N5;9;K;p4
+355;劇;drama,play;;げき;356;86.78748574;0.04519417;N3;17;K;p4
+356;運;carry,luck,destiny,fate,lot,transport,progress,advance;はこぶ;うん;356;86.8326799;0.04519417;N3;12;K;p4
+357;降;descend,precipitate,fall,surrender;おりる;こう;356;86.87787407;0.04519417;N5;36;K;p4
+358;寂;loneliness,quietly,mellow,mature,death of a priest;さび;じゃく;359;86.9225033;0.04462924;N4;56;K;p4
+359;昨;yesterday,previous;;さく;359;86.96713254;0.04462924;N5;15;K;p4
+360;素;elementary,principle,naked,uncovered;もと;そ;359;87.01176178;0.04462924;N3;3;K;p4
+361;頃;time,about,toward;ころ;けい;359;87.05639102;0.04462924;N3;45;K;p4
+362;頭;head,counter for large animals;あたま;とう;363;87.10045533;0.04406431;N5;10;K;p4
+363;困;quandary,become distressed,annoyed;こまる;こん;364;87.14395472;0.04349938;N5;20;K;p4
+364;容;contain,form,looks;いれる;よう;364;87.1874541;0.04349938;N4;7;K;p4
+365;表;surface,table,chart,diagram;おもて;ひょう;364;87.23095348;0.04349938;N4;9;K;p4
+366;進;advance,proceed,progress,promote;すすむ;しん;364;87.27445287;0.04349938;N4;10;K;p4
+367;似;becoming,resemble,counterfeit,imitate,suitable;にる;じ;368;87.31738733;0.04293446;N4;31;K;p4
+368;構;posture,build,pretend;かまえる;こう;368;87.36032178;0.04293446;N1;27;K;p4
+369;語;word,speech,language;かたる;ご;368;87.40325624;0.04293446;N3;10;K;p4
+370;転;revolve,turn around,change;ころがる;てん;368;87.4461907;0.04293446;N3;12;K;p4
+371;奏;play music,speak to a ruler,complete;かなでる;そう;372;87.48856023;0.04236953;;-1;K;p4
+372;成;turn into,become,get,grow,elapse,reach;なる;せい;373;87.53036483;0.0418046;N5;11;K;p4
+373;査;investigate;;さ;373;87.57216943;0.0418046;;-1;K;p4
+374;疑;doubt,distrust,be suspicious,question;うたがう;ぎ;375;87.61340911;0.04123968;N3;13;K;p4
+375;開;open,unfold,unseal;ひらく;かい;375;87.65464878;0.04123968;N5;10;K;p4
+376;和;harmony,Japanese style,peace,soften,Japan;やわらぐ;わ;377;87.69532353;0.04067475;N2;9;K;p4
+377;任;responsibility,duty,term,entrust to,appoint;まかせる;にん;378;87.73543336;0.04010982;N1;21;K;p4
+378;料;fee,materials;;りょう;378;87.77554318;0.04010982;N5;14;K;p4
+379;認;acknowledge,witness,discern,recognize,appreciate,believe;みとめる;にん;378;87.815653;0.04010982;N3;21;K;p4
+380;授;impart,instruct,grant,confer;さずける;じゅ;381;87.85519789;0.03954489;N5;26;K;p4
+381;王;king,rule,magnate;;おう;381;87.89474279;0.03954489;N3;2;K;p4
+382;風;wind,air,style,manner;かぜ;ふう;381;87.93428768;0.03954489;N5;7;K;p4
+383;噂;rumor,gossip,hearsay;うわさ;そん;384;87.97326765;0.03897997;;-1;K;p4
+384;暗;darkness,disappear,shade,informal,grow dark,be blinded;くらい;あん;384;88.01224762;0.03897997;N3;13;K;p4
+385;朝;morning,dynasty,regime,epoch,period,(North) Korea;あさ;ちょう;384;88.05122759;0.03897997;N5;8;K;p4
+386;育;bring up,grow up,raise,rear;そだつ;いく;384;88.09020755;0.03897997;N4;13;K;p4
+387;騒;boisterous,make noise,clamor,disturb,excite;さわぐ;そう;384;88.12918752;0.03897997;N3;30;K;p4
+388;平;even,flat,peace;たいら;へい;389;88.16760256;0.03841504;N3;9;K;p4
+389;応;apply,answer,yes,OK,reply,accept;あたる;おう;389;88.2060176;0.03841504;N4;8;K;p4
+390;果;fruit,reward,carry out,achieve,complete,end,finish,succeed;はたす;か;389;88.24443264;0.03841504;N5;17;K;p4
+391;歩;walk,counter for steps;あるく;ほ;389;88.28284768;0.03841504;N3;8;K;p4
+392;週;week;;しゅう;389;88.32126272;0.03841504;;-1;K;p4
+393;三;three;み;さん;394;88.35911284;0.03785011;N5;1;K;p4
+394;参;nonplussed,three (in documents),going,coming,visiting,visit,be defeated,die,be madly in love,participate,take part in;まいる;さん;394;88.39696295;0.03785011;N5;1;K;p4
+395;吹;blow,breathe,puff,emit,smoke;ふく;すい;394;88.43481307;0.03785011;N5;40;K;p4
+396;謝;apologize,thank,refuse;あやまる;しゃ;394;88.47266318;0.03785011;N4;13;K;p4
+397;車;car;くるま;しゃ;394;88.51051329;0.03785011;N5;4;K;p4
+398;黙;silence,become silent,stop speaking,leave as is;だまる;もく;394;88.54836341;0.03785011;N3;46;K;p4
+399;固;harden,set,clot,curdle;かためる;こ;400;88.58564859;0.03728519;N4;14;K;p4
+400;怪;suspicious,mystery,apparition;あやしい;かい;400;88.62293378;0.03728519;N1;26;K;p4
+401;消;extinguish,blow out,turn off,neutralize,cancel;きえる;しょう;400;88.66021897;0.03728519;N3;22;K;p4
+402;証;evidence,proof,certificate;あかし;しょう;400;88.69750415;0.03728519;N3;26;K;p4
+403;社;company,firm,office,association,shrine;やしろ;しゃ;404;88.73422441;0.03672026;N4;7;K;p4
+404;雄;masculine,male,hero,leader,superiority,excellence;お;ゆう;404;88.77094467;0.03672026;;-1;K;p4
+405;静;quiet;しず;せい;404;88.80766493;0.03672026;N5;18;K;p4
+406;例;example,custom,usage,precedent;たとえる;れい;407;88.84382026;0.03615533;N4;14;K;p4
+407;偵;spy;;てい;407;88.8799756;0.03615533;;-1;K;p4
+408;客;guest,visitor,customer,client;;きゃく;407;88.91613093;0.03615533;;-1;K;p4
+409;復;restore,return to,revert,resume;また;ふく;407;88.95228626;0.03615533;N5;2;K;p4
+410;津;haven,port,harbor,ferry;つ;しん;407;88.98844159;0.03615533;N1;36;K;p4
+411;点;spot,point,mark,speck,decimal point;つける;てん;407;89.02459692;0.03615533;N4;6;K;p4
+412;絡;entwine,coil around,get caught in;からむ;らく;407;89.06075226;0.03615533;N1;19;K;p4
+413;試;test,try,attempt,experiment,ordeal;こころみる;し;407;89.09690759;0.03615533;N4;9;K;p4
+414;辛;spicy,bitter,hot,acrid;からい;しん;407;89.13306292;0.03615533;N1;44;K;p4
+415;売;sell;うる;ばい;416;89.16865333;0.03559041;N5;9;K;p4
+416;抜;slip out,extract,pull out,pilfer,quote,remove,omit;ぬく;ばつ;416;89.20424373;0.03559041;N3;25;K;p4
+417;望;ambition,full moon,hope,desire,aspire to,expect;のぞむ;ぼう;416;89.23983414;0.03559041;N3;14;K;p4
+418;済;settle (debt,relieve (burden),finish,come to an end,excusable,need not;すむ;さい;416;89.27542454;0.03559041;N4;21;K;p4
+419;都;metropolis,capital,all,everything;みやこ;と;416;89.31101495;0.03559041;N3;12;K;p4
+420;普;universal,wide(ly),generally,Prussia;あまねく;ふ;421;89.34604043;0.03502548;N4;31;K;p4
+421;興;entertain,revive,retrieve,interest,pleasure;おこる;こう;421;89.3810659;0.03502548;N4;32;K;p4
+422;験;verification,effect,testing;あかし;けん;421;89.41609138;0.03502548;N3;11;K;p4
+423;弱;weak,frail;よわい;じゃく;424;89.45055193;0.03446055;N5;7;K;p4
+424;掛;hang,suspend,depend,arrive at,tax,pour;かける;かい;424;89.48501248;0.03446055;N5;25;K;p4
+425;機;loom,mechanism,machine,airplane,opportunity,potency,efficacy,occasion;はた;き;424;89.51947304;0.03446055;N3;20;K;p4
+426;談;discuss,talk;;だん;424;89.55393359;0.03446055;;-1;K;p4
+427;遅;slow,late,back,later;おくれる;ち;424;89.58839414;0.03446055;N5;37;K;p4
+428;置;placement,put,set,deposit,leave behind,keep,employ,pawn;おく;ち;429;89.62228976;0.03389562;N5;22;K;p4
+429;冷;cool,cold (beer,chill;つめたい;れい;430;89.65562046;0.0333307;N5;33;K;p4
+430;台;pedestal,a stand,counter for machines and vehicles;うてな;だい;430;89.68895116;0.0333307;N3;3;K;p4
+431;土;soil,earth,ground,Turkey;つち;ど;430;89.72228185;0.0333307;N3;2;K;p4
+432;悲;grieve,sad,deplore,regret;かなしい;ひ;430;89.75561255;0.0333307;N4;19;K;p4
+433;許;permit,approve;ゆるす;きょ;430;89.78894325;0.0333307;N3;18;K;p4
+434;説;opinion,theory,explanation,rumor;とく;せつ;430;89.82227394;0.0333307;N4;17;K;p4
+435;負;defeat,negative,-,minus,bear,owe,assume a responsibility;まける;ふ;430;89.85560464;0.0333307;N4;9;K;p4
+436;姿;figure,form,shape;すがた;し;437;89.88837041;0.03276577;N3;22;K;p4
+437;字;character,letter,word,section of village;あざ;じ;437;89.92113618;0.03276577;N4;4;K;p4
+438;辺;environs,boundary,border,vicinity;あたり;へん;437;89.95390195;0.03276577;N5;7;K;p4
+439;半;half,middle,odd number,semi-,part-;なかば;はん;440;89.98610279;0.03220084;N5;3;K;p4
+440;危;dangerous,fear,uneasy;あぶない;き;440;90.01830364;0.03220084;N4;16;K;p4
+441;告;revelation,tell,inform,announce;つげる;こく;440;90.05050448;0.03220084;N1;18;K;p4
+442;断;severance,decline,refuse,apologize,warn,dismiss,prohibit,decision,judgement,cutting;たつ;だん;440;90.08270532;0.03220084;N3;21;K;p4
+443;紙;paper;かみ;し;440;90.11490617;0.03220084;N5;7;K;p4
+444;被;incur,cover,veil,brood over,shelter,wear,put on,be exposed (film),receiving;こうむる;ひ;440;90.14710701;0.03220084;N3;51;K;p4
+445;害;harm,injury;;がい;446;90.17874292;0.03163592;N1;34;K;p4
+446;念;wish,sense,idea,thought,feeling,desire,attention;;ねん;446;90.21037884;0.03163592;N4;6;K;p4
+447;息;breath,respiration,son,interest (on money);いき;そく;446;90.24201476;0.03163592;N3;12;K;p4
+448;走;run;はしる;そう;446;90.27365067;0.03163592;N5;5;K;p4
+449;住;dwell,reside,live,inhabit;すむ;じゅう;450;90.30472166;0.03107099;N4;8;K;p4
+450;姉;elder sister;あね;し;450;90.33579265;0.03107099;N5;6;K;p4
+451;故;happenstance,especially,intentionally,reason,cause,circumstances,the late,therefore,consequently;ゆえ;こ;450;90.36686364;0.03107099;N4;26;K;p4
+452;服;clothing,admit,obey,discharge;;ふく;450;90.39793463;0.03107099;N5;9;K;p4
+453;格;status,rank,capacity,character,case (law;;かく;450;90.42900562;0.03107099;N3;14;K;p4
+454;水;water;みず;すい;450;90.4600766;0.03107099;N5;2;K;p4
+455;追;chase,drive away,follow,pursue,meanwhile;おう;つい;450;90.49114759;0.03107099;N3;13;K;p4
+456;難;difficult,impossible,trouble,accident,defect;かたい;なん;450;90.52221858;0.03107099;N5;20;K;p4
+457;渡;transit,ford,ferry,cross,import,deliver,diameter,migrate;わたる;と;458;90.55272464;0.03050606;N5;25;K;p4
+458;加;add,addition,increase,join,include,Canada;くわえる;か;459;90.58266578;0.02994113;N3;19;K;p4
+459;去;gone,past,quit,leave,elapse,eliminate,divorce;さる;きょ;459;90.61260691;0.02994113;N5;4;K;p4
+460;品;goods,refinement,dignity,article,counter for meal courses;しな;ひん;459;90.64254805;0.02994113;N3;16;K;p4
+461;微;delicate,minuteness,insignificance;かすか;び;459;90.67248918;0.02994113;N3;28;K;p4
+462;惑;beguile,delusion,perplexity;まどう;わく;459;90.70243032;0.02994113;;-1;K;p4
+463;材;lumber,log,timber,wood,materials,ingredients,talent;;ざい;459;90.73237145;0.02994113;N3;14;K;p4
+464;祭;ritual,offer prayers,celebrate,deify,enshrine,worship;まつる;さい;459;90.76231259;0.02994113;N3;12;K;p4
+465;読;read;よむ;どく;459;90.79225372;0.02994113;N5;10;K;p4
+466;赤;red;あか;せき;459;90.82219485;0.02994113;N5;4;K;p4
+467;夢;dream,vision,illusion;ゆめ;む;468;90.85157106;0.02937621;N4;20;K;p4
+468;毎;every;ごと;まい;468;90.88094727;0.02937621;N5;5;K;p4
+469;途;route,way,road;みち;と;468;90.91032348;0.02937621;N5;8;K;p4
+470;奴;guy,slave,manservant,fellow;やつ;ど;471;90.93913476;0.02881128;;-1;K;p4
+471;局;bureau,board,office,affair,conclusion,court lady,lady-in-waiting,her apartment;つぼね;きょく;471;90.96794604;0.02881128;N3;8;K;p4
+472;春;springtime,spring (season);はる;しゅん;471;90.99675732;0.02881128;N5;15;K;p4
+473;更;grow late,night watch,sit up late,of course,renew,renovate,again,more and more,further;さら;こう;471;91.0255686;0.02881128;N3;30;K;p4
+474;末;end,close,tip,powder,posterity;すえ;まつ;471;91.05437988;0.02881128;N3;7;K;p4
+475;迷;astray,be perplexed,in doubt,lost,err,illusion;まよう;めい;471;91.08319116;0.02881128;N2;27;K;p4
+476;我;ego,I,selfish,our,oneself;われ;が;477;91.11143751;0.02824635;N3;52;K;p4
+477;訊;request,question,investigate;きく;じん;477;91.13968387;0.02824635;N5;10;K;p4
+478;記;scribe,account,narrative;しるす;き;477;91.16793022;0.02824635;N3;28;K;p4
+479;際;occasion,side,edge,verge,dangerous,adventurous,indecent,time,when;きわ;さい;477;91.19617657;0.02824635;N1;21;K;p4
+480;在;exist,outskirts,suburbs,located in;ある;ざい;481;91.223858;0.02768143;N5;6;K;p4
+481;夏;summer;なつ;か;481;91.25153943;0.02768143;N5;7;K;p4
+482;主;lord,chief,master,main thing,principal;ぬし;しゅ;483;91.27865593;0.0271165;N2;10;K;p4
+483;像;statue,picture,image,figure,portrait;;ぞう;483;91.30577242;0.0271165;;-1;K;p4
+484;割;proportion,comparatively,divide,cut,separate,split;わる;かつ;483;91.33288892;0.0271165;N4;23;K;p4
+485;国;country;くに;こく;483;91.36000542;0.0271165;N5;6;K;p4
+486;怒;angry,be offended;いかる;ど;483;91.38712192;0.0271165;N4;27;K;p4
+487;支;branch,support,sustain,branch radical (no. 65);ささえる;し;483;91.41423842;0.0271165;N3;37;K;p4
+488;越;surpass,cross over,move to,exceed,Vietnam;こす;えつ;483;91.44135492;0.0271165;N3;30;K;p4
+489;妙;exquisite,strange,queer,mystery,miracle,excellent,delicate,charming;たえ;みょう;490;91.46790649;0.02655157;N3;28;K;p4
+490;影;shadow,silhouette,phantom;かげ;えい;490;91.49445807;0.02655157;N3;25;K;p4
+491;焦;char,hurry,impatient,irritate,burn,scorch,singe;こげる;しょう;490;91.52100964;0.02655157;N2;42;K;p4
+492;議;deliberation,consultation,debate,consideration;;ぎ;490;91.54756121;0.02655157;N3;20;K;p4
+493;単;simple,one,single,merely;ひとえ;たん;494;91.57354785;0.02598665;N3;15;K;p4
+494;幸;happiness,blessing,fortune;さいわい;こう;494;91.5995345;0.02598665;N3;16;K;p4
+495;徒;on foot,junior,emptiness,vanity,futility,uselessness,ephemeral thing,gang,set,party,people;いたずら;と;494;91.62552115;0.02598665;N3;50;K;p4
+496;反;anti-;そる;はん;497;91.65094286;0.02542172;N5;9;K;p4
+497;常;usual,ordinary,normal,common,regular,continually,always,long-lasting;つね;じょう;497;91.67636458;0.02542172;N3;32;K;p4
+498;片;one-sided,leaf,sheet,right-side kata radical (no. 91);かた;へん;497;91.7017863;0.02542172;N2;39;K;p4
+499;狙;aim at,sight,shadow,stalk;ねらう;そ;497;91.72720802;0.02542172;N2;39;K;p4
+500;腐;rot,decay,sour;くさる;ふ;497;91.75262974;0.02542172;N1;34;K;p4
+501;触;contact,touch,feel,hit,proclaim,announce,conflict;ふれる;しょく;497;91.77805145;0.02542172;N4;24;K;p4
+502;供;submit,offer,present,serve (meal),accompany;そなえる;きょう;503;91.80290824;0.02485679;N3;27;K;p4
+503;刑;punish,penalty,sentence,punishment;;けい;503;91.82776504;0.02485679;N1;37;K;p4
+504;未;un-,not yet,hitherto,still,even now,sign of the ram,1-3PM,eighth sign of Chinese zodiac;いまだ;み;503;91.85262183;0.02485679;N3;7;K;p4
+505;盛;boom,prosper,copulate;もる;せい;503;91.87747862;0.02485679;N1;37;K;p4
+506;謎;riddle,puzzle,enigma,hint,tip;なぞ;めい;503;91.90233541;0.02485679;N3;44;K;p4
+507;退;retreat,withdraw,retire,resign,repel,expel,reject;しりぞく;たい;503;91.9271922;0.02485679;N3;27;K;p4
+508;存;exist,suppose,be aware of,believe,feel;ながらえる;そん;509;91.95148406;0.02429186;N3;20;K;p4
+509;形;shape,form,style;かた;けい;509;91.97577593;0.02429186;N4;7;K;p4
+510;悔;repent,regret;くいる;かい;509;92.00006779;0.02429186;N2;48;K;p4
+511;押;push,stop,check,subdue,attach,seize,weight,shove,press,seal,do in spite of;おす;おう;509;92.02435966;0.02429186;N4;32;K;p4
+512;注;pour,irrigate,shed (tears),flow into,concentrate on,notes,comment,annotate;そそぐ;ちゅう;509;92.04865152;0.02429186;N4;11;K;p4
+513;満;full,fullness,enough,satisfy;みちる;まん;509;92.07294338;0.02429186;N1;25;K;p4
+514;逆;inverted,reverse,opposite,wicked;さか;ぎゃく;509;92.09723525;0.02429186;N3;28;K;p4
+515;遺;bequeath,leave behind,reserve;のこす;い;509;92.12152711;0.02429186;N4;14;K;p4
+516;離;detach,separation,disjoin,digress;はなれる;り;509;92.14581897;0.02429186;N3;31;K;p4
+517;共;together,both,neither,all,and,alike,with;とも;きょう;518;92.16954591;0.02372694;N3;11;K;p4
+518;宅;home,house,residence,our house,my husband;;たく;518;92.19327285;0.02372694;N3;23;K;p4
+519;掴;catch,seize,grasp,hold,arrest,capture;つかむ;かく;518;92.21699979;0.02372694;N3;25;K;p4
+520;揃;be complete,uniform,all present;そろえる;せん;518;92.24072672;0.02372694;;-1;K;p4
+521;暴;outburst,rave,fret,force,violence,cruelty,outrage;あばく;ぼう;518;92.26445366;0.02372694;N1;19;K;p4
+522;氏;family name,surname,clan;うじ;し;518;92.2881806;0.02372694;N3;7;K;p4
+523;礼;salute,bow,ceremony,thanks,remuneration;;れい;518;92.31190753;0.02372694;N3;41;K;p4
+524;繋;tie,fasten,chain,tether,connect;つなぐ;けい;518;92.33563447;0.02372694;;-1;K;p4
+525;識;discriminating,know,write;しる;しき;518;92.35936141;0.02372694;N5;6;K;p4
+526;余;too much,myself,surplus,other,remainder;あまる;よ;527;92.38252342;0.02316201;N3;20;K;p4
+527;奈;Nara,what?;いかん;な;527;92.40568543;0.02316201;;-1;K;p4
+528;将;leader,commander,general,admiral,or,and again,soon,from now on,just about;まさに;しょう;527;92.42884744;0.02316201;N2;39;K;p4
+529;師;expert,teacher,master,model,exemplar,army (incl. counter),war;いくさ;し;527;92.45200945;0.02316201;;-1;K;p4
+530;沖;open sea,offing,rise high into sky;おき;ちゅう;527;92.47517146;0.02316201;;-1;K;p4
+531;法;method,law,rule,principle,model,system;のり;ほう;527;92.49833347;0.02316201;N4;23;K;p4
+532;浮;floating,float,rise to surface;うく;ふ;527;92.52149547;0.02316201;N2;30;K;p4
+533;火;fire;ひ;か;527;92.54465748;0.02316201;N4;2;K;p4
+534;計;plot,plan,scheme,measure;はかる;けい;527;92.56781949;0.02316201;N3;15;K;p4
+535;哀;pathetic,grief,sorrow,pathos,pity,sympathize;あわれ;あい;536;92.59041658;0.02259708;N4;19;K;p4
+536;態;attitude,condition,figure,appearance,voice (of verbs);わざと;たい;536;92.61301366000001;0.02259708;N3;22;K;p4
+537;振;shake,wave,wag,swing;ふる;しん;536;92.63561074;0.02259708;N3;26;K;p4
+538;昔;once upon a time,antiquity,old times;むかし;せき;536;92.65820783;0.02259708;N4;11;K;p4
+539;焼;bake,burning;やく;しょう;536;92.68080491;0.02259708;N4;18;K;p4
+540;照;illuminate,shine,compare,bashful;てる;しょう;536;92.70340199;0.02259708;N1;30;K;p4
+541;突;stab,protruding,thrust,pierce,prick,collision,sudden;つく;とつ;536;92.72599907;0.02259708;N3;26;K;p4
+542;細;dainty,get thin,taper,slender,narrow,detailed,precise;ほそい;さい;536;92.74859616;0.02259708;N5;17;K;p4
+543;肩;shoulder;かた;けん;536;92.77119324;0.02259708;N3;24;K;p4
+544;詞;part of speech,words,poetry;ことば;し;536;92.79379032;0.02259708;N5;12;K;p4
+545;交;"mingle,mixing,association,coming &amp; going";まじわる;こう;546;92.81582248;0.02203216;N5;24;K;p4
+546;寄;draw near,stop in,bring near,gather,collect,send,forward;よる;き;546;92.83785463;0.02203216;N3;29;K;p4
+547;慣;accustomed,get used to,become experienced;なれる;かん;546;92.85988679;0.02203216;N4;25;K;p4
+548;河;river;かわ;か;546;92.88191894;0.02203216;N5;1;K;p4
+549;況;condition,situation;まして;きょう;546;92.9039511;0.02203216;;-1;K;p4
+550;為;do,change,make,benefit,welfare,be of use,reach to,try,practice,cost,serve as,good,advantage,as a result of;ため;い;546;92.92598326;0.02203216;N5;11;K;p4
+551;迎;welcome,meet,greet;むかえる;げい;546;92.94801541;0.02203216;N4;32;K;p4
+552;頷;nod approval;うなずく;がん;546;92.97004757;0.02203216;;-1;K;p4
+553;鮫;shark;さめ;こう;546;92.99207972;0.02203216;;-1;K;p4
+554;周;circumference,circuit,lap;まわり;しゅう;555;93.01354695;0.02146723;N3;14;K;p4
+555;弁;valve,petal,braid,speech,dialect,discrimination,dispose of,distinguish,conical cap;かんむり;べん;555;93.03501418;0.02146723;N3;16;K;p4
+556;恐;fear,dread,awe;おそれる;きょう;555;93.05648141;0.02146723;N3;29;K;p4
+557;捨;discard,throw away,abandon,resign,reject,sacrifice;すてる;しゃ;555;93.07794864;0.02146723;N4;32;K;p4
+558;有;possess,have,exist,happen,occur,approx;ある;ゆう;555;93.09941587;0.02146723;N5;6;K;p4
+559;豆;beans,pea,midget;まめ;とう;555;93.12088309;0.02146723;N3;34;K;p4
+560;質;substance,quality,matter,temperament;たち;しつ;555;93.14235032;0.02146723;N3;24;K;p4
+561;円;circle,yen,round;まるい;えん;562;93.16325262;0.0209023;N3;2;K;p4
+562;隠;conceal,hide,cover;かくす;いん;562;93.18415493;0.0209023;N3;25;K;p4
+563;午;noon,sign of the horse,11AM-1PM,seventh sign of Chinese zodiac;うま;ご;564;93.2044923;0.02033737;N5;15;K;p4
+564;左;left;ひだり;さ;564;93.22482967;0.02033737;N5;2;K;p4
+565;熱;heat,temperature,fever,mania,passion;あつい;ねつ;564;93.24516705;0.02033737;N4;13;K;p4
+566;若;young,if,perhaps,possibly,low number,immature;わかい;じゃく;564;93.26550442;0.02033737;N5;19;K;p4
+567;視;inspection,regard as,see,look at;みる;し;564;93.2858418;0.02033737;N5;22;K;p4
+568;訓;instruction,Japanese character reading,explanation,read;おしえる;くん;564;93.30617917;0.02033737;N1;9;K;p4
+569;馬;horse;うま;ば;564;93.32651655;0.02033737;N3;8;K;p4
+570;駅;station;;えき;564;93.34685392;0.02033737;N5;13;K;p4
+571;奥;heart,interior;おく;おう;572;93.36662637;0.01977245;N3;38;K;p4
+572;宿;inn,lodging,relay station,dwell,lodge,be pregnant,home,dwelling;やど;しゅく;572;93.38639882;0.01977245;N3;13;K;p4
+573;審;hearing,judge,trial;つまびらか;しん;572;93.40617126;0.01977245;N3;21;K;p4
+574;掃;sweep,brush;はく;そう;572;93.42594371;0.01977245;N5;31;K;p4
+575;減;dwindle,decrease,reduce,decline,curtail,get hungry;へる;げん;572;93.44571616;0.01977245;N3;19;K;p4
+576;温;warm;あたたか;おん;572;93.46548861;0.01977245;N3;12;K;p4
+577;画;brush-stroke,picture;えがく;が;572;93.48526105;0.01977245;N5;8;K;p4
+578;眠;sleep,die,sleepy;ねむる;みん;572;93.5050335;0.01977245;N4;29;K;p4
+579;線;line,track;すじ;せん;572;93.52480595;0.01977245;N4;10;K;p4
+580;舎;cottage,inn,hut,house,mansion;やどる;しゃ;572;93.54457839;0.01977245;;-1;K;p4
+581;具;tool,utensil,means,possess,ingredients,counter for armor;そなえる;ぐ;582;93.56378592;0.01920752;N4;20;K;p4
+582;利;profit,advantage,benefit;きく;り;582;93.58299344;0.01920752;N3;28;K;p4
+583;差;distinction,difference,variation,discrepancy,margin,balance;さす;さ;582;93.60220096;0.01920752;N3;24;K;p4
+584;推;conjecture,infer,guess,suppose,support,push (for);おす;すい;582;93.62140848;0.01920752;N3;34;K;p4
+585;罪;guilt,sin,crime,fault,blame,offense;つみ;ざい;582;93.640616;0.01920752;N3;20;K;p4
+586;遣;dispatch,despatch,send,give,donate,do,undertake;つかう;けん;582;93.65982352;0.01920752;N5;37;K;p4
+587;飲;drink,smoke,take;のむ;いん;582;93.67903104;0.01920752;N5;10;K;p4
+588;処;dispose,manage,deal with,sentence,condemn,act,behave,place;ところ;しょ;589;93.69767363;0.01864259;N5;8;K;p4
+589;囲;surround,besiege,store,paling,enclosure,encircle,preserve,keep;かこむ;い;589;93.71631622;0.01864259;N3;14;K;p4
+590;広;wide,broad,spacious;ひろい;こう;589;93.73495882;0.01864259;N3;18;K;p4
+591;暮;evening,twilight,season's end,livelihood,make a living,spend time;くれる;ぼ;589;93.75360141;0.01864259;N4;35;K;p4
+592;混;mix,blend,confuse;まじる;こん;589;93.772244;0.01864259;N1;19;K;p4
+593;珍;rare,curious,strange;めずらしい;ちん;589;93.7908866;0.01864259;N4;43;K;p4
+594;申;have the honor to,sign of the monkey,3-5PM,ninth sign of Chinese zodiac;もうす;しん;589;93.80952919;0.01864259;N4;4;K;p4
+595;茶;tea;;ちゃ;589;93.82817178;0.01864259;N5;6;K;p4
+596;裏;back,amidst,in,reverse,inside,palm,sole,rear,lining,wrong side;うら;り;589;93.84681438;0.01864259;N4;33;K;p4
+597;響;echo,sound,resound,ring,vibrate;ひびく;きょう;589;93.86545697;0.01864259;N2;25;K;p4
+598;修;discipline,conduct oneself well,study,master;おさめる;しゅう;599;93.88353464;0.01807767;N1;28;K;p4
+599;個;individual,counter for articles;;こ;599;93.9016123;0.01807767;N3;20;K;p4
+600;因;cause,factor,be associated with,depend on,be limited to;よる;いん;599;93.91968997;0.01807767;N2;41;K;p4
+601;夕;evening;ゆう;せき;599;93.93776763;0.01807767;N5;2;K;p4
+602;打;strike,hit,knock,pound,dozen;うつ;だ;599;93.9558453;0.01807767;N4;4;K;p4
+603;板;plank,board,plate,stage;いた;はん;599;93.97392297;0.01807767;N3;29;K;p4
+604;染;dye,color,paint,stain,print;そめる;せん;599;93.99200063;0.01807767;N1;34;K;p4
+605;歌;song,sing;うた;か;599;94.0100783;0.01807767;N5;10;K;p4
+606;異;uncommon,different,queerness,strangeness,wonderful,curious,unusual;こと;い;599;94.02815597;0.01807767;N3;33;K;p4
+607;経;sutra,longitude,pass thru,expire,warp;へる;けい;599;94.04623363;0.01807767;N5;34;K;p4
+608;限;limit,restrict,to best of ability;かぎる;げん;599;94.0643113;0.01807767;N3;25;K;p4
+609;飛;fly,skip (pages),scatter;とぶ;ひ;599;94.08238896;0.01807767;N5;20;K;p4
+610;喜;rejoice,take pleasure in;よろこぶ;き;611;94.0999017;0.01751274;N4;17;K;p4
+611;増;increase,add,augment,gain,promote;ます;ぞう;611;94.11741444;0.01751274;N4;21;K;p4
+612;寒;cold;さむい;かん;611;94.13492718;0.01751274;N5;12;K;p4
+613;座;squat,seat,cushion,gathering,sit;すわる;ざ;611;94.15243992;0.01751274;N3;18;K;p4
+614;忙;busy,occupied,restless;いそがしい;ぼう;611;94.16995266;0.01751274;N5;19;K;p4
+615;腹;abdomen,belly,stomach;はら;ふく;611;94.1874654;0.01751274;N3;27;K;p4
+616;華;splendor,flower,petal,shine,luster,ostentatious,showy,gay,gorgeous;はな;か;611;94.20497814;0.01751274;N5;4;K;p4
+617;超;transcend,super-,ultra-;こえる;ちょう;611;94.22249088;0.01751274;N1;36;K;p4
+618;適;suitable,occasional,rare,qualified,capable;かなう;てき;611;94.24000362;0.01751274;N4;30;K;p4
+619;駄;burdensome,pack horse,horse load,send by horse,trivial,worthless;;だ;611;94.25751635;0.01751274;N3;50;K;p4
+620;驚;wonder,be surprised,frightened,amazed;おどろく;きょう;611;94.27502909;0.01751274;N4;31;K;p4
+621;万;ten thousand,10;よろず;まん;622;94.29197691;0.01694781;N5;3;K;p4
+622;廊;corridor,hall,tower;;ろう;622;94.30892472;0.01694781;N5;31;K;p4
+623;接;touch,contact,adjoin,piece together;つぐ;せつ;622;94.32587253;0.01694781;;-1;K;p4
+624;泊;overnight stay,put up at,ride at anchor;とまる;はく;622;94.34282034;0.01694781;N4;42;K;p4
+625;清;pure,purify,cleanse,exorcise,Manchu dynasty;きよい;せい;622;94.35976815;0.01694781;N3;28;K;p4
+626;科;department,course,section;;か;622;94.37671597;0.01694781;N3;16;K;p4
+627;邪;wicked,injustice,wrong;よこしま;じゃ;622;94.39366378;0.01694781;N3;50;K;p4
+628;側;side,lean,oppose,regret;かわ;そく;629;94.41004666;0.01638288;N5;17;K;p4
+629;再;again,twice,second time;ふたたび;さい;629;94.42642955;0.01638288;N5;26;K;p4
+630;悩;trouble,worry,in pain,distress,illness;なやむ;のう;629;94.44281243;0.01638288;N3;27;K;p4
+631;根;root,radical,head (pimple);ね;こん;629;94.45919532;0.01638288;N3;12;K;p4
+632;盗;steal,rob,pilfer;ぬすむ;とう;629;94.4755782;0.01638288;N4;30;K;p4
+633;薬;medicine,chemical,enamel,gunpowder,benefit;くすり;やく;629;94.49196109;0.01638288;N5;17;K;p4
+634;魚;fish;うお;ぎょ;629;94.50834397;0.01638288;N5;7;K;p4
+635;冗;superfluous,uselessness;;じょう;636;94.52416193;0.01581796;N3;16;K;p4
+636;協;co-,cooperation;;きょう;636;94.53997989;0.01581796;N3;11;K;p4
+637;基;fundamentals,radical (chem),counter for machines,foundation;もと;き;636;94.55579785;0.01581796;N3;3;K;p4
+638;席;seat,mat,occasion,place;むしろ;せき;636;94.5716158;0.01581796;N4;17;K;p4
+639;懸;state of suspension,hang,depend,consult,distant,far apart;かける;けん;636;94.58743376;0.01581796;N5;25;K;p4
+640;拐;kidnap,falsify;;かい;636;94.60325172;0.01581796;;-1;K;p4
+641;散;scatter,disperse,spend,squander;ちる;さん;636;94.61906968;0.01581796;N5;31;K;p4
+642;第;No.,residence;;だい;636;94.63488764;0.01581796;N1;51;K;p4
+643;粉;flour,powder,dust;デシメートル;ふん;636;94.65070559;0.01581796;N3;31;K;p4
+644;飯;meal,boiled rice;めし;はん;636;94.66652355;0.01581796;N3;15;K;p4
+645;健;healthy,health,strength,persistence;すこやか;けん;646;94.68177658;0.01525303;N3;27;K;p4
+646;働;work,(kokuji);はたらく;どう;646;94.69702961;0.01525303;N5;11;K;p4
+647;勘;intuition,perception,check,compare,sixth sense;;かん;646;94.71228264;0.01525303;N3;49;K;p4
+648;史;history,chronicle;;し;646;94.72753568;0.01525303;;-1;K;p4
+649;士;gentleman,scholar,samurai,samurai radical (no. 33);さむらい;し;646;94.74278871;0.01525303;N1;44;K;p4
+650;慢;ridicule,laziness;;まん;646;94.75804174;0.01525303;;-1;K;p4
+651;敵;enemy,foe,opponent;かたき;てき;646;94.77329477;0.01525303;N1;21;K;p4
+652;曜;weekday;;よう;646;94.7885478;0.01525303;N3;16;K;p4
+653;痛;pain,hurt,damage,bruise;いたい;つう;646;94.80380083;0.01525303;N3;29;K;p4
+654;秘;secret,conceal;ひめる;ひ;646;94.81905386;0.01525303;N3;32;K;p4
+655;等;etc.,and so forth,class (first),quality,equal,similar;ひとしい;とう;646;94.83430689;0.01525303;N3;18;K;p4
+656;背;stature,height,back,behind,disobey,defy,go back on,rebel;せ;はい;646;94.84955992;0.01525303;N5;30;K;p4
+657;酒;sake,alcohol;さけ;しゅ;646;94.86481295;0.01525303;;-1;K;p4
+658;魔;witch,demon,evil spirit;;ま;646;94.88006598;0.01525303;;-1;K;p4
+659;鼻;nose,snout;はな;び;646;94.89531901;0.01525303;N5;17;K;p4
+660;井;well,well crib,town,community;い;せい;661;94.91000712;0.0146881;N2;45;K;p4
+661;価;value,price;あたい;か;661;94.92469522;0.0146881;N3;22;K;p4
+662;偶;"accidentally,even number,couple,man &amp; wife,same kind";たま;ぐう;661;94.93938333;0.0146881;N3;50;K;p4
+663;制;system,law,rule;;せい;661;94.95407143;0.0146881;N3;21;K;p4
+664;婚;marriage;;こん;661;94.96875953;0.0146881;;-1;K;p4
+665;敗;failure,defeat,reversal;やぶれる;はい;661;94.98344764;0.0146881;N4;9;K;p4
+666;敬;awe,respect,honor,revere;うやまう;けい;661;94.99813574;0.0146881;N2;33;K;p4
+667;晩;nightfall,night;;ばん;661;95.01282384;0.0146881;N5;15;K;p4
+668;潰;crush,smash,break,dissipate;つぶす;かい;661;95.02751195;0.0146881;;-1;K;p4
+669;独;single,alone,spontaneously,Germany;ひとり;どく;661;95.04220005;0.0146881;N3;26;K;p4
+670;甘;sweet,coax,pamper,be content,sugary;あまい;かん;661;95.05688816;0.0146881;N5;36;K;p4
+671;示;show,indicate,point out,express,display;しめす;じ;661;95.07157626;0.0146881;N3;22;K;p4
+672;票;ballot,label,ticket,sign;;ひょう;661;95.08626436;0.0146881;N1;25;K;p4
+673;程;extent,degree,law,formula,distance,limits,amount;ほど;てい;661;95.10095247;0.0146881;N3;28;K;p4
+674;童;juvenile,child;わらべ;どう;661;95.11564057;0.0146881;N2;12;K;p4
+675;詳;detailed,full,minute,accurate,well-informed;くわしい;しょう;661;95.13032867;0.0146881;N3;17;K;p4
+676;首;neck,counter for songs and poems;くび;しゅ;661;95.14501678;0.0146881;N4;6;K;p4
+677;香;incense,smell,perfume;か;こう;661;95.15970488;0.0146881;N3;37;K;p4
+678;両;both,old Japanese coin,counter for carriages (e.g.,two;てる;りょう;679;95.17382806;0.01412318;N4;6;K;p4
+679;光;ray,light;ひかる;こう;679;95.18795124;0.01412318;N4;5;K;p4
+680;娘;daughter,girl;むすめ;じょう;679;95.20207441;0.01412318;N4;29;K;p4
+681;投;throw,discard,abandon,launch into,join,invest in,hurl,give up,sell at a loss;なげる;とう;679;95.21619759;0.01412318;N3;25;K;p4
+682;担;shouldering,carry,raise,bear;かつぐ;たん;679;95.23032077;0.01412318;N3;24;K;p4
+683;極;poles,settlement,conclusion,end,highest rank,electric poles,very,extremely,most,highly,10**48;きわめる;きょく;679;95.24444394;0.01412318;N4;8;K;p4
+684;汗;sweat,perspire;あせ;かん;679;95.25856712;0.01412318;N3;26;K;p4
+685;祖;ancestor,pioneer,founder;;そ;679;95.2726903;0.01412318;N4;10;K;p4
+686;筋;muscle,sinew,tendon,fiber,plot,plan,descent;すじ;きん;679;95.28681347;0.01412318;N3;33;K;p4
+687;系;lineage,system;;けい;679;95.30093665;0.01412318;N1;30;K;p4
+688;険;precipitous,inaccessible place,impregnable position,steep place,sharp eyes;けわしい;けん;679;95.31505983;0.01412318;;-1;K;p4
+689;届;deliver,reach,arrive,report,notify,forward;とどける;かい;690;95.32861808;0.01355825;N4;26;K;p4
+690;恋;romance,in love,yearn for,miss,darling;こう;れん;690;95.34217633;0.01355825;N3;17;K;p4
+691;抱;embrace,hug,hold in arms;だく;ほう;690;95.35573457;0.01355825;N3;37;K;p4
+692;拠;foothold,based on,follow,therefore;よる;きょ;690;95.36929282;0.01355825;N2;41;K;p4
+693;求;request,want,wish for,require,demand;もとめる;きゅう;690;95.38285107;0.01355825;N3;10;K;p4
+694;涙;tears,sympathy;なみだ;るい;690;95.39640932;0.01355825;N3;44;K;p4
+695;石;stone;いし;せき;690;95.40996757;0.01355825;N4;4;K;p4
+696;端;edge,origin,end,point,border,verge,cape;はし;たん;690;95.42352582;0.01355825;N3;27;K;p4
+697;胸;bosom,breast,chest,heart,feelings;むね;きょう;690;95.43708407;0.01355825;N3;18;K;p4
+698;芽;bud,sprout,spear,germ;め;が;690;95.45064232;0.01355825;N3;44;K;p4
+699;袋;sack,bag,pouch;ふくろ;たい;690;95.46420057;0.01355825;N3;42;K;p4
+700;丸;round,full (month),perfection,-ship,pills,make round,roll up,curl up,seduce,explain away;まる;がん;701;95.47719389;0.01299332;N3;2;K;p4
+701;傷;wound,hurt,injure,impair,pain,injury,cut,gash,scar,weak point;きず;しょう;701;95.49018722;0.01299332;N3;32;K;p4
+702;器;utensil,vessel,receptacle,implement,instrument,ability,container,tool,set;うつわ;き;701;95.50318054;0.01299332;N1;13;K;p4
+703;宜;best regards,good;よろしい;ぎ;701;95.51617386;0.01299332;N5;11;K;p4
+704;歳;year-end,age,occasion,opportunity;とし;さい;701;95.52916718;0.01299332;N5;4;K;p4
+705;段;grade,steps,stairs;;だん;701;95.54216051;0.01299332;N5;27;K;p4
+706;毒;poison,virus,venom,germ,harm,injury,spite;;どく;701;95.55515383;0.01299332;N3;15;K;p4
+707;疎;alienate,rough,neglect,shun,sparse,penetrate;うとい;そ;701;95.56814715;0.01299332;N1;56;K;p4
+708;筈;notch of an arrow,ought,must,should be,expected;はず;かつ;701;95.58114047;0.01299332;;-1;K;p4
+709;箱;box,chest,case,bin,railway car;はこ;そう;701;95.5941338;0.01299332;N5;16;K;p4
+710;節;node,season,period,occasion,verse,clause,stanza,honor,joint,knuckle,knob,knot,tune,melody;ふし;せつ;701;95.60712712;0.01299332;;-1;K;p4
+711;舞;dance,flit,circle,wheel;まう;ぶ;701;95.62012044;0.01299332;N3;36;K;p4
+712;英;England,English,hero,outstanding,calyx;はなぶさ;えい;701;95.63311377;0.01299332;N5;15;K;p4
+713;資;assets,resources,capital,funds,data,be conducive to,contribute to;;し;701;95.64610709;0.01299332;N2;21;K;p4
+714;路;path,route,road,distance;じ;ろ;701;95.65910041;0.01299332;N5;8;K;p4
+715;迫;urge,force,imminent,spur on;せまる;はく;701;95.67209373;0.01299332;N1;27;K;p4
+716;値;price,cost,value;ね;ち;717;95.68452213;0.0124284;N3;22;K;p4
+717;偉;admirable,greatness,remarkable,conceited,famous,excellent;えらい;い;717;95.69695052;0.0124284;N3;51;K;p4
+718;奇;strange,strangeness,curiosity;くしき;き;717;95.70937892;0.0124284;N5;29;K;p4
+719;封;seal,closing;;ふう;717;95.72180731;0.0124284;N1;43;K;p4
+720;工;craft,construction,katakana e radical (no. 48);;こう;717;95.73423571;0.0124284;N4;8;K;p4
+721;改;reformation,change,modify,mend,renew,examine,inspect,search;あらためる;かい;717;95.74666411;0.0124284;N3;19;K;p4
+722;毛;fur,hair,feather,down;け;もう;717;95.7590925;0.0124284;N4;3;K;p4
+723;泉;spring,fountain;いずみ;せん;717;95.7715209;0.0124284;N3;12;K;p4
+724;球;ball,sphere;たま;きゅう;717;95.78394929;0.0124284;N3;2;K;p4
+725;禁;prohibition,ban,forbid;;きん;717;95.79637769;0.0124284;N3;18;K;p4
+726;移;shift,move,change,drift,catch (cold,pass into;うつる;い;717;95.80880608;0.0124284;N1;28;K;p4
+727;級;class,rank,grade;;きゅう;717;95.82123448;0.0124284;;-1;K;p4
+728;紹;introduce,inherit,help;;しょう;717;95.83366287;0.0124284;N4;35;K;p4
+729;義;righteousness,justice,morality,honor,loyalty,meaning;;ぎ;717;95.84609127;0.0124284;N3;21;K;p4
+730;職;post,employment,work;;しょく;717;95.85851967;0.0124284;N3;23;K;p4
+731;観;outlook,look,appearance,condition,view;みる;かん;717;95.87094806;0.0124284;N3;22;K;p4
+732;論;argument,discourse;あげつらう;ろん;717;95.88337646;0.0124284;N3;20;K;p4
+733;踪;remains,clue,footprint;あと;そう;717;95.89580485;0.0124284;;-1;K;p4
+734;非;un-,mistake,negative,injustice,non-;あらず;ひ;717;95.90823325;0.0124284;N4;54;K;p4
+735;刻;engrave,cut fine,chop,hash,mince,time,carving;きざむ;こく;736;95.92009672;0.01186347;N3;7;K;p4
+736;密;secrecy,density (pop),minuteness,carefulness;ひそか;みつ;736;95.93196018;0.01186347;N1;32;K;p4
+737;帯;sash,belt,obi,zone,region;おびる;たい;736;95.94382365;0.01186347;N3;31;K;p4
+738;挑;challenge,contend for,make love to;いどむ;ちょう;736;95.95568712;0.01186347;N1;42;K;p4
+739;昼;daytime,noon;ひる;ちゅう;736;95.96755059;0.01186347;N5;15;K;p4
+740;案;plan,suggestion,draft,ponder,fear,proposition,idea,expectation,worry,table,bench;つくえ;あん;736;95.97941406;0.01186347;N5;32;K;p4
+741;留;detain,fasten,halt,stop;とめる;りゅう;736;95.99127753;0.01186347;N3;16;K;p4
+742;継;inherit,succeed,continue,patch,graft (tree);つぐ;けい;736;96.00314099;0.01186347;N1;36;K;p4
+743;緊;tense,solid,hard,reliable,tight;しめる;きん;736;96.01500446;0.01186347;N5;29;K;p4
+744;芸;technique,art,craft,performance,acting,trick,stunt;うえる;げい;736;96.02686793;0.01186347;N3;14;K;p4
+745;補;supplement,supply,make good,offset,compensate,assistant,learner;おぎなう;ほ;736;96.0387314;0.01186347;N2;25;K;p4
+746;誤;mistake,err,do wrong,mislead;あやまる;ご;736;96.05059487;0.01186347;N3;36;K;p4
+747;谷;valley;たに;こく;736;96.06245834;0.01186347;N3;5;K;p4
+748;貰;get,have,obtain;もらう;せい;736;96.07432181;0.01186347;;-1;K;p4
+749;貼;stick,paste,apply;はる;てん;736;96.08618527;0.01186347;N5;23;K;p4
+750;遭;encounter,meet,party,association,interview,join;あう;そう;736;96.09804874;0.01186347;N5;5;K;p4
+751;閉;closed,shut;とじる;へい;736;96.10991221;0.01186347;N5;33;K;p4
+752;勢;forces,energy,military strength;いきおい;せい;753;96.12121075;0.01129854;N3;22;K;p4
+753;号;nickname,number,item,title,pseudonym,name,call;さけぶ;ごう;753;96.13250929;0.01129854;N1;4;K;p4
+754;否;negate,no,noes,refuse,decline,deny;いな;ひ;753;96.14380783;0.01129854;N5;33;K;p4
+755;喫;consume,eat,drink,smoke,receive (a blow);のむ;きつ;753;96.15510638;0.01129854;N5;18;K;p4
+756;嘘;lie,falsehood;うそ;きょ;753;96.16640492;0.01129854;;-1;K;p4
+757;団;group,association;かたまり;だん;753;96.17770346;0.01129854;N1;49;K;p4
+758;委;committee,entrust to,leave to,devote,discard;ゆだねる;い;753;96.189002;0.01129854;N3;17;K;p4
+759;庭;courtyard,garden,yard;にわ;てい;753;96.20030054;0.01129854;N5;12;K;p4
+760;御;honorable,manipulate,govern;おん;ぎょ;753;96.21159908;0.01129854;N5;5;K;p4
+761;揚;raise,elevate,hoist,praise,extol,fry in deep fat;あげる;よう;753;96.22289762;0.01129854;N5;1;K;p4
+762;撃;beat,attack,defeat,conquer;うつ;げき;753;96.23419617;0.01129854;N3;28;K;p4
+763;漢;Sino-,China;;かん;753;96.24549471;0.01129854;N5;10;K;p4
+764;簡;simplicity,brevity;えらぶ;かん;753;96.25679325;0.01129854;N4;33;K;p4
+765;聴;listen,headstrong,naughty,careful inquiry;きく;ちょう;753;96.26809179;0.01129854;N5;10;K;p4
+766;臭;stinking,ill-smelling,suspicious looking,odor,savor,fragrance,be fragrant,stink,glow,be bright;くさい;しゅう;753;96.27939033;0.01129854;N3;20;K;p4
+767;虫;insect,bug,temper;むし;ちゅう;753;96.29068887;0.01129854;N4;4;K;p4
+768;貸;lend;かす;たい;753;96.30198741;0.01129854;N5;27;K;p4
+769;辞;resign,word,term,expression;やめる;じ;753;96.31328595;0.01129854;N5;12;K;p4
+770;公;public,prince,official,governmental;おおやけ;こう;771;96.32401957;0.01073361;N4;8;K;p4
+771;冠;crown,best,peerless;かんむり;かん;771;96.33475318;0.01073361;N2;54;K;p4
+772;努;toil,diligent,as much as possible;つとめる;ど;771;96.3454868;0.01073361;N3;11;K;p4
+773;医;doctor,medicine;いやす;い;771;96.35622041;0.01073361;N4;8;K;p4
+774;厳;stern,strictness,severity,rigidity;おごそか;げん;771;96.36695403;0.01073361;N4;32;K;p4
+775;導;guidance,leading,conduct,usher;みちびく;どう;771;96.37768764;0.01073361;N1;23;K;p4
+776;巻;scroll,volume,book,part,roll up,wind up,tie,coil,counter for texts (or book scrolls);まく;かん;771;96.38842125;0.01073361;N2;25;K;p4
+777;志;intention,plan,resolve,aspire,motive,hopes,shilling;シリング;し;771;96.39915487;0.01073361;N1;32;K;p4
+778;恨;regret,bear a grudge,resentment,malice,hatred;うらむ;こん;771;96.40988848;0.01073361;N2;49;K;p4
+779;択;choose,select,elect,prefer;えらぶ;たく;771;96.4206221;0.01073361;N4;13;K;p4
+780;派;faction,group,party,clique,sect,school;;は;771;96.43135571;0.01073361;N2;21;K;p4
+781;濃;concentrated,thick,dark,undiluted;こい;のう;771;96.44208933;0.01073361;N3;27;K;p4
+782;精;refined,ghost,fairy,energy,vitality,semen,excellence,purity,skill;しらげる;せい;771;96.45282294;0.01073361;N3;28;K;p4
+783;繰;winding,reel,spin,turn (pages),look up,refer to;くる;そう;771;96.46355655;0.01073361;N3;40;K;p4
+784;署;signature,govt office,police station;;しょ;771;96.47429017;0.01073361;N3;17;K;p4
+785;脅;threaten,coerce;おびやかす;きょう;771;96.48502378;0.01073361;N1;48;K;p4
+786;血;blood;ち;けつ;771;96.4957574;0.01073361;N4;6;K;p4
+787;詰;packed,close,pressed,reprove,rebuke,blame;つめる;きつ;771;96.50649101;0.01073361;N3;29;K;p4
+788;誕;nativity,be born,declension,lie,be arbitrary;;たん;771;96.51722463;0.01073361;N5;24;K;p4
+789;辰;sign of the dragon,7-9AM,fifth sign of Chinese zodiac,shin dragon radical (no. 161);たつ;しん;771;96.52795824;0.01073361;;-1;K;p4
+790;銭;coin,.01 yen,money;ぜに;せん;771;96.53869185;0.01073361;;-1;K;p4
+791;青;blue,green;あお;せい;771;96.54942547;0.01073361;N3;5;K;p4
+792;並;row,and,besides,as well as,line up,rank with,rival,equal;なみ;へい;793;96.55959416;0.01016869;N1;28;K;p4
+793;判;judgement,signature,stamp,seal;わかる;はん;793;96.56976284;0.01016869;N5;3;K;p4
+794;務;task,duties;つとめる;む;793;96.57993153;0.01016869;N5;21;K;p4
+795;婆;old woman,grandma,wet nurse;ばば;ば;793;96.59010022;0.01016869;;-1;K;p4
+796;屈;yield,bend,flinch,submit;かがむ;くつ;793;96.60026891;0.01016869;;-1;K;p4
+797;康;ease,peace;;こう;793;96.61043759;0.01016869;;-1;K;p4
+798;才;genius,years old,cubic shaku;;さい;793;96.62060628;0.01016869;N3;14;K;p4
+799;拶;be imminent,draw close;せまる;さつ;793;96.63077497;0.01016869;;-1;K;p4
+800;挨;approach,draw near,push open;ひらく;あい;793;96.64094365;0.01016869;;-1;K;p4
+801;撮;snapshot,take pictures;とる;さつ;793;96.65111234;0.01016869;N5;30;K;p4
+802;易;easy,ready to,simple,fortune-telling,divination;やさしい;えき;793;96.66128103;0.01016869;N5;19;K;p4
+803;替;exchange,spare,substitute,per-;かえる;たい;793;96.67144972;0.01016869;N4;6;K;p4
+804;納;settlement,obtain,reap,pay,supply,store;おさめる;のう;793;96.6816184;0.01016869;N3;35;K;p4
+805;致;doth,do,send,forward,cause,exert,incur,engage;いたす;ち;793;96.69178709;0.01016869;N4;38;K;p4
+806;装;attire,dress,pretend,disguise,profess;よそおう;そう;793;96.70195578;0.01016869;N3;33;K;p4
+807;角;angle,corner,square,horn,antlers;かど;かく;793;96.71212446;0.01016869;N5;5;K;p4
+808;諦;truth,clarity,abandon,give up;あきらめる;てい;793;96.72229315;0.01016869;;-1;K;p4
+809;賞;prize,reward,praise;ほめる;しょう;793;96.73246184;0.01016869;N4;40;K;p4
+810;軽;lightly,trifling,unimportant;かるい;けい;793;96.74263053;0.01016869;N5;10;K;p4
+811;雑;miscellaneous;まじえる;ざつ;793;96.75279921;0.01016869;N5;33;K;p4
+812;震;quake,shake,tremble,quiver,shiver;ふるう;しん;793;96.7629679;0.01016869;N3;22;K;p4
+813;低;lower,short,humble;ひくい;てい;814;96.77257166;0.00960376;N5;11;K;p4
+814;効;merit,efficacy,efficiency,benefit;きく;こう;814;96.78217542;0.00960376;N3;25;K;p4
+815;唇;lips;くちびる;しん;814;96.79177918;0.00960376;N2;47;K;p4
+816;図;map,drawing,plan,extraordinary,audacious;え;ず;814;96.80138294;0.00960376;N3;5;K;p4
+817;型;mould,type,model;かた;けい;814;96.8109867;0.00960376;N3;24;K;p4
+818;式;style,ceremony,rite,function,method,system,form,expression;;しき;814;96.82059046;0.00960376;N3;15;K;p4
+819;抑;repress,well,now,in the first place,push,shove,press,seal,do in spite of;おさえる;よく;814;96.83019422;0.00960376;N1;38;K;p4
+820;握;grip,hold,mould sushi,bribe;にぎる;あく;814;96.83979798;0.00960376;N3;42;K;p4
+821;敷;spread,pave,sit,promulgate;しく;ふ;814;96.84940174;0.00960376;N2;40;K;p4
+822;旦;daybreak,dawn,morning;あきらか;たん;814;96.8590055;0.00960376;N1;55;K;p4
+823;暑;sultry,hot,summer heat;あつい;しょ;814;96.86860926;0.00960376;N5;12;K;p4
+824;殴;assault,hit,beat,thrash;なぐる;おう;814;96.87821302;0.00960376;N2;48;K;p4
+825;治;reign,be at peace,calm down,subdue,quell,govt,cure,heal,rule,conserve;おさめる;じ;814;96.88781678;0.00960376;N1;36;K;p4
+826;煮;boil,cook;にる;しゃ;814;96.89742054;0.00960376;N2;49;K;p4
+827;裁;tailor,judge,decision,cut out (pattern);たつ;さい;814;96.9070243;0.00960376;N2;56;K;p4
+828;跡;tracks,mark,print,impression;あと;せき;814;96.91662806;0.00960376;N3;37;K;p4
+829;隣;neighboring;となる;りん;814;96.92623182;0.00960376;N5;40;K;p4
+830;黄;yellow;き;こう;814;96.93583558;0.00960376;N5;7;K;p4
+831;乱;riot,war,disorder,disturb;みだれる;らん;832;96.94487442;0.00903883;N1;19;K;p4
+832;労;labor,thank for,reward for,toil,trouble;ろうする;ろう;832;96.95391325;0.00903883;N3;11;K;p4
+833;古;old;ふるい;こ;832;96.96295208;0.00903883;N5;3;K;p4
+834;展;unfold,expand;;てん;832;96.97199092;0.00903883;N2;24;K;p4
+835;布;linen,cloth,spread,distribute;ぬの;ふ;832;96.98102975;0.00903883;N3;19;K;p4
+836;技;skill,art,craft,ability,feat,performance,vocation,arts;わざ;ぎ;832;96.99006858;0.00903883;N1;14;K;p4
+837;挙;raise,plan,project,behavior,actions;あげる;きょ;832;96.99910742;0.00903883;N5;1;K;p4
+838;換;interchange,period,change,convert,replace,renew;かえる;かん;832;97.00814625;0.00903883;N3;25;K;p4
+839;携;portable,carry (in hand),armed with,bring along;たずさえる;けい;832;97.01718508;0.00903883;N1;40;K;p4
+840;星;star,spot,dot,mark;ほし;せい;832;97.02622391;0.00903883;N4;6;K;p4
+841;杯;counter for cupfuls,wine glass,glass,toast;さかずき;はい;832;97.03526275;0.00903883;;-1;K;p4
+842;枚;sheet of...,counter for flat thin objects or sheets;;まい;832;97.04430158;0.00903883;N1;18;K;p4
+843;油;oil,fat;あぶら;ゆ;832;97.05334041;0.00903883;N3;35;K;p4
+844;登;ascend,climb up;のぼる;とう;832;97.06237925;0.00903883;N3;12;K;p4
+845;短;short,brevity,fault,defect,weak point;みじかい;たん;832;97.07141808;0.00903883;N5;12;K;p4
+846;訪;call on,visit,look up,offer sympathy;おとずれる;ほう;832;97.08045691;0.00903883;N4;27;K;p4
+847;象;elephant,pattern after,imitate,image,shape,sign (of the times);かたどる;しょう;832;97.08949575;0.00903883;N3;24;K;p4
+848;責;blame,condemn,censure;せめる;せき;832;97.09853458;0.00903883;N3;21;K;p4
+849;賽;dice,temple visit;;さい;832;97.10757341;0.00903883;;-1;K;p4
+850;輝;radiance,shine,sparkle,gleam,twinkle;かがやく;き;832;97.11661225;0.00903883;N3;48;K;p4
+851;飽;sated,tired of,bored,satiate;あきる;ほう;832;97.12565108;0.00903883;N3;56;K;p4
+852;便;convenience,facility,excrement,feces,letter,chance;たより;べん;853;97.13412498;0.00847391;N5;11;K;p4
+853;停;halt,stopping;とめる;てい;853;97.14259889;0.00847391;N5;3;K;p4
+854;写;copy,be photographed,describe;うつす;しゃ;853;97.1510728;0.00847391;N5;16;K;p4
+855;剣;sabre,sword,blade,clock hand;つるぎ;けん;853;97.1595467;0.00847391;;-1;K;p4
+856;励;encourage,be diligent,inspire;はげむ;れい;853;97.16802061;0.00847391;N1;26;K;p4
+857;包;wrap,pack up,cover,conceal;つつむ;ほう;853;97.17649451;0.00847391;N2;41;K;p4
+858;喋;talk,chat,chatter;しゃべる;ちょう;853;97.18496842;0.00847391;;-1;K;p4
+859;姫;princess;ひめ;き;853;97.19344233;0.00847391;;-1;K;p4
+860;希;hope,beg,request,pray,beseech,Greece,dilute (acid),rare,few,phenomenal;まれ;き;853;97.20191623;0.00847391;N3;14;K;p4
+861;惣;all;すべて;そう;853;97.21039014;0.00847391;N3;6;K;p4
+862;憎;hate,detest;にくむ;ぞう;853;97.21886404;0.00847391;N1;49;K;p4
+863;懐;pocket,feelings,heart,yearn,miss someone,become attached to,bosom,breast;ふところ;かい;853;97.22733795;0.00847391;N4;6;K;p4
+864;護;safeguard,protect;まもる;ご;853;97.23581186;0.00847391;N3;16;K;p4
+865;遂;consummate,accomplish,attain,commit (suicide);とげる;すい;853;97.24428576;0.00847391;N1;50;K;p4
+866;闘;fight,war;たたかう;とう;853;97.25275967;0.00847391;N3;13;K;p4
+867;預;deposit,custody,leave with,entrust to;あずける;よ;853;97.26123357;0.00847391;N1;30;K;p4
+868;鹿;deer;しか;ろく;853;97.26970748;0.00847391;;-1;K;p4
+869;了;complete,finish;;りょう;870;97.27761646;0.00790898;N5;10;K;p4
+870;位;rank,grade,throne,crown,about,some;くらい;い;870;97.28552544;0.00790898;N3;22;K;p4
+871;倫;ethics,companion;;りん;870;97.29343442;0.00790898;;-1;K;p4
+872;北;north;きた;ほく;870;97.3013434;0.00790898;N5;3;K;p4
+873;厚;thick,heavy,rich,kind,cordial,brazen,shameless;あつい;こう;870;97.30925238;0.00790898;N5;20;K;p4
+874;各;each,every,either;おのおの;かく;870;97.31716135;0.00790898;N3;22;K;p4
+875;妹;younger sister;いもうと;まい;870;97.32507033;0.00790898;N5;6;K;p4
+876;崩;crumble,die,demolish,level;くずれる;ほう;870;97.33297931;0.00790898;N2;39;K;p4
+877;己;self;おのれ;こ;870;97.34088829;0.00790898;N1;44;K;p4
+878;底;bottom,sole,depth,bottom price,base,kind,sort;そこ;てい;870;97.34879727;0.00790898;N3;17;K;p4
+879;扱;handle,entertain,thresh,strip;あつかい;そう;870;97.35670625;0.00790898;N3;38;K;p4
+880;揺;swing,shake,sway,rock,tremble,vibrate;ゆれる;よう;870;97.36461523;0.00790898;N4;44;K;p4
+881;整;organize,arranging,tune,tone,meter,key (music);ととのえる;せい;870;97.37252421;0.00790898;N3;13;K;p4
+882;林;grove,forest;はやし;りん;870;97.38043319;0.00790898;N4;5;K;p4
+883;浴;bathe,be favored with,bask in;あびる;よく;870;97.38834217;0.00790898;N5;16;K;p4
+884;熊;bear;くま;ゆう;870;97.39625114;0.00790898;;-1;K;p4
+885;瞬;wink,blink,twinkle;またたく;しゅん;870;97.40416012;0.00790898;N3;46;K;p4
+886;米;rice,USA,metre;こめ;べい;870;97.4120691;0.00790898;N4;5;K;p4
+887;荷;baggage,shoulder-pole load,bear (a burden),shoulder (a gun),load,cargo,freight;に;か;870;97.41997808;0.00790898;N5;16;K;p4
+888;虚;void,emptiness,unpreparedness,crack,fissure,untruth;むなしい;きょ;870;97.42788706;0.00790898;N5;5;K;p4
+889;術;art,technique,skill,means,trick,resources,magic;すべ;じゅつ;870;97.43579604;0.00790898;;-1;K;p4
+890;設;establishment,provision,prepare;もうける;せつ;870;97.44370502;0.00790898;N1;21;K;p4
+891;評;evaluate,criticism,comment;;ひょう;870;97.451614;0.00790898;N3;22;K;p4
+892;逮;apprehend,chase;;たい;870;97.45952298;0.00790898;N3;25;K;p4
+893;除;exclude,division (x,3),remove,abolish,cancel,except;のぞく;じょ;870;97.46743195;0.00790898;N3;53;K;p4
+894;階;storey,stair,counter for storeys of a building;きざはし;かい;870;97.47534093;0.00790898;N1;12;K;p4
+895;類;sort,kind,variety,class,genus;たぐい;るい;870;97.48324991;0.00790898;;-1;K;p4
+896;髪;hair of the head;かみ;はつ;870;97.49115889;0.00790898;N4;44;K;p4
+897;丁;street,ward,town,counter for guns,even number,4th calendar sign;ひのと;ちょう;898;97.49850294;0.00734405;N5;9;K;p4
+898;亡;deceased,the late,dying,perish;ない;ぼう;898;97.505847;0.00734405;N4;6;K;p4
+899;収;income,obtain,reap,pay,supply,store;おさめる;しゅう;898;97.51319105;0.00734405;N3;23;K;p4
+900;呂;spine,backbone;せぼね;ろ;898;97.5205351;0.00734405;;-1;K;p4
+901;圧;pressure,push,overwhelm,oppress,dominate;おす;あつ;898;97.52787915;0.00734405;N5;30;K;p4
+902;愚;foolish,folly,absurdity,stupid;おろか;ぐ;898;97.5352232;0.00734405;N1;56;K;p4
+903;慌;disconcerted,be confused,lose one's head;あわてる;こう;898;97.54256725;0.00734405;;-1;K;p4
+904;慎;humility,be careful,discreet,prudent;つつしむ;しん;898;97.54991131;0.00734405;N3;39;K;p4
+905;憧;yearn after,long for,aspire to,admire,adore;あこがれる;しょう;898;97.55725536;0.00734405;N2;59;K;p4
+906;払;pay,clear out,prune,banish,dispose of;はらう;ふつ;898;97.56459941;0.00734405;N4;35;K;p4
+907;折;fold,break,fracture,bend,yield,submit;おる;せつ;898;97.57194346;0.00734405;N4;14;K;p4
+908;招;beckon,invite,summon,engage;まねく;しょう;898;97.57928751;0.00734405;N5;23;K;p4
+909;景;scenery,view;;けい;898;97.58663157;0.00734405;N3;25;K;p4
+910;柄;design,pattern,build,nature,character,handle,crank,grip,knob,shaft;がら;へい;898;97.59397562;0.00734405;N3;42;K;p4
+911;歓;delight,joy;よろこぶ;かん;898;97.60131967;0.00734405;N4;17;K;p4
+912;歯;tooth,cog;よわい;し;898;97.60866372;0.00734405;N5;12;K;p4
+913;泳;swim;およぐ;えい;898;97.61600777;0.00734405;N5;9;K;p4
+914;源;source,origin;みなもと;げん;898;97.62335183;0.00734405;N1;34;K;p4
+915;看;watch over,see;みる;かん;898;97.63069588;0.00734405;N2;29;K;p4
+916;索;cord,rope,searching,inquiring;;さく;898;97.63803993;0.00734405;N2;29;K;p4
+917;績;exploits,achievements,unreeling cocoons;;せき;898;97.64538398;0.00734405;;-1;K;p4
+918;脱;undress,removing,escape from,get rid of,be left out,take off;ぬぐ;だつ;898;97.65272803;0.00734405;N5;22;K;p4
+919;薦;recommend,mat,advise,encourage,offer;すすめる;せん;898;97.66007208;0.00734405;N3;34;K;p4
+920;複;duplicate,double,compound,multiple;;ふく;898;97.66741614;0.00734405;N2;32;K;p4
+921;酢;vinegar,sour,acid,tart;す;さく;898;97.67476019;0.00734405;N2;35;K;p4
+922;防;ward off,defend,protect,resist;ふせぐ;ぼう;898;97.68210424;0.00734405;N3;20;K;p4
+923;頂;place on the head,receive,top of head,top,summit,peak;いただく;ちょう;898;97.68944829;0.00734405;N1;53;K;p4
+924;倍;double,twice,times,fold;;ばい;925;97.69622742;0.00677912;N4;12;K;p4
+925;傍;bystander,side,besides,while,nearby,third person;かたわら;ぼう;925;97.70300654;0.00677912;N5;17;K;p4
+926;凶;villain,evil,bad luck,disaster;;きょう;925;97.70978567;0.00677912;;-1;K;p4
+927;即;instant,namely,as is,conform,agree,adapt;つく;そく;925;97.71656479;0.00677912;N3;27;K;p4
+928;句;phrase,clause,sentence,passage,paragraph,counter for haiku;;く;925;97.72334392;0.00677912;;-1;K;p4
+929;吸;suck,imbibe,inhale,sip;すう;きゅう;925;97.73012304;0.00677912;N3;23;K;p4
+930;壊;demolition,break,destroy;こわす;かい;925;97.73690217;0.00677912;N4;31;K;p4
+931;弟;younger brother,faithful service to elders;おとうと;てい;925;97.74368129;0.00677912;N5;5;K;p4
+932;快;cheerful,pleasant,agreeable,comfortable;こころよい;かい;925;97.75046042;0.00677912;N3;26;K;p4
+933;憶;recollection,think,remember;;おく;925;97.75723954;0.00677912;N5;19;K;p4
+934;搬;conveyor,carry,transport;;はん;925;97.76401867;0.00677912;;-1;K;p4
+935;政;politics,government;まつりごと;せい;925;97.77079779;0.00677912;N4;16;K;p4
+936;施;give,bestow,perform,alms;ほどこす;し;925;97.77757691;0.00677912;N1;23;K;p4
+937;柊;holly;ひいらぎ;しゅ;925;97.78435604;0.00677912;;-1;K;p4
+938;棒;rod,stick,cane,pole,club,line;;ぼう;925;97.79113516;0.00677912;N3;31;K;p4
+939;歴;curriculum,continuation,passage of time;;れき;925;97.79791429;0.00677912;N4;19;K;p4
+940;氷;icicle,ice,hail,freeze,congeal;こおり;ひょう;925;97.80469341;0.00677912;N3;4;K;p4
+941;測;fathom,plan,scheme,measure;はかる;そく;925;97.81147254;0.00677912;N3;24;K;p4
+942;溜;collect,gather,be in arrears;たまる;りゅう;925;97.81825166;0.00677912;;-1;K;p4
+943;玄;mysterious,occultness,black,deep,profound;くろ;げん;925;97.82503079;0.00677912;N5;51;K;p4
+944;締;tighten,tie,shut,lock,fasten;しまる;てい;925;97.83180991;0.00677912;N5;27;K;p4
+945;腕;arm,ability,talent;うで;わん;925;97.83858904;0.00677912;N4;24;K;p4
+946;菓;candy,cakes,fruit;;か;925;97.84536816;0.00677912;N5;17;K;p4
+947;薄;dilute,thin,weak (tea),pampas grass;うすい;はく;925;97.85214729;0.00677912;N4;19;K;p4
+948;衣;garment,clothes,dressing;ころも;い;925;97.85892641;0.00677912;N3;41;K;p4
+949;襲;attack,advance on,succeed to,pile,heap;おそう;しゅう;925;97.86570554;0.00677912;N1;43;K;p4
+950;講;lecture,club,association;;こう;925;97.87248466;0.00677912;N4;35;K;p4
+951;貯;savings,store,lay in,keep,wear mustache;ためる;ちょ;925;97.87926379;0.00677912;N3;26;K;p4
+952;趣;purport,gist,elegance,interest,proceed to,tend,become;おもむき;しゅ;925;97.88604291;0.00677912;N1;43;K;p4
+953;躍;leap,dance,skip;おどる;やく;925;97.89282204;0.00677912;;-1;K;p4
+954;鍛;forge,discipline,train;きたえる;たん;925;97.89960116;0.00677912;N1;46;K;p4
+955;雰;atmosphere,fog;;ふん;925;97.90638029;0.00677912;N3;14;K;p4
+956;麦;barley,wheat;むぎ;ばく;925;97.91315941;0.00677912;;-1;K;p4
+957;与;bestow,participate in,give,award,impart,provide,cause,gift,godsend;あたえる;よ;958;97.91937361;0.0062142;N3;25;K;p4
+958;争;contend,dispute,argue;あらそう;そう;958;97.92558781;0.0062142;N2;11;K;p4
+959;仮;sham,temporary,interim,assumed (name),informal;かり;か;958;97.931802;0.0062142;N3;47;K;p4
+960;企;undertake,scheme,design,attempt,plan;くわだてる;き;958;97.9380162;0.0062142;N1;21;K;p4
+961;借;borrow,rent;かりる;しゃく;958;97.9442304;0.0062142;N5;18;K;p4
+962;剛;sturdy,strength;;ごう;958;97.9504446;0.0062142;;-1;K;p4
+963;募;recruit,campaign,gather (contributions),enlist,grow violent;つのる;ぼ;958;97.9566588;0.0062142;N2;37;K;p4
+964;勤;diligence,become employed,serve;つとめる;きん;958;97.96287299;0.0062142;N5;21;K;p4
+965;匂;fragrant,stink,glow,insinuate,(kokuji);におう;;958;97.96908719;0.0062142;;-1;K;p4
+966;印;stamp,seal,mark,imprint,symbol,emblem,trademark,evidence,souvenir,India;しるし;いん;958;97.97530139;0.0062142;N3;26;K;p4
+967;園;park,garden,yard,farm;その;えん;958;97.98151559;0.0062142;N1;16;K;p4
+968;央;center,middle;;おう;958;97.98772978;0.0062142;;-1;K;p4
+969;奪;rob,take by force,snatch away,dispossess,plunder,usurp;うばう;だつ;958;97.99394398;0.0062142;N3;39;K;p4
+970;季;seasons;;き;958;98.00015818;0.0062142;N4;19;K;p4
+971;尽;exhaust,use up,run out of,deplete,befriend,serve;つきる;じん;958;98.00637238;0.0062142;N1;50;K;p4
+972;憩;recess,rest,relax,repose;いこい;けい;958;98.01258658;0.0062142;;-1;K;p4
+973;戸;door,counter for houses,door radical (no. 63);と;こ;958;98.01880077;0.0062142;N5;3;K;p4
+974;提;propose,take along,carry in hand;さげる;てい;958;98.02501497;0.0062142;N3;22;K;p4
+975;既;previously,already,long ago;すでに;き;958;98.03122917;0.0062142;N3;31;K;p4
+976;検;examination,investigate;しらべる;けん;958;98.03744337;0.0062142;N3;21;K;p4
+977;標;signpost,seal,mark,stamp,imprint,symbol,emblem,trademark,evidence,souvenir,target;しるべ;ひょう;958;98.04365756;0.0062142;N3;26;K;p4
+978;権;authority,power,rights;おもり;けん;958;98.04987176;0.0062142;N3;21;K;p4
+979;沈;sink,be submerged,subside,be depressed,aloes;しずむ;ちん;958;98.05608596;0.0062142;N3;43;K;p4
+980;洗;wash,inquire into,probe;あらう;せん;958;98.06230016;0.0062142;N5;51;K;p4
+981;灯;lamp,a light,light,counter for lights;ひ;とう;958;98.06851435;0.0062142;N3;48;K;p4
+982;玉;jewel,ball;たま;ぎょく;958;98.07472855;0.0062142;N3;2;K;p4
+983;産;products,bear,give birth,yield,childbirth,native,property;うむ;さん;958;98.08094275;0.0062142;N4;22;K;p4
+984;省;focus,government ministry,conserve;かえりみる;せい;958;98.08715695;0.0062142;N2;29;K;p4
+985;称;appellation,praise,admire,name,title,fame;たたえる;しょう;958;98.09337115;0.0062142;N4;40;K;p4
+986;穏;calm,quiet,moderation;おだやか;おん;958;98.09958534;0.0062142;N3;46;K;p4
+987;褒;praise,extol;ほめる;ほう;958;98.10579954;0.0062142;N4;40;K;p4
+988;販;marketing,sell,trade;;はん;958;98.11201374;0.0062142;N3;24;K;p4
+989;賭;gamble,wager,bet;かける;と;958;98.11822794;0.0062142;N1;45;K;p4
+990;載;ride,board,get on,place,spread,10**44,record,publish;のせる;さい;958;98.12444213;0.0062142;N3;26;K;p4
+991;避;evade,avoid,avert,ward off,shirk,shun;さける;ひ;958;98.13065633;0.0062142;N3;38;K;p4
+992;飴;rice jelly,candy;あめ;い;958;98.13687053;0.0062142;;-1;K;p4
+993;騙;deceive;かたる;へん;958;98.14308473;0.0062142;;-1;K;p4
+994;互;mutually,reciprocally,together;たがい;ご;995;98.148734;0.00564927;N3;35;K;p4
+995;冬;winter;ふゆ;とう;995;98.15438327;0.00564927;N5;3;K;p4
+996;功;achievement,merits,success,honor,credit;いさお;こう;995;98.16003254;0.00564927;N2;32;K;p4
+997;叶;grant,answer;かなえる;きょう;995;98.16568181;0.00564927;;-1;K;p4
+998;含;contain,include,hold in the mouth,bear in mind,understand,cherish;ふくむ;がん;995;98.17133108;0.00564927;N3;25;K;p4
+999;呆;be amazed,disgusted,shocked;ほける;ほう;995;98.17698035;0.00564927;N2;56;K;p4
+1000;堅;strict,hard,solid,tough,tight,reliable;かたい;けん;995;98.18262962;0.00564927;N4;14;K;p4
+1001;境;boundary,border,region;さかい;きょう;995;98.18827889;0.00564927;N3;24;K;p4
+1002;妻;wife,spouse;つま;さい;995;98.19392816;0.00564927;N4;20;K;p4
+1003;巡;patrol,go around,circumference;めぐる;じゅん;995;98.19957743;0.00564927;N2;40;K;p4
+1004;干;dry,parch,ebb,recede,interfere,intercede;ほす;かん;995;98.20522671;0.00564927;N2;17;K;p4
+1005;幾;how many,how much,how far,how long,some,several;いく;き;995;98.21087598;0.00564927;N5;31;K;p4
+1006;建;build;たてる;けん;995;98.21652525;0.00564927;N3;21;K;p4
+1007;抗;confront,resist,defy,oppose;あらがう;こう;995;98.22217452;0.00564927;;-1;K;p4
+1008;模;imitation,copy,mock;;も;995;98.22782379;0.00564927;N3;25;K;p4
+1009;比;compare,race,ratio,Philippines;くらべる;ひ;995;98.23347306;0.00564927;N3;45;K;p4
+1010;潜;submerge,conceal,hide,lower (voice),hush;ひそむ;せん;995;98.23912233;0.00564927;N1;41;K;p4
+1011;激;violent,get excited,enraged,chafe,incite;はげしい;げき;995;98.2447716;0.00564927;N3;26;K;p4
+1012;牲;animal sacrifice,offering;;せい;995;98.25042087;0.00564927;;-1;K;p4
+1013;犠;sacrifice;いけにえ;ぎ;995;98.25607014;0.00564927;N1;52;K;p4
+1014;班;squad,corps,unit,group;;はん;995;98.26171941;0.00564927;N1;48;K;p4
+1015;皇;emperor;;こう;995;98.26736868;0.00564927;;-1;K;p4
+1016;眩;faint,dizzy;げんす;げん;995;98.27301795;0.00564927;N4;35;K;p4
+1017;磨;grind,polish,scour,improve,brush (teeth);みがく;ま;995;98.27866722;0.00564927;N5;45;K;p4
+1018;礎;cornerstone,foundation stone;いしずえ;そ;995;98.28431649;0.00564927;;-1;K;p4
+1019;祝;celebrate,congratulate;いわう;しゅく;995;98.28996577;0.00564927;N2;24;K;p4
+1020;福;blessing,fortune,luck,wealth;;ふく;995;98.29561504;0.00564927;N1;39;K;p4
+1021;積;volume,product (x*y),acreage,contents,pile up,stack,load,amass;つむ;せき;995;98.30126431;0.00564927;N3;29;K;p4
+1022;給;salary,wage,gift,allow,grant,bestow on;たまう;きゅう;995;98.30691358;0.00564927;N2;27;K;p4
+1023;縁;affinity,relation,connection,edge,border,verge,brink;ふち;えん;995;98.31256285;0.00564927;N3;44;K;p4
+1024;葛;arrowroot,kudzu;つづら;かつ;995;98.31821212;0.00564927;;-1;K;p4
+1025;酷;cruel,severe,atrocious,unjust;ひどい;こく;995;98.32386139;0.00564927;N4;32;K;p4
+1026;酸;acid,bitterness,sour,tart;すい;さん;995;98.32951066;0.00564927;N2;35;K;p4
+1027;量;quantity,measure,weight,amount,consider,estimate,surmise;はかる;りょう;995;98.33515993;0.00564927;N3;24;K;p4
+1028;鎧;put on armor,arm oneself;よろう;かい;995;98.3408092;0.00564927;;-1;K;p4
+1029;門;gate,counter for cannons;かど;もん;995;98.34645847;0.00564927;N5;3;K;p4
+1030;闇;get dark,gloom,disorder;やみ;あん;995;98.35210774;0.00564927;N1;48;K;p4
+1031;露;dew,tears,expose,Russia;つゆ;ろ;995;98.35775701;0.00564927;N1;43;K;p4
+1032;鮮;fresh,vivid,clear,brilliant,Korea;あざやか;せん;995;98.36340628;0.00564927;N1;25;K;p4
+1033;丼;bowl,bowl of food;どんぶり;とん;1034;98.36849063;0.00508434;N2;34;K;p4
+1034;候;climate,season,weather,wait for,expect;そうろう;こう;1034;98.37357497;0.00508434;;-1;K;p4
+1035;到;arrival,proceed,reach,attain,result in;いたる;とう;1034;98.37865932;0.00508434;N3;42;K;p4
+1036;叔;uncle,youth;;しゅく;1034;98.38374366;0.00508434;;-1;K;p4
+1037;喪;miss,mourning;も;そう;1034;98.388828;0.00508434;N3;7;K;p4
+1038;噛;chew,bite,gnaw;かむ;こう;1034;98.39391235;0.00508434;;-1;K;p4
+1039;墓;grave,tomb;はか;ぼ;1034;98.39899669;0.00508434;N3;31;K;p4
+1040;奮;stirred up,be invigorated,flourish;ふるう;ふん;1034;98.40408103;0.00508434;;-1;K;p4
+1041;妬;jealous,envy;ねたむ;と;1034;98.40916538;0.00508434;N4;18;K;p4
+1042;孤;orphan,alone;;こ;1034;98.41424972;0.00508434;N1;52;K;p4
+1043;寺;Buddhist temple;てら;じ;1034;98.41933406;0.00508434;N4;15;K;p4
+1044;専;specialty,exclusive,mainly,solely;もっぱら;せん;1034;98.42441841;0.00508434;N3;28;K;p4
+1045;尊;revered,valuable,precious,noble,exalted;たっとい;そん;1034;98.42950275;0.00508434;N3;33;K;p4
+1046;徴;indications,sign,omen,symptom,collect,seek,refer to,question;しるし;ちょう;1034;98.43458709;0.00508434;;-1;K;p4
+1047;悟;enlightenment,perceive,discern,realize,understand;さとる;ご;1034;98.43967144;0.00508434;N1;49;K;p4
+1048;患;afflicted,disease,suffer from,be ill;わずらう;かん;1034;98.44475578;0.00508434;N3;37;K;p4
+1049;慰;consolation,amusement,seduce,cheer,make sport of,comfort,console;なぐさめる;い;1034;98.44984013;0.00508434;N2;43;K;p4
+1050;拾;pick up,gather,find,go on foot,ten;ひろう;しゅう;1034;98.45492447;0.00508434;N5;1;K;p4
+1051;捻;twirl,twist,play with;ねじる;ねん;1034;98.46000881;0.00508434;;-1;K;p4
+1052;掲;put up (a notice),put up,hoist,display,hang out,publish,describe;かかげる;けい;1034;98.46509316;0.00508434;N3;37;K;p4
+1053;曲;bend,music,melody,composition,pleasure,injustice,fault,curve,crooked,perverse,lean;まがる;きょく;1034;98.4701775;0.00508434;N1;6;K;p4
+1054;森;forest,woods;もり;しん;1034;98.47526184;0.00508434;N4;8;K;p4
+1055;橘;mandarin orange;たちばな;きつ;1034;98.48034619;0.00508434;;-1;K;p4
+1056;欠;lack,gap,fail,yawning radical (no. 76);かける;けつ;1034;98.48543053;0.00508434;N2;38;K;p4
+1057;武;warrior,military,chivalry,arms;たけ;ぶ;1034;98.49051487;0.00508434;N3;24;K;p4
+1058;民;people,nation,subjects;たみ;みん;1034;98.49559922;0.00508434;N1;12;K;p4
+1059;江;creek,inlet,bay;え;こう;1034;98.50068356;0.00508434;;-1;K;p4
+1060;湯;hot water,bath,hot spring;ゆ;とう;1034;98.50576791;0.00508434;N4;12;K;p4
+1061;滅;destroy,ruin,overthrow,perish;ほろびる;めつ;1034;98.51085225;0.00508434;N1;45;K;p4
+1062;燃;burn,blaze,glow;もえる;ねん;1034;98.51593659;0.00508434;N1;24;K;p4
+1063;狂;lunatic,insane,crazy,confuse;くるう;きょう;1034;98.52102094;0.00508434;N3;45;K;p4
+1064;益;benefit,gain,profit,advantage;ます;えき;1034;98.52610528;0.00508434;;-1;K;p4
+1065;砂;sand;すな;さ;1034;98.53118962;0.00508434;N4;33;K;p4
+1066;破;rend,rip,tear,break,destroy,defeat,frustrate;やぶる;は;1034;98.53627397;0.00508434;N3;36;K;p4
+1067;糖;sugar;;とう;1034;98.54135831;0.00508434;;-1;K;p4
+1068;純;genuine,purity,innocence,net (profit);;じゅん;1034;98.54644265;0.00508434;N2;34;K;p4
+1069;繁;luxuriant,thick,overgrown,frequency,complexity,trouble;しげる;はん;1034;98.551527;0.00508434;N2;40;K;p4
+1070;舗;shop,store,pave;;ほ;1034;98.55661134;0.00508434;N1;53;K;p4
+1071;藤;wisteria;ふじ;とう;1034;98.56169569;0.00508434;;-1;K;p4
+1072;診;checkup,seeing,diagnose,examine;みる;しん;1034;98.56678003;0.00508434;N3;29;K;p4
+1073;豚;pork,pig;ぶた;とん;1034;98.57186437;0.00508434;N5;26;K;p4
+1074;豪;overpowering,great,powerful,excelling,Australia;えらい;ごう;1034;98.57694872;0.00508434;N3;31;K;p4
+1075;述;mention,state,speak,relate;のべる;じゅつ;1034;98.58203306;0.00508434;N3;24;K;p4
+1076;速;quick,fast;はやい;そく;1034;98.5871174;0.00508434;N3;10;K;p4
+1077;那;what?;なに;な;1034;98.59220175;0.00508434;;-1;K;p4
+1078;酔;drunk,feel sick,poisoned,elated,spellbound;よう;すい;1034;98.59728609;0.00508434;N3;35;K;p4
+1079;随;follow,though,notwithstanding,while,during,both,all,obey,submit to,comply,at the mercy of (the waves);まにまに;ずい;1034;98.60237043;0.00508434;N2;53;K;p4
+1080;馴;get used to,experienced,tamed;なれる;じゅん;1034;98.60745478;0.00508434;N4;25;K;p4
+1081;骨;skeleton,bone,remains,frame;ほね;こつ;1034;98.61253912;0.00508434;N3;14;K;p4
+1082;鳥;bird,chicken;とり;ちょう;1034;98.61762346;0.00508434;N5;7;K;p4
+1083;乳;milk,breasts;ちち;にゅう;1084;98.62214288;0.00451942;;-1;K;p4
+1084;傘;umbrella;かさ;さん;1084;98.6266623;0.00451942;N5;28;K;p4
+1085;児;newborn babe,child,young of animals;こ;じ;1084;98.63118171;0.00451942;N4;2;K;p4
+1086;卒;graduate,soldier,private,die;そっする;そつ;1084;98.63570113;0.00451942;N4;14;K;p4
+1087;叫;shout,exclaim,yell;さけぶ;きょう;1084;98.64022055;0.00451942;N3;44;K;p4
+1088;吐;spit,vomit,belch,confess,tell (lies);はく;と;1084;98.64473996;0.00451942;N2;36;K;p4
+1089;呪;spell,curse,charm,malediction;まじなう;じゅ;1084;98.64925938;0.00451942;;-1;K;p4
+1090;善;virtuous,good,goodness;よい;ぜん;1084;98.6537788;0.00451942;N5;11;K;p4
+1091;堪;withstand,endure,support,resist;たえる;かん;1084;98.65829821;0.00451942;N2;48;K;p4
+1092;壁;wall,lining (stomach),fence;かべ;へき;1084;98.66281763;0.00451942;N4;39;K;p4
+1093;嫉;jealous,envy;そねむ;しつ;1084;98.66733705;0.00451942;;-1;K;p4
+1094;官;bureaucrat,the government,organ;;かん;1084;98.67185646;0.00451942;N2;24;K;p4
+1095;寿;longevity,congratulations,one's natural life;ことぶき;じゅ;1084;98.67637588;0.00451942;N2;35;K;p4
+1096;律;rhythm,law,regulation,gauge,control;;りつ;1084;98.6808953;0.00451942;;-1;K;p4
+1097;従;accompany,obey,submit to,comply,follow,secondary,incidental,subordinate;したがう;じゅう;1084;98.68541471;0.00451942;N3;26;K;p4
+1098;忍;endure,bear,put up with,conceal,secrete,spy,sneak;しのぶ;にん;1084;98.68993413;0.00451942;;-1;K;p4
+1099;怯;cowardice,wince,flinch,hesitate,waver;ひるむ;きょう;1084;98.69445355;0.00451942;;-1;K;p4
+1100;援;abet,help,save;;えん;1084;98.69897296;0.00451942;N3;8;K;p4
+1101;損;damage,loss,disadvantage,hurt,injure;そこなう;そん;1084;98.70349238;0.00451942;N3;34;K;p4
+1102;是;just so,this,right,justice;これ;ぜ;1084;98.7080118;0.00451942;N5;55;K;p4
+1103;植;plant;うえる;しょく;1084;98.71253121;0.00451942;N3;12;K;p4
+1104;湧;boil,ferment,seethe,uproar,breed;わく;ゆう;1084;98.71705063;0.00451942;N2;60;K;p4
+1105;烈;ardent,violent,vehement,furious,severe,extreme;はげしい;れつ;1084;98.72157005;0.00451942;N3;26;K;p4
+1106;爆;bomb,burst open,pop,split;はぜる;ばく;1084;98.72608946;0.00451942;N3;37;K;p4
+1107;牛;cow;うし;ぎゅう;1084;98.73060888;0.00451942;N3;3;K;p4
+1108;狭;cramped,narrow,contract,tight;せまい;きょう;1084;98.73512829;0.00451942;N5;24;K;p4
+1109;略;abbreviation,omission,outline,shorten,capture,plunder;ほぼ;りゃく;1084;98.73964771;0.00451942;N1;29;K;p4
+1110;祈;pray,wish;いのる;き;1084;98.74416713;0.00451942;N4;18;K;p4
+1111;秋;autumn;あき;しゅう;1084;98.74868654;0.00451942;N5;15;K;p4
+1112;筒;cylinder,pipe,tube,gun barrel,sleeve;つつ;とう;1084;98.75320596;0.00451942;N1;43;K;p4
+1113;範;pattern,example,model;;はん;1084;98.75772538;0.00451942;N3;42;K;p4
+1114;築;fabricate,build,construct;きずく;ちく;1084;98.76224479;0.00451942;;-1;K;p4
+1115;粘;sticky,glutinous,greasy,persevere;ねばる;ねん;1084;98.76676421;0.00451942;N1;49;K;p4
+1116;統;overall,relationship,ruling,governing;すべる;とう;1084;98.77128363;0.00451942;N1;22;K;p4
+1117;緑;green;みどり;りょく;1084;98.77580304;0.00451942;N5;13;K;p4
+1118;腰;loins,hips,waist,low wainscoting;こし;よう;1084;98.78032246;0.00451942;N3;24;K;p4
+1119;至;climax,arrive,proceed,reach,attain,result in;いたる;し;1084;98.78484188;0.00451942;N3;41;K;p4
+1120;製;made in...,manufacture;;せい;1084;98.78936129;0.00451942;N3;24;K;p4
+1121;覗;peep,peek,come in sight;のぞく;し;1084;98.79388071;0.00451942;;-1;K;p4
+1122;踏;step,trample,carry through,appraise,evade payment;ふむ;とう;1084;98.79840013;0.00451942;N4;36;K;p4
+1123;蹴;kick;ける;しゅく;1084;98.80291954;0.00451942;;-1;K;p4
+1124;鈍;dull,slow,foolish,blunt;にぶい;どん;1084;98.80743896;0.00451942;N5;37;K;p4
+1125;録;record;しるす;ろく;1084;98.81195838;0.00451942;N5;30;K;p4
+1126;陰;shade,yin,negative,sex organs,secret,shadow;かげ;いん;1084;98.81647779;0.00451942;N3;45;K;p4
+1127;雲;cloud;くも;うん;1084;98.82099721;0.00451942;N4;8;K;p4
+1128;順;obey,order,turn,right,docility,occasion;;じゅん;1084;98.82551663;0.00451942;N3;19;K;p4
+1129;飾;decorate,ornament,adorn,embellish;かざる;しょく;1084;98.83003604;0.00451942;N4;30;K;p4
+1130;駆;drive,run,gallop,advance,inspire,impel;かける;く;1084;98.83455546;0.00451942;N1;40;K;p4
+1131;魅;fascination,charm,bewitch;;み;1084;98.83907488;0.00451942;N3;30;K;p4
+1132;七;seven;なな;しち;1133;98.84302936;0.00395449;N5;1;K;p4
+1133;伸;expand,stretch,extend,lengthen,increase;のびる;しん;1133;98.84698385;0.00395449;N3;30;K;p4
+1134;依;reliant,depend on,consequently,therefore,due to;よる;い;1133;98.85093834;0.00395449;N3;36;K;p4
+1135;侵;encroach,invade,raid,trespass,violate;おかす;しん;1133;98.85489283;0.00395449;N2;41;K;p4
+1136;倣;emulate,imitate;ならう;ほう;1133;98.85884732;0.00395449;;-1;K;p4
+1137;催;sponsor,hold (a meeting),give (a dinner);もようす;さい;1133;98.86280181;0.00395449;N2;29;K;p4
+1138;刺;thorn,pierce,stab,prick,sting,calling card;さす;し;1133;98.8667563;0.00395449;N2;28;K;p4
+1139;勿;not,must not,do not,be not;なかれ;もち;1133;98.87071079;0.00395449;;-1;K;p4
+1140;占;fortune-telling,divining,forecasting,occupy,hold,have,get,take;しめる;せん;1133;98.87466528;0.00395449;N3;26;K;p4
+1141;坊;boy,priest's residence,priest;;ぼう;1133;98.87861977;0.00395449;N2;22;K;p4
+1142;契;pledge,promise,vow;ちぎる;けい;1133;98.88257426;0.00395449;N3;37;K;p4
+1143;孫;grandchild,descendants;まご;そん;1133;98.88652875;0.00395449;N3;31;K;p4
+1144;尾;tail,end,counter for fish,lower slope of mountain;お;び;1133;98.89048324;0.00395449;N1;20;K;p4
+1145;巾;towel,hanging scroll,width,cloth radical (no. 50);おおい;きん;1133;98.89443773;0.00395449;N3;36;K;p4
+1146;幼;infancy,childhood;おさない;よう;1133;98.89839222;0.00395449;N2;30;K;p4
+1147;慮;prudence,thought,concern,consider,deliberate,fear;おもんぱくる;りょ;1133;98.90234671;0.00395449;;-1;K;p4
+1148;拒;repel,refuse,reject,decline;こばむ;きょ;1133;98.9063012;0.00395449;N3;20;K;p4
+1149;拘;arrest,seize,concerned,adhere to,despite;かかわる;こう;1133;98.91025569;0.00395449;N2;16;K;p4
+1150;排;repudiate,exclude,expel,reject,line up,arrange;;はい;1133;98.91421018;0.00395449;N1;40;K;p4
+1151;控;withdraw,draw in,hold back,refrain from,be moderate;ひかえる;こう;1133;98.91816466;0.00395449;N1;41;K;p4
+1152;暇;spare time,rest,leisure,time,leave of absence;ひま;か;1133;98.92211915;0.00395449;N5;27;K;p4
+1153;暖;warmth;あたたか;だん;1133;98.92607364;0.00395449;N5;12;K;p4
+1154;曙;dawn,daybreak;あけぼの;しょ;1133;98.93002813;0.00395449;;-1;K;p4
+1155;棚;shelf,ledge,rack,mount,mantle,trellis;たな;ほう;1133;98.93398262;0.00395449;N4;44;K;p4
+1156;横;sideways,side,horizontal,width,woof,unreasonable,perverse;よこ;おう;1133;98.93793711000001;0.00395449;N5;10;K;p4
+1157;殿;Mr.,hall,mansion,palace,temple,lord;との;でん;1133;98.9418916;0.00395449;N1;40;K;p4
+1158;汁;soup,juice,broth,sap,gravy,pus;しる;じゅう;1133;98.94584609;0.00395449;N2;35;K;p4
+1159;添;annexed,accompany,marry,suit,meet,satisfy,attach,append,garnish,imitate;そえる;てん;1133;98.94980058;0.00395449;N1;29;K;p4
+1160;溢;overflow,inundate,spill;こぼれる;いつ;1133;98.95375507;0.00395449;N2;46;K;p4
+1161;溶;melt,dissolve,thaw;とける;よう;1133;98.95770956;0.00395449;N2;48;K;p4
+1162;漂;drift,float (on liquid);ただよう;ひょう;1133;98.96166405;0.00395449;N1;50;K;p4
+1163;炎;inflammation,flame,blaze;ほのお;えん;1133;98.96561854;0.00395449;N3;35;K;p4
+1164;百;hundred;もも;ひゃく;1133;98.96957303;0.00395449;N5;4;K;p4
+1165;眼;eyeball;まなこ;がん;1133;98.97352752;0.00395449;N5;2;K;p4
+1166;種;species,kind,class,variety,seed;たね;しゅ;1133;98.97748201;0.00395449;N3;18;K;p4
+1167;耐;-proof,enduring;たえる;たい;1133;98.9814365;0.00395449;N2;48;K;p4
+1168;耳;ear;みみ;じ;1133;98.98539099;0.00395449;N5;4;K;p4
+1169;肌;texture,skin,body,grain;はだ;き;1133;98.98934548;0.00395449;N3;45;K;p4
+1170;肝;liver,pluck,nerve,chutzpah;きも;かん;1133;98.99329996;0.00395449;;-1;K;p4
+1171;膨;swell,get fat,thick;ふくらむ;ぼう;1133;98.99725445;0.00395449;N2;54;K;p4
+1172;蔵;storehouse,hide,own,have,possess;くら;ぞう;1133;99.00120894;0.00395449;N1;28;K;p4
+1173;費;expense,cost,spend,consume,waste;ついやす;ひ;1133;99.00516343;0.00395449;N3;22;K;p4
+1174;距;long-distance,spur,fetlock;へだたる;きょ;1133;99.00911792;0.00395449;N1;43;K;p4
+1175;輪;wheel,ring,circle,link,loop,counter for wheels and flowers;わ;りん;1133;99.01307241;0.00395449;N3;13;K;p4
+1176;造;create,make,structure,physique;つくる;ぞう;1133;99.0170269;0.00395449;N5;26;K;p4
+1177;鉄;iron;くろがね;てつ;1133;99.02098139;0.00395449;;-1;K;p4
+1178;鏡;mirror,speculum,barrel-head,round rice-cake offering;かがみ;きょう;1133;99.02493588;0.00395449;N4;13;K;p4
+1179;霊;spirits,soul;たま;れい;1133;99.02889037;0.00395449;;-1;K;p4
+1180;頬;cheeks,jaw;ほお;きょう;1133;99.03284486;0.00395449;;-1;K;p4
+1181;養;foster,bring up,rear,develop,nurture;やしなう;よう;1133;99.03679935;0.00395449;N1;13;K;p4
+1182;魂;soul,spirit;たましい;こん;1133;99.04075384;0.00395449;N1;45;K;p4
+1183;令;orders,laws,command,decree,good;;れい;1184;99.0441434;0.00338956;;-1;K;p4
+1184;伊;Italy,that one;かれ;い;1184;99.04753296;0.00338956;;-1;K;p4
+1185;伏;prostrated,bend down,bow,cover,lay (pipes);ふせる;ふく;1184;99.05092253;0.00338956;;-1;K;p4
+1186;俵;bag,bale,sack,counter for bags;たわら;ひょう;1184;99.05431209;0.00338956;;-1;K;p4
+1187;偽;falsehood,lie,deceive,pretend,counterfeit,forgery;いつわる;ぎ;1184;99.05770165;0.00338956;N1;41;K;p4
+1188;六;six;む;ろく;1184;99.06109121;0.00338956;N5;2;K;p4
+1189;凝;congeal,freeze,stiff,be absorbed in;こる;ぎょう;1184;99.06448078;0.00338956;;-1;K;p4
+1190;副;vice-,assistant,aide,duplicate,copy;;ふく;1184;99.06787034;0.00338956;N2;22;K;p4
+1191;卵;egg,ovum,spawn,roe;たまご;らん;1184;99.0712599;0.00338956;N5;32;K;p4
+1192;塩;salt;しお;えん;1184;99.07464946;0.00338956;N5;17;K;p4
+1193;壇;podium,stage,rostrum,terrace;;だん;1184;99.07803903;0.00338956;N1;49;K;p4
+1194;就;concerning,settle,take position,depart,study,per;つく;しゅう;1184;99.08142859;0.00338956;N3;27;K;p4
+1195;層;stratum,social class,layer,story,floor;;そう;1184;99.08481815;0.00338956;;-1;K;p4
+1196;岩;boulder,rock,cliff;いわ;がん;1184;99.08820771;0.00338956;N3;15;K;p4
+1197;庇;protect,shield,defend,eaves,canopy,penthouse,visor;ひさし;ひ;1184;99.09159727;0.00338956;;-1;K;p4
+1198;廃;abolish,obsolete,cessation,discarding,abandon;すたれる;はい;1184;99.09498684;0.00338956;N1;36;K;p4
+1199;慨;rue,be sad,sigh,lament;;がい;1184;99.0983764;0.00338956;;-1;K;p4
+1200;憤;aroused,resent,be indignant,anger;いきどおる;ふん;1184;99.10176596;0.00338956;N1;58;K;p4
+1201;攻;aggression,attack,criticize,polish;せめる;こう;1184;99.10515552;0.00338956;N3;28;K;p4
+1202;昧;dark,foolish;くらい;まい;1184;99.10854509;0.00338956;;-1;K;p4
+1203;暁;daybreak,dawn,in the event;あかつき;ぎょう;1184;99.11193465;0.00338956;;-1;K;p4
+1204;梅;plum;うめ;ばい;1184;99.11532421;0.00338956;N3;17;K;p4
+1205;棄;abandon,throw away,discard,resign,reject,sacrifice;すてる;き;1184;99.11871377;0.00338956;N4;32;K;p4
+1206;汚;dirty,pollute,disgrace,rape,defile;けがす;お;1184;99.12210334;0.00338956;N5;36;K;p4
+1207;泥;mud,mire,adhere to,be attached to;どろ;でい;1184;99.1254929;0.00338956;N3;31;K;p4
+1208;煙;smoke;けむる;えん;1184;99.12888246;0.00338956;N3;18;K;p4
+1209;症;symptoms,illness;;しょう;1184;99.13227202;0.00338956;N1;27;K;p4
+1210;皮;pelt,skin,hide,leather,skin radical (no. 107);かわ;ひ;1184;99.13566159;0.00338956;N3;5;K;p4
+1211;競;emulate,compete with,bid,sell at auction,bout,contest,race;きそう;きょう;1184;99.13905115;0.00338956;N4;19;K;p4
+1212;紛;distract,be mistaken for,go astray,divert;まぎれる;ふん;1184;99.14244071;0.00338956;N1;44;K;p4
+1213;絞;strangle,constrict,wring;しぼる;こう;1184;99.14583027;0.00338956;N2;25;K;p4
+1214;航;navigate,sail,cruise,fly;;こう;1184;99.14921984;0.00338956;N3;29;K;p4
+1215;般;carrier,carry,all,general,sort,kind;;はん;1184;99.1526094;0.00338956;;-1;K;p4
+1216;菌;germ,fungus,bacteria;;きん;1184;99.15599896;0.00338956;;-1;K;p4
+1217;託;consign,requesting,entrusting with,pretend,hint;かこつける;たく;1184;99.15938852;0.00338956;;-1;K;p4
+1218;誇;boast,be proud,pride,triumphantly;ほこる;こ;1184;99.16277809;0.00338956;N1;46;K;p4
+1219;貫;pierce,8 1,3lbs,penetrate,brace;つらぬく;かん;1184;99.16616765;0.00338956;N1;52;K;p4
+1220;辿;follow (road),pursue;たどる;てん;1184;99.16955721;0.00338956;;-1;K;p4
+1221;遇;meet,encounter,interview,treat,entertain,receive,deal with;あう;ぐう;1184;99.17294677;0.00338956;N5;5;K;p4
+1222;針;needle,pin,staple,stinger;はり;しん;1184;99.17633633;0.00338956;N2;28;K;p4
+1223;鑑;specimen,take warning from,learn from;かんがみる;かん;1184;99.1797259;0.00338956;;-1;K;p4
+1224;陸;land,six;おか;りく;1184;99.18311546;0.00338956;N5;2;K;p4
+1225;雫;drop,trickle,dripping,(kokuji);しずく;だ;1184;99.18650502;0.00338956;;-1;K;p4
+1226;領;jurisdiction,dominion,territory,fief,reign;えり;りょう;1184;99.18989458;0.00338956;N1;51;K;p4
+1227;麗;lovely,beautiful,graceful,resplendent;うるわしい;れい;1184;99.19328415;0.00338956;;-1;K;p4
+1228;免;excuse,dismissal;まぬかれる;めん;1229;99.19610878;0.00282464;N3;39;K;p4
+1229;券;ticket;;けん;1229;99.19893342;0.00282464;N3;28;K;p4
+1230;卸;wholesale;おろす;しゃ;1229;99.20175805;0.00282464;N2;54;K;p4
+1231;叱;scold,reprove;しかる;しつ;1229;99.20458269;0.00282464;N3;44;K;p4
+1232;司;director,official,govt office,rule,administer;つかさどる;し;1229;99.20740732;0.00282464;;-1;K;p4
+1233;呟;mutter,grumble,murmur;つぶやく;げん;1229;99.21023196;0.00282464;;-1;K;p4
+1234;唱;chant,recite,call upon,yell;となえる;しょう;1229;99.21305659;0.00282464;N5;12;K;p4
+1235;宛;address,just like,fortunately;あてる;えん;1229;99.21588123;0.00282464;N1;10;K;p4
+1236;富;wealth,enrich,abundant;とむ;ふ;1229;99.21870587;0.00282464;N1;31;K;p4
+1237;寛;tolerant,leniency,generosity,relax,feel at home,be at ease,broadminded;くつろぐ;かん;1229;99.2215305;0.00282464;N1;53;K;p4
+1238;巌;rock,crag,boulder;いわ;がん;1229;99.22435514;0.00282464;N3;15;K;p4
+1239;幕;curtain,bunting,act of play;とばり;まく;1229;99.22717977;0.00282464;N3;34;K;p4
+1240;庫;warehouse,storehouse;くら;こ;1229;99.23000441;0.00282464;N1;28;K;p4
+1241;延;prolong,stretching;のびる;えん;1229;99.23282904;0.00282464;N3;30;K;p4
+1242;恩;grace,kindness,goodness,favor,mercy,blessing,benefit;;おん;1229;99.23565368;0.00282464;;-1;K;p4
+1243;戯;frolic,play,sport;たわむれる;ぎ;1229;99.23847831;0.00282464;N1;58;K;p4
+1244;扉;front door,title page,front page;とびら;ひ;1229;99.24130295;0.00282464;N1;47;K;p4
+1245;採;pick,take,fetch,take up;とる;さい;1229;99.24412758;0.00282464;N2;32;K;p4
+1246;曖;dark,not clear;くらい;あい;1229;99.24695222;0.00282464;;-1;K;p4
+1247;札;tag,paper money,counter for bonds,placard,bid;ふだ;さつ;1229;99.24977685;0.00282464;N3;7;K;p4
+1248;机;desk,table;つくえ;き;1229;99.25260149;0.00282464;N5;32;K;p4
+1249;柔;tender,weakness,gentleness,softness;やわらか;じゅう;1229;99.25542612;0.00282464;N4;43;K;p4
+1250;核;nucleus,core,kernel;;かく;1229;99.25825076;0.00282464;N1;36;K;p4
+1251;棟;ridgepole,ridge;むね;とう;1229;99.2610754;0.00282464;;-1;K;p4
+1252;泰;peaceful,calm,peace,easy,Thailand,extreme,excessive,great;;たい;1229;99.26390003;0.00282464;;-1;K;p4
+1253;災;disaster,calamity,woe,curse,evil;わざわい;さい;1229;99.26672467;0.00282464;N1;20;K;p4
+1254;炊;cook,boil;たく;すい;1229;99.2695493;0.00282464;N2;47;K;p4
+1255;犬;dog;いぬ;けん;1229;99.27237394;0.00282464;N5;2;K;p4
+1256;猫;cat;ねこ;びょう;1229;99.27519857;0.00282464;N5;15;K;p4
+1257;率;ratio,rate,proportion,%,factor,lead,spearhead,command;ひきいる;そつ;1229;99.27802321;0.00282464;;-1;K;p4
+1258;璧;sphere,ball;たま;へき;1229;99.28084784;0.00282464;;-1;K;p4
+1259;甲;armor,high (voice),A grade,first class,former,instep,carapace;きのえ;こう;1229;99.28367248;0.00282464;;-1;K;p4
+1260;監;oversee,official,govt office,rule,administer;;かん;1229;99.28649711;0.00282464;N3;29;K;p4
+1261;稚;immature,young;いとけない;ち;1229;99.28932175;0.00282464;N3;28;K;p4
+1262;穴;hole,aperture,slit,cave,den;あな;けつ;1229;99.29214638;0.00282464;N3;20;K;p4
+1263;窓;window,pane;まど;そう;1229;99.29497102;0.00282464;N5;33;K;p4
+1264;章;badge,chapter,composition,poem,design;;しょう;1229;99.29779565;0.00282464;;-1;K;p4
+1265;筆;writing brush,writing,painting brush,handwriting;ふで;ひつ;1229;99.30062029;0.00282464;N3;26;K;p4
+1266;管;pipe,tube,wind instrument,drunken talk,control,jurisdiction;くだ;かん;1229;99.30344493;0.00282464;N3;24;K;p4
+1267;粋;chic,style,purity,essence,pith,cream,elite,choice;いき;すい;1229;99.30626956;0.00282464;N1;34;K;p4
+1268;糸;thread;いと;し;1229;99.3090942;0.00282464;N4;4;K;p4
+1269;綺;figured cloth,beautiful;あや;き;1229;99.31191883;0.00282464;N5;29;K;p4
+1270;編;compilation,knit,plait,braid,twist,editing,completed poem,part of a book;あむ;へん;1229;99.31474347;0.00282464;N2;31;K;p4
+1271;縛;truss,arrest,bind,tie,restrain;しばる;ばく;1229;99.3175681;0.00282464;N2;56;K;p4
+1272;縫;sew,stitch,embroider;ぬう;ほう;1229;99.32039274;0.00282464;N2;56;K;p4
+1273;聖;holy,saint,sage,master,priest;ひじり;せい;1229;99.32321737;0.00282464;N1;34;K;p4
+1274;脳;brain,memory;のうずる;のう;1229;99.32604201;0.00282464;N1;18;K;p4
+1275;膝;knee,lap;ひざ;しつ;1229;99.32886664;0.00282464;;-1;K;p4
+1276;草;grass,weeds,herbs,pasture,write,draft;くさ;そう;1229;99.33169128;0.00282464;N4;5;K;p4
+1277;荒;laid waste,rough,rude,wild;あらい;こう;1229;99.33451591;0.00282464;N2;42;K;p4
+1278;裕;abundant,rich,fertile;;ゆう;1229;99.33734055;0.00282464;;-1;K;p4
+1279;覧;perusal,see;みる;らん;1229;99.34016518;0.00282464;;-1;K;p4
+1280;誓;vow,swear,pledge;ちかう;せい;1229;99.34298982;0.00282464;;-1;K;p4
+1281;賛;approve,praise,title or inscription on picture,assist,agree with;たすける;さん;1229;99.34581446;0.00282464;N3;32;K;p4
+1282;賢;intelligent,wise,wisdom,cleverness;かしこい;けん;1229;99.34863909;0.00282464;N3;48;K;p4
+1283;逸;deviate,idleness,leisure,miss the mark,evade,elude,parry,diverge;それる;いつ;1229;99.35146373;0.00282464;N1;54;K;p4
+1284;醤;a kind of miso;ひしお;しょう;1229;99.35428836;0.00282464;N5;35;K;p4
+1285;銘;inscription,signature (of artisan);;めい;1229;99.357113;0.00282464;N2;50;K;p4
+1286;鍋;pot,pan,kettle;なべ;か;1229;99.35993763;0.00282464;N3;35;K;p4
+1287;鍵;key;かぎ;けん;1229;99.36276227;0.00282464;N5;46;K;p4
+1288;阻;thwart,separate from,prevent,obstruct,deter,impede;はばむ;そ;1229;99.3655869;0.00282464;N1;46;K;p4
+1289;障;hinder,hurt,harm;さわる;しょう;1229;99.36841154;0.00282464;N2;26;K;p4
+1290;靴;shoes;くつ;か;1229;99.37123617;0.00282464;N5;27;K;p4
+1291;鶏;chicken;にわとり;けい;1229;99.37406081;0.00282464;N5;7;K;p4
+1292;麻;hemp,flax,numb;あさ;ま;1229;99.37688544;0.00282464;N1;48;K;p4
+1293;串;spit,skewer;くし;かん;1294;99.37914515;0.00225971;N3;16;K;p4
+1294;五;five;いつ;ご;1294;99.38140486;0.00225971;N5;2;K;p4
+1295;侮;scorn,despise,make light of,contempt;あなどる;ぶ;1294;99.38366457;0.00225971;N1;59;K;p4
+1296;償;reparation,make up for,recompense,redeem;つぐなう;しょう;1294;99.38592428;0.00225971;;-1;K;p4
+1297;刃;blade,sword,edge;は;じん;1294;99.38818399;0.00225971;N1;44;K;p4
+1298;匹;equal,head,counter for small animals,roll of cloth;ひき;ひつ;1294;99.39044369;0.00225971;N1;44;K;p4
+1299;厄;unlucky,misfortune,bad luck,disaster;;やく;1294;99.3927034;0.00225971;N3;35;K;p4
+1300;及;reach out,exert,exercise,cause;およぶ;きゅう;1294;99.39496311;0.00225971;N1;38;K;p4
+1301;叩;strike,beat,kow tow,hit,thrash,criticize;たたく;こう;1294;99.39722282;0.00225971;;-1;K;p4
+1302;召;seduce,call,send for,wear,put on,ride in,buy,eat,drink,catch (cold);めす;しょう;1294;99.39948253;0.00225971;N4;53;K;p4
+1303;右;right;みぎ;う;1294;99.40174224;0.00225971;N5;2;K;p4
+1304;噌;boisterous;かまびすしい;そう;1294;99.40400194;0.00225971;;-1;K;p4
+1305;域;range,region,limits,stage,level;;いき;1294;99.40626165;0.00225971;;-1;K;p4
+1306;塞;close,shut,cover,block,obstruct;ふさぐ;そく;1294;99.40852136;0.00225971;;-1;K;p4
+1307;嬢;lass,girl,Miss,daughter;むすめ;じょう;1294;99.41078107;0.00225971;;-1;K;p4
+1308;宇;eaves,roof,house,heaven;;う;1294;99.41304078;0.00225971;N3;51;K;p4
+1309;宗;religion,sect,denomination,main point,origin,essence;むね;しゅう;1294;99.41530048;0.00225971;N3;29;K;p4
+1310;射;shoot,shine into,onto,archery;いる;しゃ;1294;99.41756019;0.00225971;N3;28;K;p4
+1311;巳;sign of the snake or serpent,9-11AM,sixth sign of Chinese zodiac;み;し;1294;99.4198199;0.00225971;;-1;K;p4
+1312;帽;cap,headgear;ずきん;ぼう;1294;99.42207961;0.00225971;N5;47;K;p4
+1313;序;preface,beginning,order,precedence,occasion,chance,incidentally;ついで;じょ;1294;99.42433932;0.00225971;;-1;K;p4
+1314;忠;loyalty,fidelity,faithfulness;;ちゅう;1294;99.42659903;0.00225971;N1;33;K;p4
+1315;恒;constancy,always;つね;こう;1294;99.42885873;0.00225971;;-1;K;p4
+1316;恵;favor,blessing,grace,kindness;めぐむ;けい;1294;99.43111844;0.00225971;N1;37;K;p4
+1317;惚;fall in love with,admire,grow senile;ほける;こつ;1294;99.43337815;0.00225971;;-1;K;p4
+1318;惜;pity,be sparing of,frugal,stingy,regret;おしい;せき;1294;99.43563786;0.00225971;N2;57;K;p4
+1319;惹;attract,captivate;ひく;じゃく;1294;99.43789757;0.00225971;;-1;K;p4
+1320;把;grasp,faggot,bunch,counter for bundles;;は;1294;99.44015728;0.00225971;N3;14;K;p4
+1321;披;expose,open;;ひ;1294;99.44241698;0.00225971;;-1;K;p4
+1322;拗;crooked,twisted,distorted,perverted,cross;ねじれる;おう;1294;99.44467669;0.00225971;;-1;K;p4
+1323;拝;worship,adore,pray to;おがむ;はい;1294;99.4469364;0.00225971;N4;34;K;p4
+1324;昇;rise up;のぼる;しょう;1294;99.44919611;0.00225971;N5;1;K;p4
+1325;杖;staff,cane;つえ;じょう;1294;99.45145582;0.00225971;;-1;K;p4
+1326;柿;persimmon;かき;し;1294;99.45371553;0.00225971;;-1;K;p4
+1327;栄;flourish,prosperity,honor,glory,splendor;さかえる;えい;1294;99.45597523;0.00225971;N1;17;K;p4
+1328;栗;chestnut;くり;りつ;1294;99.45823494;0.00225971;;-1;K;p4
+1329;樹;timber,trees,wood,establish,set up;き;じゅ;1294;99.46049465;0.00225971;N5;2;K;p4
+1330;毅;strong;つよい;き;1294;99.46275436;0.00225971;;-1;K;p4
+1331;泌;ooze,flow,soak in,penetrate,secrete;;ひつ;1294;99.46501407;0.00225971;;-1;K;p4
+1332;洋;ocean,sea,foreign,Western style;;よう;1294;99.46727377;0.00225971;N5;11;K;p4
+1333;淡;thin,faint,pale,fleeting;あわい;たん;1294;99.46953348;0.00225971;N2;49;K;p4
+1334;淹;dip,soak,immerse,stop,linger;いれる;えん;1294;99.47179319;0.00225971;;-1;K;p4
+1335;渋;astringent,hesitate,reluctant,have diarrhea;しぶ;じゅう;1294;99.4740529;0.00225971;N3;39;K;p4
+1336;滞;stagnate,be delayed,overdue,arrears;とどこおる;たい;1294;99.47631261;0.00225971;N1;35;K;p4
+1337;漏;leak,escape,time;もる;ろう;1294;99.47857232;0.00225971;N1;32;K;p4
+1338;潮;tide,salt water,opportunity;しお;ちょう;1294;99.48083202;0.00225971;N1;43;K;p4
+1339;澄;lucidity,be clear,clear,clarify,settle,strain,look grave;すむ;ちょう;1294;99.48309173;0.00225971;N2;45;K;p4
+1340;煽;fan,flap,instigate,agitate,bolster up,gulp down;あおる;せん;1294;99.48535144;0.00225971;N2;47;K;p4
+1341;献;offering,counter for drinks,present,offer;たてまつる;けん;1294;99.48761115;0.00225971;;-1;K;p4
+1342;環;ring,circle,link,wheel;わ;かん;1294;99.48987086;0.00225971;N3;13;K;p4
+1343;県;prefecture;かける;けん;1294;99.49213057;0.00225971;N3;9;K;p4
+1344;眺;stare,watch,look at,see,scrutinize;ながめる;ちょう;1294;99.49439027;0.00225971;N3;45;K;p4
+1345;硬;stiff,hard;かたい;こう;1294;99.49664998;0.00225971;N4;14;K;p4
+1346;稼;earnings,work,earn money;かせぐ;か;1294;99.49890969;0.00225971;N3;45;K;p4
+1347;究;research,study;きわめる;きゅう;1294;99.5011694;0.00225971;N1;27;K;p4
+1348;竜;dragon,imperial;たつ;りゅう;1294;99.50342911;0.00225971;;-1;K;p4
+1349;紅;crimson,deep red;べに;こう;1294;99.50568882;0.00225971;N5;4;K;p4
+1350;綿;cotton;わた;めん;1294;99.50794852;0.00225971;N3;46;K;p4
+1351;繕;darning,repair,mend,trim,tidy up,adjust;つくろう;ぜん;1294;99.51020823;0.00225971;;-1;K;p4
+1352;胆;gall bladder,courage,pluck,nerve;きも;たん;1294;99.51246794;0.00225971;;-1;K;p4
+1353;脂;fat,grease,tallow,lard,rosin,gum,tar;あぶら;し;1294;99.51472765;0.00225971;N1;51;K;p4
+1354;臆;timidity,heart,mind,fear,cowardly;むね;おく;1294;99.51698736;0.00225971;;-1;K;p4
+1355;臨;look to,face,meet,confront,attend,call on;のぞむ;りん;1294;99.51924707;0.00225971;N2;37;K;p4
+1356;艦;warship;;かん;1294;99.52150677;0.00225971;;-1;K;p4
+1357;詠;recitation,poem,song,composing;よむ;えい;1294;99.52376648;0.00225971;N5;12;K;p4
+1358;誌;document,records;;し;1294;99.52602619;0.00225971;;-1;K;p4
+1359;請;solicit,invite,ask;こう;せい;1294;99.5282859;0.00225971;N4;29;K;p4
+1360;豊;bountiful,excellent,rich;ゆたか;ほう;1294;99.53054561;0.00225971;N3;25;K;p4
+1361;貢;tribute,support,finance;みつぐ;こう;1294;99.53280531;0.00225971;N3;43;K;p4
+1362;賑;flourish,be bustling,prosperity;にぎわい;しん;1294;99.53506502;0.00225971;;-1;K;p4
+1363;醒;awake,be disillusioned,sober up;さます;せい;1294;99.53732473;0.00225971;;-1;K;p4
+1364;額;forehead,tablet,plaque,framed picture,sum,amount,volume;ひたい;がく;1294;99.53958444;0.00225971;N3;24;K;p4
+1365;鮭;salmon;さけ;かい;1294;99.54184415;0.00225971;;-1;K;p4
+1366;乾;drought,dry,dessicate,drink up,heaven,emperor;かわく;かん;1367;99.54353893;0.00169478;N2;51;K;p4
+1367;伴;consort,accompany,bring with,companion;ともなう;はん;1367;99.54523371;0.00169478;N1;38;K;p4
+1368;佐;assistant,help;;さ;1367;99.54692849;0.00169478;N3;8;K;p4
+1369;儲;be profitable,yield profit;もうける;ちょ;1367;99.54862327;0.00169478;N1;48;K;p4
+1370;克;overcome,kindly,skillfully;かつ;こく;1367;99.55031805;0.00169478;N4;9;K;p4
+1371;凄;uncanny,weird,threatening,horrible;さむい;せい;1367;99.55201284;0.00169478;;-1;K;p4
+1372;凍;frozen,congeal,refrigerate;こおる;とう;1367;99.55370762;0.00169478;N3;4;K;p4
+1373;刀;sword,saber,knife;かたな;とう;1367;99.5554024;0.00169478;N3;2;K;p4
+1374;則;rule,follow,based on,model after;のっとる;そく;1367;99.55709718;0.00169478;;-1;K;p4
+1375;創;genesis,wound,injury,hurt,start,originate;つくる;そう;1367;99.55879196;0.00169478;N3;32;K;p4
+1376;区;ward,district;;く;1367;99.56048674;0.00169478;N1;15;K;p4
+1377;卑;lowly,base,vile,vulgar;いやしい;ひ;1367;99.56218152;0.00169478;;-1;K;p4
+1378;卓;eminent,table,desk,high;;たく;1367;99.5638763;0.00169478;;-1;K;p4
+1379;却;instead,on the contrary,rather,step back,withdraw,retreat;かえって;きゃく;1367;99.56557108;0.00169478;N2;38;K;p4
+1380;双;pair,set,comparison,counter for pairs;ふた;そう;1367;99.56726587;0.00169478;N5;28;K;p4
+1381;吊;suspend,hang,wear (sword);つる;ちょう;1367;99.56896065;0.00169478;;-1;K;p4
+1382;呑;drink;のむ;とん;1367;99.57065543;0.00169478;N5;10;K;p4
+1383;喝;hoarse,scold;;かつ;1367;99.57235021;0.00169478;;-1;K;p4
+1384;喰;eat,drink,receive (a blow),(kokuji);くう;;1367;99.57404499;0.00169478;N5;6;K;p4
+1385;営;occupation,camp,perform,build,conduct (business);いとなむ;えい;1367;99.57573977;0.00169478;N3;22;K;p4
+1386;圏;sphere,circle,radius,range;かこい;けん;1367;99.57743455;0.00169478;;-1;K;p4
+1387;埋;bury,be filled up,embedded;うめる;まい;1367;99.57912933;0.00169478;N1;43;K;p4
+1388;執;tenacious,take hold,grasp,take to heart;とる;しつ;1367;99.58082412;0.00169478;N1;37;K;p4
+1389;堰;dam,prevent,stop up;せき;えん;1367;99.5825189;0.00169478;;-1;K;p4
+1390;墟;ruins;あと;きょ;1367;99.58421368;0.00169478;;-1;K;p4
+1391;妄;delusion,unnecessarily,without authority,reckless;みだりに;もう;1367;99.58590846;0.00169478;;-1;K;p4
+1392;威;intimidate,dignity,majesty,menace,threaten;おどす;い;1367;99.58760323999999;0.00169478;N2;43;K;p4
+1393;孝;filial piety,child's respect;;こう;1367;99.58929802;0.00169478;N2;40;K;p4
+1394;宙;mid-air,air,space,sky,memorization,interval of time;;ちゅう;1367;99.5909928;0.00169478;;-1;K;p4
+1395;宵;wee hours,evening,early night;よい;しょう;1367;99.59268758;0.00169478;;-1;K;p4
+1396;寸;measurement,tenth of a shaku,a little,small;;すん;1367;99.59438237;0.00169478;N2;44;K;p4
+1397;尖;be pointed,sharp,taper,displeased,angry,edgy;とがる;せん;1367;99.59607715;0.00169478;N2;27;K;p4
+1398;属;belong,genus,subordinate official,affiliated;さかん;ぞく;1367;99.59777193;0.00169478;;-1;K;p4
+1399;巣;nest,rookery,hive,cobweb,den;す;そう;1367;99.59946671;0.00169478;N3;31;K;p4
+1400;帝;sovereign,the emperor,god,creator;みかど;てい;1367;99.60116149;0.00169478;;-1;K;p4
+1401;幽;seclude,confine to a room,deep,profound,secluded,faint,dark,tranquil,calm;ふかい;ゆう;1367;99.60285627;0.00169478;N1;46;K;p4
+1402;床;bed,counter for beds,floor,padding,tatami;とこ;しょう;1367;99.60455105;0.00169478;N3;42;K;p4
+1403;径;diameter,path,method;みち;けい;1367;99.60624583;0.00169478;N5;8;K;p4
+1404;徳;benevolence,virtue,goodness,commanding respect;;とく;1367;99.60794061;0.00169478;;-1;K;p4
+1405;怠;neglect,laziness;おこたる;たい;1367;99.6096354;0.00169478;N3;27;K;p4
+1406;愉;pleasure,happy,rejoice;たのしい;ゆ;1367;99.61133018;0.00169478;N5;8;K;p4
+1407;憂;melancholy,grieve,lament,be anxious,sad,unhappy;うれえる;ゆう;1367;99.61302496;0.00169478;N1;55;K;p4
+1408;懲;penal,chastise,punish,discipline;こりる;ちょう;1367;99.61471974;0.00169478;N1;43;K;p4
+1409;戴;be crowned with,live under (a ruler),receive;いただく;たい;1367;99.61641452;0.00169478;N3;51;K;p4
+1410;房;tassel,tuft,fringe,bunch,lock (hair),segment (orange),house,room;ふさ;ぼう;1367;99.6181093;0.00169478;;-1;K;p4
+1411;拍;clap,beat (music);;はく;1367;99.61980408;0.00169478;N3;56;K;p4
+1412;描;sketch,compose,write,draw,paint;えがく;びょう;1367;99.62149886;0.00169478;N3;38;K;p4
+1413;摘;pinch,pick,pluck,trim,clip,summarize;つむ;てき;1367;99.62319365;0.00169478;;-1;K;p4
+1414;撫;stroke,pat,smooth down;なでる;ぶ;1367;99.62488843;0.00169478;;-1;K;p4
+1415;撲;slap,strike,hit,beat,tell,speak;;ぼく;1367;99.62658321;0.00169478;N2;48;K;p4
+1416;操;maneuver,manipulate,operate,steer,chastity,virginity,fidelity;みさお;そう;1367;99.62827799;0.00169478;N3;33;K;p4
+1417;敏;cleverness,agile,alert;さとい;びん;1367;99.62997277;0.00169478;N1;40;K;p4
+1418;斐;beautiful,patterned;;ひ;1367;99.63166755;0.00169478;;-1;K;p4
+1419;昆;descendants,elder brother,insect;;こん;1367;99.63336233;0.00169478;;-1;K;p4
+1420;暦;calendar,almanac;こよみ;れき;1367;99.63505711;0.00169478;N1;45;K;p4
+1421;曇;cloudy weather,cloud up;くもる;どん;1367;99.6367519;0.00169478;N5;45;K;p4
+1422;柑;citrus,orange;;こん;1367;99.63844668;0.00169478;;-1;K;p4
+1423;橋;bridge;はし;きょう;1367;99.64014146;0.00169478;N5;13;K;p4
+1424;殆;almost,quite,really;ほとほと;たい;1367;99.64183624;0.00169478;;-1;K;p4
+1425;殊;particularly,especially,exceptionally;こと;しゅ;1367;99.64353102;0.00169478;N1;54;K;p4
+1426;没;drown,sink,hide,fall into,disappear,die;おぼれる;ぼつ;1367;99.6452258;0.00169478;N1;52;K;p4
+1427;浅;shallow,superficial,frivolous,wretched,shameful;あさい;せん;1367;99.64692058;0.00169478;N4;15;K;p4
+1428;涼;refreshing,nice and cool;すずしい;りょう;1367;99.64861536;0.00169478;N5;46;K;p4
+1429;湿;damp,wet,moist;しめる;しつ;1367;99.65031014;0.00169478;N2;45;K;p4
+1430;滑;slippery,slide,slip,fail exam;すべる;かつ;1367;99.65200493;0.00169478;N4;42;K;p4
+1431;滝;waterfall,rapids,cascade;たき;ろう;1367;99.65369971;0.00169478;N2;45;K;p4
+1432;漁;fishing,fishery;あさる;ぎょ;1367;99.65539449;0.00169478;N2;37;K;p4
+1433;濡;get wet,damp,make love;ぬれる;じゅ;1367;99.65708927;0.00169478;;-1;K;p4
+1434;濯;laundry,wash,pour on,rinse;すすぐ;たく;1367;99.65878405;0.00169478;;-1;K;p4
+1435;爺;old man,grampa;じい;や;1367;99.66047883;0.00169478;;-1;K;p4
+1436;爽;refreshing,bracing,resonant,sweet,clear;あきらか;そう;1367;99.66217361;0.00169478;N2;47;K;p4
+1437;療;heal,cure;;りょう;1367;99.66386839;0.00169478;;-1;K;p4
+1438;皿;dish,a helping,plate;さら;べい;1367;99.66556318;0.00169478;N3;4;K;p4
+1439;盾;shield,escutcheon,pretext;たて;じゅん;1367;99.66725796;0.00169478;N1;48;K;p4
+1440;瞳;pupil (of eye);ひとみ;どう;1367;99.66895274;0.00169478;N2;46;K;p4
+1441;矛;halberd,arms,festival float;ほこ;む;1367;99.67064752;0.00169478;N2;48;K;p4
+1442;祉;welfare,happiness;;し;1367;99.6723423;0.00169478;;-1;K;p4
+1443;税;tax,duty;;ぜい;1367;99.67403708;0.00169478;N3;21;K;p4
+1444;窮;hard up,destitute,suffer,perplexed,cornered;きわめる;きゅう;1367;99.67573186;0.00169478;N1;27;K;p4
+1445;符;token,sign,mark,tally,charm;;ふ;1367;99.67742664;0.00169478;;-1;K;p4
+1446;箇;counter for articles;;か;1367;99.67912143;0.00169478;;-1;K;p4
+1447;粗;coarse,rough,rugged;あらい;そ;1367;99.68081621;0.00169478;N3;55;K;p4
+1448;粧;cosmetics,adorn (one's person);;しょう;1367;99.68251099;0.00169478;;-1;K;p4
+1449;綱;hawser,class (genus),rope,cord,cable;つな;こう;1367;99.68420577;0.00169478;N2;42;K;p4
+1450;緩;slacken,loosen,relax,lessen,be moderate,ease;ゆるい;かん;1367;99.68590055;0.00169478;N1;38;K;p4
+1451;縮;shrink,contract,shrivel,wrinkle,reduce;ちぢむ;しゅく;1367;99.68759533;0.00169478;N2;34;K;p4
+1452;耗;decrease;;もう;1367;99.68929011;0.00169478;;-1;K;p4
+1453;胃;stomach,paunch,crop,craw;;い;1367;99.69098489;0.00169478;N3;27;K;p4
+1454;腺;gland;;せん;1367;99.69267968;0.00169478;;-1;K;p4
+1455;芝;turf,lawn;しば;し;1367;99.69437446;0.00169478;N1;42;K;p4
+1456;蓄;amass,raise,hoard,store;たくわえる;ちく;1367;99.69606924;0.00169478;N2;26;K;p4
+1457;衆;masses,great numbers,multitude,populace;おおい;しゅう;1367;99.69776402;0.00169478;N1;28;K;p4
+1458;討;chastise,attack,defeat,destroy,conquer;うつ;とう;1367;99.6994588;0.00169478;N3;28;K;p4
+1459;訴;accusation,sue,complain of pain,appeal to;うったえる;そ;1367;99.70115358;0.00169478;N3;25;K;p4
+1460;詣;visit a temple,arrive,attain;けいする;けい;1367;99.70284836;0.00169478;N4;14;K;p4
+1461;詮;discussion,methods called for,selection,result;せんずる;せん;1367;99.70454314;0.00169478;;-1;K;p4
+1462;誠;sincerity,admonish,warn,prohibit,truth,fidelity;まこと;せい;1367;99.70623792;0.00169478;N1;41;K;p4
+1463;諭;rebuke,admonish,charge,warn,persuade;さとす;ゆ;1367;99.70793271;0.00169478;;-1;K;p4
+1464;謀;conspire,cheat,impose on,plan,devise,scheme,have in mind,deceive;はかる;ぼう;1367;99.70962749;0.00169478;N1;49;K;p4
+1465;購;subscription,buy;;こう;1367;99.71132227;0.00169478;N1;30;K;p4
+1466;軍;army,force,troops,war,battle;いくさ;ぐん;1367;99.71301705;0.00169478;N3;15;K;p4
+1467;還;send back,return;かえる;かん;1367;99.71471183;0.00169478;N5;15;K;p4
+1468;郷;home town,village,native place,district;さと;きょう;1367;99.71640661;0.00169478;N1;41;K;p4
+1469;釣;angling,fish,catch,allure,ensnare;つる;ちょう;1367;99.71810139;0.00169478;N3;44;K;p4
+1470;鋭;pointed,sharpness,edge,weapon,sharp,violent;するどい;えい;1367;99.71979617;0.00169478;N3;40;K;p4
+1471;頻;repeatedly,recur;しきりに;ひん;1367;99.72149096;0.00169478;N3;40;K;p4
+1472;飼;domesticate,raise,keep,feed;かう;し;1367;99.72318574;0.00169478;N3;32;K;p4
+1473;鵜;cormorant;う;てい;1367;99.72488052;0.00169478;;-1;K;p4
+1474;麺;noodles,wheat flour;むぎこ;めん;1367;99.7265753;0.00169478;;-1;K;p4
+1475;乏;destitution,scarce,limited;とぼしい;ぼう;1476;99.72770515;0.00112985;N1;30;K;p4
+1476;仇;foe,enemy,revenge,grudge,feud;あだ;きゅう;1476;99.72883501;0.00112985;N1;21;K;p4
+1477;仏;Buddha,the dead,France;ほとけ;ぶつ;1476;99.72996486;0.00112985;N3;15;K;p4
+1478;偏;partial,side,left-side radical,inclining,biased;かたよる;へん;1476;99.73109472;0.00112985;N1;52;K;p4
+1479;僅;a wee bit;わずか;きん;1476;99.73222457;0.00112985;;-1;K;p4
+1480;僧;Buddhist priest,monk;;そう;1476;99.73335442;0.00112985;;-1;K;p4
+1481;儀;ceremony,rule,affair,case,a matter;;ぎ;1476;99.73448428;0.00112985;N2;41;K;p4
+1482;兆;portent,10**12,trillion,sign,omen,symptoms;きざす;ちょう;1476;99.73561413;0.00112985;;-1;K;p4
+1483;冊;tome,counter for books,volume;ふみ;さつ;1476;99.73674399;0.00112985;N1;19;K;p4
+1484;冴;be clear,serene,cold,skilful;さえる;ご;1476;99.73787384;0.00112985;;-1;K;p4
+1485;列;file,row,rank,tier,column;;れつ;1476;99.73900369;0.00112985;N3;15;K;p4
+1486;刷;printing,print,brush;する;さつ;1476;99.74013355;0.00112985;;-1;K;p4
+1487;勧;persuade,recommend,advise,encourage,offer;すすめる;かん;1476;99.7412634;0.00112985;N3;34;K;p4
+1488;只;only,free,in addition;ただ;し;1476;99.74239326;0.00112985;N3;49;K;p4
+1489;咲;blossom,bloom;さく;しょう;1476;99.74352311;0.00112985;N3;18;K;p4
+1490;咳;cough,clear throat;せく;かい;1476;99.74465297;0.00112985;;-1;K;p4
+1491;唸;groan,roar;うなる;てん;1476;99.74578282;0.00112985;;-1;K;p4
+1492;喉;throat,voice;のど;こう;1476;99.74691267;0.00112985;;-1;K;p4
+1493;嗅;smell,sniff,scent;かぐ;きゅう;1476;99.74804253;0.00112985;;-1;K;p4
+1494;嘆;sigh,lament,moan,grieve,sigh of admiration;なげく;たん;1476;99.74917238;0.00112985;N1;31;K;p4
+1495;嚇;menacing,dignity,majesty,threaten;おどす;かく;1476;99.75030224;0.00112985;N1;50;K;p4
+1496;圭;square jewel,corner,angle,edge;;けい;1476;99.75143209;0.00112985;;-1;K;p4
+1497;坂;slope,incline,hill;さか;はん;1476;99.75256194;0.00112985;N4;15;K;p4
+1498;塔;pagoda,tower,steeple;;とう;1476;99.7536918;0.00112985;N3;44;K;p4
+1499;如;likeness,like,such as,as if,better,best,equal;ごとし;じょ;1476;99.75482165;0.00112985;;-1;K;p4
+1500;婦;lady,woman,wife,bride;よめ;ふ;1476;99.75595151;0.00112985;N3;45;K;p4
+1501;嫁;marry into,bride;よめ;か;1476;99.75708136;0.00112985;N3;45;K;p4
+1502;宝;treasure,wealth,valuables;たから;ほう;1476;99.75821121;0.00112985;N3;4;K;p4
+1503;宴;banquet,feast,party;うたげ;えん;1476;99.75934107;0.00112985;N2;29;K;p4
+1504;寧;rather,preferably,peaceful,quiet,tranquility;むしろ;ねい;1476;99.76047092;0.00112985;N3;46;K;p4
+1505;尋;inquire,fathom,look for;たずねる;じん;1476;99.76160078;0.00112985;N4;31;K;p4
+1506;履;perform,complete,footgear,shoes,boots,put on (the feet);はく;り;1476;99.76273063;0.00112985;N5;27;K;p4
+1507;岸;beach;きし;がん;1476;99.76386049;0.00112985;;-1;K;p4
+1508;峙;tower,soar;そばだつ;じ;1476;99.76499034;0.00112985;;-1;K;p4
+1509;崇;adore,respect,revere,worship;あがめる;すう;1476;99.76612019;0.00112985;N1;59;K;p4
+1510;帳;notebook,account book,album,curtain,veil,net,tent;とばり;ちょう;1476;99.76725005;0.00112985;;-1;K;p4
+1511;幅;hanging scroll,width;はば;ふく;1476;99.7683799;0.00112985;N3;36;K;p4
+1512;幹;tree trunk,main part,talent,capability;みき;かん;1476;99.76950976;0.00112985;N1;23;K;p4
+1513;庁;government office;やくしょ;ちょう;1476;99.77063961;0.00112985;;-1;K;p4
+1514;弥;all the more,increasingly;や;み;1476;99.77176946;0.00112985;N5;25;K;p4
+1515;弾;bullet,twang,flip,snap;ひく;だん;1476;99.77289932;0.00112985;N3;2;K;p4
+1516;彰;patent,clear;;しょう;1476;99.77402917;0.00112985;;-1;K;p4
+1517;往;journey,travel,chase away,let go,going,before,formerly;いく;おう;1476;99.77515903;0.00112985;N5;5;K;p4
+1518;徐;gradually,slowly,deliberately,gently;おもむろに;じょ;1476;99.77628888;0.00112985;N3;53;K;p4
+1519;徹;penetrate,clear,pierce,strike home,sit up (all night);;てつ;1476;99.77741874;0.00112985;N4;7;K;p4
+1520;惨;wretched,disaster,cruelty,harsh;みじめ;さん;1476;99.77854859;0.00112985;N2;53;K;p4
+1521;戚;grieve,relatives;いたむ;そく;1476;99.77967844;0.00112985;;-1;K;p4
+1522;承;acquiesce,hear,listen to,be informed,receive;うけたまわる;しょう;1476;99.7808083;0.00112985;N4;29;K;p4
+1523;抵;resist,reach,touch;;てい;1476;99.78193815;0.00112985;N3;37;K;p4
+1524;拳;fist;こぶし;けん;1476;99.78306801;0.00112985;;-1;K;p4
+1525;挟;pinch,between;はさむ;きょう;1476;99.78419786;0.00112985;N2;51;K;p4
+1526;挫;crush,break,sprain,discourage;くじく;ざ;1476;99.78532771;0.00112985;;-1;K;p4
+1527;揮;brandish,wave,wag,swing,shake;ふるう;き;1476;99.78645757;0.00112985;;-1;K;p4
+1528;撤;remove,withdraw,disarm,dismantle,reject,exclude;;てつ;1476;99.78758742;0.00112985;;-1;K;p4
+1529;擦;grate,rub,scratch,scrape,chafe,scour;する;さつ;1476;99.78871728;0.00112985;;-1;K;p4
+1530;斬;beheading,kill,murder;きる;ざん;1476;99.78984713;0.00112985;N2;46;K;p4
+1531;昭;shining,bright;;しょう;1476;99.79097698;0.00112985;;-1;K;p4
+1532;晒;bleach,refine,expose,air;さらす;さい;1476;99.79210684;0.00112985;;-1;K;p4
+1533;東;east;ひがし;とう;1476;99.79323669;0.00112985;N5;6;K;p4
+1534;析;chop,divide,tear,analyze;;せき;1476;99.79436655;0.00112985;;-1;K;p4
+1535;枕;pillow;まくら;ちん;1476;99.7954964;0.00112985;N2;30;K;p4
+1536;架;erect,frame,mount,support,shelf,construct;かける;か;1476;99.79662626;0.00112985;;-1;K;p4
+1537;株;stocks,stump,shares,stock,counter for small plants;かぶ;しゅ;1476;99.79775611;0.00112985;N3;24;K;p4
+1538;械;contraption,fetter,machine,instrument;かせ;かい;1476;99.79888596;0.00112985;;-1;K;p4
+1539;棲;live,dwell;すむ;せい;1476;99.80001582;0.00112985;;-1;K;p4
+1540;欧;Europe;うたう;おう;1476;99.80114567;0.00112985;N2;29;K;p4
+1541;氾;spread out,wide;ひろがる;はん;1476;99.80227553;0.00112985;;-1;K;p4
+1542;汰;washing,sieving,filtering,weeding out,luxury;おごる;た;1476;99.80340538;0.00112985;;-1;K;p4
+1543;沙;sand;すな;さ;1476;99.80453523;0.00112985;N4;33;K;p4
+1544;沿;run alongside,follow along,run along,lie along;そう;えん;1476;99.80566509;0.00112985;N1;34;K;p4
+1545;泡;bubbles,foam,suds,froth;あわ;ほう;1476;99.80679494;0.00112985;N3;46;K;p4
+1546;波;waves,billows,Poland;なみ;は;1476;99.8079248;0.00112985;N3;11;K;p4
+1547;液;fluid,liquid,juice,sap,secretion;;えき;1476;99.80905465;0.00112985;N2;35;K;p4
+1548;渉;ford,go cross,transit,ferry,import,involve;わたる;しょう;1476;99.81018451;0.00112985;N5;25;K;p4
+1549;漬;pickling,soak,moisten,steep;つける;し;1476;99.81131436;0.00112985;N4;57;K;p4
+1550;濫;excessive,overflow,spread out;みだりに;らん;1476;99.81244421;0.00112985;;-1;K;p4
+1551;炒;broil,parch,roast,fry;いる;そう;1476;99.81357407;0.00112985;;-1;K;p4
+1552;炭;charcoal,coal;すみ;たん;1476;99.81470392;0.00112985;N2;41;K;p4
+1553;熟;mellow,ripen,mature,acquire skill;うれる;じゅく;1476;99.81583378;0.00112985;N2;33;K;p4
+1554;獣;animal,beast;けもの;じゅう;1476;99.81696363;0.00112985;N1;26;K;p4
+1555;珠;pearl,gem,jewel;たま;しゅ;1476;99.81809348;0.00112985;N3;2;K;p4
+1556;畑;farm,field,garden,one's specialty,(kokuji);はた;;1476;99.81922334;0.00112985;N3;41;K;p4
+1557;癖;mannerism,habit,vice,trait,fault,kink;くせ;へき;1476;99.82035319;0.00112985;N3;46;K;p4
+1558;睡;drowsy,sleep,die;ねむる;すい;1476;99.82148305;0.00112985;N3;27;K;p4
+1559;砕;smash,break,crush,familiar,popular;くだく;さい;1476;99.8226129;0.00112985;N2;47;K;p4
+1560;秩;regularity,salary,order;;ちつ;1476;99.82374275;0.00112985;N1;52;K;p4
+1561;稀;rare,phenomenal,dilute (acid);まれ;き;1476;99.82487261;0.00112985;;-1;K;p4
+1562;稽;think,consider;かんがえる;けい;1476;99.82600246;0.00112985;N4;5;K;p4
+1563;算;calculate,divining,number,abacus,probability;そろ;さん;1476;99.82713232;0.00112985;N2;10;K;p4
+1564;紋;family crest,figures;;もん;1476;99.82826217;0.00112985;;-1;K;p4
+1565;紐;string,cord,braid,lace,tape,strap,ribbon;ひも;ちゅう;1476;99.82939203;0.00112985;;-1;K;p4
+1566;紡;spinning;つむぐ;ぼう;1476;99.83052188;0.00112985;N1;59;K;p4
+1567;絹;silk;きぬ;けん;1476;99.83165173;0.00112985;N4;58;K;p4
+1568;網;netting,network;あみ;もう;1476;99.83278159;0.00112985;N1;42;K;p4
+1569;緯;"horizontal,woof,left &amp; right,(parallels of) latitude,prediction";よこいと;い;1476;99.83391144;0.00112985;N2;53;K;p4
+1570;繊;slender,fine,thin kimono;;せん;1476;99.8350413;0.00112985;N1;53;K;p4
+1571;織;weave,fabric;おる;しょく;1476;99.83617115;0.00112985;N1;29;K;p4
+1572;罰;penalty,punishment;ばっする;ばつ;1476;99.837301;0.00112985;;-1;K;p4
+1573;群;flock,group,crowd,herd,swarm,cluster;むれる;ぐん;1476;99.83843086;0.00112985;N2;39;K;p4
+1574;羨;envious,be jealous,covet;うらやむ;せん;1476;99.83956071;0.00112985;;-1;K;p4
+1575;翻;flip,turn over,wave,flutter,change (mind);ひるがえる;ほん;1476;99.84069057;0.00112985;N4;50;K;p4
+1576;肺;lungs;;はい;1476;99.84182042;0.00112985;N1;33;K;p4
+1577;脈;vein,pulse,hope;すじ;みゃく;1476;99.84295028;0.00112985;;-1;K;p4
+1578;脚;skids,leg,undercarriage,lower part,base;あし;きゃく;1476;99.84408013;0.00112985;N5;4;K;p4
+1579;腫;tumor,swelling;はれる;しゅ;1476;99.84520998;0.00112985;;-1;K;p4
+1580;臓;entrails,viscera,bowels;はらわた;ぞう;1476;99.84633984;0.00112985;;-1;K;p4
+1581;艮;northeast (Oriental zodiac),stopping,good radical (no. 138);うしとら;こん;1476;99.84746969;0.00112985;;-1;K;p4
+1582;芳;perfume,balmy,favorable,fragrant;かんばしい;ほう;1476;99.84859955;0.00112985;;-1;K;p4
+1583;茹;boil,seethe;ゆでる;じょ;1476;99.8497294;0.00112985;;-1;K;p4
+1584;莫;must not,do not,be not;くれ;ばく;1476;99.85085925;0.00112985;N3;36;K;p4
+1585;著;renowned,publish,write,remarkable,phenomenal,put on,don,wear,arrival,finish (race),counter for suits of clothing,literary work;あらわす;ちょ;1476;99.85198911;0.00112985;N5;12;K;p4
+1586;蒸;steam,heat,sultry,foment,get musty;むす;じょう;1476;99.85311896;0.00112985;N2;33;K;p4
+1587;蚊;mosquito;か;ぶん;1476;99.85424882;0.00112985;N2;48;K;p4
+1588;蠢;wriggle;うごめく;しゅん;1476;99.85537867;0.00112985;;-1;K;p4
+1589;衝;collide,brunt,highway,opposition (astronomy),thrust,pierce,stab,prick;つく;しょう;1476;99.85650852;0.00112985;N3;40;K;p4
+1590;衰;decline,wane,weaken;おとろえる;すい;1476;99.85763838;0.00112985;N1;49;K;p4
+1591;裂;split,rend,tear;さく;れつ;1476;99.85876823;0.00112985;N2;43;K;p4
+1592;覇;hegemony,supremacy,leadership,champion;はたがしら;は;1476;99.85989809;0.00112985;;-1;K;p4
+1593;規;standard,measure;;き;1476;99.86102794;0.00112985;N4;23;K;p4
+1594;該;above-stated,the said,that specific;;がい;1476;99.8621578;0.00112985;N1;55;K;p4
+1595;誉;reputation,praise,honor,glory;ほまれ;よ;1476;99.86328765;0.00112985;N4;40;K;p4
+1596;譜;musical score,music,note,staff,table,genealogy;;ふ;1476;99.8644175;0.00112985;;-1;K;p4
+1597;譲;defer,turnover,transfer,convey;ゆずる;じょう;1476;99.86554736;0.00112985;N3;39;K;p4
+1598;讐;enemy,revenge;あだ;しゅう;1476;99.86667721;0.00112985;;-1;K;p4
+1599;貌;form,appearance,countenance;かたち;ぼう;1476;99.86780707;0.00112985;N4;7;K;p4
+1600;貧;poverty,poor;まずしい;ひん;1476;99.86893692;0.00112985;N3;30;K;p4
+1601;軒;flats,counter for houses,eaves;のき;けん;1476;99.87006677;0.00112985;N3;51;K;p4
+1602;較;contrast,compare;くらべる;かく;1476;99.87119663;0.00112985;N4;19;K;p4
+1603;轢;run over;ひく;れき;1476;99.87232648;0.00112985;;-1;K;p4
+1604;逝;departed,die;ゆく;せい;1476;99.87345634;0.00112985;N5;5;K;p4
+1605;遮;intercept,interrupt,obstruct;さえぎる;しゃ;1476;99.87458619;0.00112985;N1;57;K;p4
+1606;遽;fear,agitation,confusion,hurry;あわてる;きょ;1476;99.87571605;0.00112985;;-1;K;p4
+1607;郊;outskirts,suburbs,rural area;;こう;1476;99.8768459;0.00112985;N4;51;K;p4
+1608;釘;nail,tack,peg;くぎ;てい;1476;99.87797575;0.00112985;;-1;K;p4
+1609;鈴;small bell,buzzer;すず;れい;1476;99.87910561;0.00112985;N2;39;K;p4
+1610;銀;silver;しろがね;ぎん;1476;99.88023546;0.00112985;N3;13;K;p4
+1611;閃;flash,brandish;ひらめく;せん;1476;99.88136532;0.00112985;;-1;K;p4
+1612;阿;Africa,flatter,fawn upon,corner,nook,recess;おもねる;あ;1476;99.88249517;0.00112985;;-1;K;p4
+1613;陣;camp,battle array,ranks,position,sudden,brief time;;じん;1476;99.88362502;0.00112985;;-1;K;p4
+1614;隅;corner,nook;すみ;ぐう;1476;99.88475488;0.00112985;N4;51;K;p4
+1615;雅;gracious,elegant,graceful,refined;みやび;が;1476;99.88588473;0.00112985;N1;40;K;p4
+1616;霞;be hazy,grow dim,blurred;かすみ;か;1476;99.88701459;0.00112985;;-1;K;p4
+1617;革;leather,skin,reform,become serious;かわ;かく;1476;99.88814444;0.00112985;N3;23;K;p4
+1618;顕;appear,existing;あきらか;けん;1476;99.88927429;0.00112985;N3;23;K;p4
+1619;顧;look back,review,examine oneself,turn around;かえりみる;こ;1476;99.89040415;0.00112985;N1;40;K;p4
+1620;餃;gyoza;;ぎょう;1476;99.89153400000001;0.00112985;;-1;K;p4
+1621;餅;mochi rice cake;もち;へい;1476;99.89266386;0.00112985;;-1;K;p4
+1622;馳;run,gallop,sail,drive (a wagon),win (fame),despatch;はせる;ち;1476;99.89379371;0.00112985;;-1;K;p4
+1623;鬼;ghost,devil;おに;き;1476;99.89492357;0.00112985;N3;23;K;p4
+1624;鶴;crane,stork;つる;かく;1476;99.89605342;0.00112985;;-1;K;p4
+1625;龍;dragon,imperial;たつ;りゅう;1476;99.89718327;0.00112985;;-1;K;p4
+1626;云;say;いう;うん;1627;99.8977482;0.00056493;N5;5;K;p4
+1627;些;a little bit,sometimes;ちと;さ;1627;99.89831313;0.00056493;N5;3;K;p4
+1628;仔;offspring (animal),detailed,fine;こ;し;1627;99.89887805;0.00056493;;-1;K;p4
+1629;仙;hermit,wizard,cent;;せん;1627;99.89944298;0.00056493;;-1;K;p4
+1630;但;however,but;ただし;たん;1627;99.90000791;0.00056493;N3;49;K;p4
+1631;佳;excellent,beautiful,good,pleasing,skilled;;か;1627;99.90057284;0.00056493;N5;11;K;p4
+1632;促;stimulate,urge,press,demand,incite;うながす;そく;1627;99.90113776;0.00056493;N1;29;K;p4
+1633;俳;haiku,actor;;はい;1627;99.90170269;0.00056493;N3;23;K;p4
+1634;傾;lean,incline,tilt,trend,wane,sink,ruin,bias;かたむく;けい;1627;99.90226762;0.00056493;N2;48;K;p4
+1635;僚;colleague,official,companion;;りょう;1627;99.90283254;0.00056493;;-1;K;p4
+1636;党;party,faction,clique;なかま;とう;1627;99.90339747;0.00056493;;-1;K;p4
+1637;兼;concurrently,and,beforehand,in advance;かねる;けん;1627;99.9039624;0.00056493;N2;40;K;p4
+1638;冒;risk,face,defy,dare,damage,assume (a name);おかす;ぼう;1627;99.90452733;0.00056493;N3;16;K;p4
+1639;凹;concave,hollow,sunken;くぼむ;おう;1627;99.90509225;0.00056493;N2;59;K;p4
+1640;函;box (archaic);はこ;かん;1627;99.90565718;0.00056493;N5;16;K;p4
+1641;刊;publish,carve,engrave;;かん;1627;99.90622211;0.00056493;N1;38;K;p4
+1642;剃;shave;まい;てい;1627;99.90678703;0.00056493;;-1;K;p4
+1643;剤;dose,medicine,drug;かる;ざい;1627;99.90735196;0.00056493;;-1;K;p4
+1644;匿;hide,shelter,shield;かくまう;とく;1627;99.90791689;0.00056493;N3;25;K;p4
+1645;博;Dr.,command,esteem,win acclaim,Ph.D.,exposition,fair;;はく;1627;99.90848181;0.00056493;N3;28;K;p4
+1646;哲;philosophy,clear;さとい;てつ;1627;99.90904674;0.00056493;N3;42;K;p4
+1647;唯;solely,only,merely,simply;ただ;ゆい;1627;99.90961167;0.00056493;N3;49;K;p4
+1648;啓;disclose,open,say;ひらく;けい;1627;99.9101766;0.00056493;;-1;K;p4
+1649;噴;erupt,spout,emit,flush out;ふく;ふん;1627;99.91074152;0.00056493;N2;52;K;p4
+1650;均;level,average;ならす;きん;1627;99.91130645;0.00056493;N1;57;K;p4
+1651;垂;droop,suspend,hang,slouch;たれる;すい;1627;99.91187138;0.00056493;N2;33;K;p4
+1652;堕;degenerate,descend to,lapse into;おちる;だ;1627;99.9124363;0.00056493;N4;10;K;p4
+1653;塾;cram school,private school;;じゅく;1627;99.91300123;0.00056493;N1;45;K;p4
+1654;壮;robust,manhood,prosperity;さかん;そう;1627;99.91356616;0.00056493;N1;50;K;p4
+1655;奉;observance,offer,present,dedicate;たてまつる;ほう;1627;99.91413109;0.00056493;N1;55;K;p4
+1656;妖;attractive,bewitching,calamity;あやしい;よう;1627;99.91469601;0.00056493;N2;26;K;p4
+1657;妥;gentle,peace,depravity;;だ;1627;99.91526094;0.00056493;N1;14;K;p4
+1658;媚;flatter,humor,flirt;こびる;び;1627;99.91582587;0.00056493;;-1;K;p4
+1659;宣;proclaim,say,announce;のたまう;せん;1627;99.91639079;0.00056493;N2;33;K;p4
+1660;宮;Shinto shrine,constellations,palace,princess;みや;きゅう;1627;99.91695572;0.00056493;;-1;K;p4
+1661;岐;branch off,fork in road,scene,arena,theater;;き;1627;99.91752065;0.00056493;;-1;K;p4
+1662;巧;adroit,skilled,ingenuity;たくみ;こう;1627;99.91808558;0.00056493;N3;43;K;p4
+1663;幻;phantasm,vision,dream,illusion,apparition;まぼろし;げん;1627;99.9186505;0.00056493;;-1;K;p4
+1664;府;borough,urban prefecture,govt office,representative body,storehouse;;ふ;1627;99.91921543;0.00056493;;-1;K;p4
+1665;弧;arc,arch,bow;;こ;1627;99.91978036;0.00056493;;-1;K;p4
+1666;忌;mourning,abhor,detestable,death anniversary;いむ;き;1627;99.92034528;0.00056493;;-1;K;p4
+1667;恰;just as,as though,fortunately;あたかも;こう;1627;99.92091021;0.00056493;N5;9;K;p4
+1668;憑;depend,rely,evidence,proof,according to,possess,haunt;つく;ひょう;1627;99.92147514;0.00056493;N5;36;K;p4
+1669;憲;constitution,law;;けん;1627;99.92204006;0.00056493;N3;28;K;p4
+1670;戒;commandment;いましめる;かい;1627;99.92260499;0.00056493;;-1;K;p4
+1671;扮;impersonate,dress up,disguise,thin shingles;ふんする;ふん;1627;99.92316992;0.00056493;;-1;K;p4
+1672;拉;Latin,kidnap,crush;らっする;らつ;1627;99.92373485;0.00056493;;-1;K;p4
+1673;拡;broaden,extend,expand,enlarge;ひろがる;かく;1627;99.92429977;0.00056493;N3;33;K;p4
+1674;拭;wipe,mop,swab;ぬぐう;しょく;1627;99.9248647;0.00056493;;-1;K;p4
+1675;挺;counter for guns,bravely volunteer;ぬく;ちょう;1627;99.92542963;0.00056493;;-1;K;p4
+1676;捉;catch,capture;とらえる;そく;1627;99.92599455;0.00056493;N3;25;K;p4
+1677;捧;lift up,give,offer,consecrate,sacrifice,dedicate;ささげる;ほう;1627;99.92655948;0.00056493;;-1;K;p4
+1678;据;set,lay a foundation,install,equip,squat down,sit down;すえる;きょ;1627;99.92712441;0.00056493;N5;18;K;p4
+1679;掘;dig,delve,excavate;ほる;くつ;1627;99.92768934;0.00056493;N2;42;K;p4
+1680;搾;squeeze;しぼる;さく;1627;99.92825426;0.00056493;N2;25;K;p4
+1681;摂;vicarious,surrogate,act in addition to,take in,absorb;おさめる;せつ;1627;99.92881919;0.00056493;;-1;K;p4
+1682;摩;chafe,rub,polish,grind,scrape;まする;ま;1627;99.92938412;0.00056493;N2;43;K;p4
+1683;摺;rub,fold,print (on cloth);する;しょう;1627;99.92994904;0.00056493;;-1;K;p4
+1684;敢;daring,brave,bold,sad,tragic,pitiful;あえて;かん;1627;99.93051397;0.00056493;N1;57;K;p4
+1685;斎;purification,Buddhist food,room,worship,avoid,alike;とき;さい;1627;99.9310789;0.00056493;N3;24;K;p4
+1686;斜;diagonal,slanting,oblique;ななめ;しゃ;1627;99.93164382;0.00056493;N2;48;K;p4
+1687;旧;old times,old things,old friend,former,ex-;ふるい;きゅう;1627;99.93220875;0.00056493;N5;3;K;p4
+1688;旬;decameron,ten-day period,season (for specific products);;じゅん;1627;99.93277368;0.00056493;;-1;K;p4
+1689;晶;sparkle,clear,crystal;;しょう;1627;99.93333861;0.00056493;;-1;K;p4
+1690;曹;office,official,comrade,fellow;;そう;1627;99.93390353;0.00056493;;-1;K;p4
+1691;朕;majestic plural,imperial we;;ちん;1627;99.93446846;0.00056493;;-1;K;p4
+1692;朴;crude,simple,plain,docile;ほう;ぼく;1627;99.93503339;0.00056493;;-1;K;p4
+1693;杏;apricot;あんず;きょう;1627;99.93559831;0.00056493;;-1;K;p4
+1694;枠;frame,framework,spindle,spool,bounding-box,(kokuji);わく;;1627;99.93616324;0.00056493;N1;39;K;p4
+1695;枯;wither,die,dry up,be seasoned;かれる;こ;1627;99.93672817;0.00056493;N2;51;K;p4
+1696;柱;pillar,post,cylinder,support;はしら;ちゅう;1627;99.9372931;0.00056493;N1;40;K;p4
+1697;柳;willow;やなぎ;りゅう;1627;99.93785802;0.00056493;;-1;K;p4
+1698;椅;chair;;い;1627;99.93842295;0.00056493;N5;46;K;p4
+1699;椎;chinquapin,mallet,spine;つち;つい;1627;99.93898788;0.00056493;;-1;K;p4
+1700;楯;shield,buckler,pretext;たて;じゅん;1627;99.9395528;0.00056493;N1;48;K;p4
+1701;概;outline,condition,approximation,generally;おおむね;がい;1627;99.94011773;0.00056493;N1;49;K;p4
+1702;槽;vat,tub,tank;ふね;そう;1627;99.94068266;0.00056493;N4;45;K;p4
+1703;歪;warp,bend,strained,distort;いがむ;わい;1627;99.94124758;0.00056493;;-1;K;p4
+1704;殻;husk,nut shell;から;かく;1627;99.94181251;0.00056493;N2;58;K;p4
+1705;沽;"price,buying &amp; selling";あたい;こ;1627;99.94237744;0.00056493;;-1;K;p4
+1706;洒;wash,sprinkle;すすぐ;しゃ;1627;99.94294237;0.00056493;;-1;K;p4
+1707;洞;den,cave,excavation;ほら;どう;1627;99.94350729;0.00056493;;-1;K;p4
+1708;洪;deluge,flood,vast;;こう;1627;99.94407222;0.00056493;N1;56;K;p4
+1709;淵;abyss,edge,deep pool,the depths;ふち;えん;1627;99.94463715;0.00056493;;-1;K;p4
+1710;渇;thirst,dry up,parch;かわく;かつ;1627;99.94520207;0.00056493;N2;30;K;p4
+1711;港;harbor;みなと;こう;1627;99.945767;0.00056493;N4;12;K;p4
+1712;渾;all,turbidity;すべて;こん;1627;99.94633193;0.00056493;N3;6;K;p4
+1713;滴;drip,drop;しずく;てき;1627;99.94689686;0.00056493;;-1;K;p4
+1714;漫;cartoon,involuntarily,unrestrained,in spite of oneself,corrupt;みだりに;まん;1627;99.94746178;0.00056493;N4;50;K;p4
+1715;潔;undefiled,pure,clean,righteous,gallant;いさぎよい;けつ;1627;99.94802671;0.00056493;;-1;K;p4
+1716;潤;wet,be watered,profit by,receive benefits,favor,charm,steep;うるおう;じゅん;1627;99.94859164;0.00056493;N1;49;K;p4
+1717;瀕;shore,brink,verge;ほとり;ひん;1627;99.94915656;0.00056493;;-1;K;p4
+1718;灰;ashes,puckery juice,cremate;はい;かい;1627;99.94972149;0.00056493;N3;33;K;p4
+1719;灸;moxa cautery,chastisement;やいと;きゅう;1627;99.95028642;0.00056493;;-1;K;p4
+1720;焚;burn,kindle,build a fire,boil,cook;たく;ふん;1627;99.95085135;0.00056493;N4;18;K;p4
+1721;猛;fierce,rave,rush,become furious,wildness,strength;;もう;1627;99.95141627;0.00056493;N1;29;K;p4
+1722;獄;prison,jail;;ごく;1627;99.9519812;0.00056493;;-1;K;p4
+1723;甦;be resuscitated,revived;よみがえる;そ;1627;99.95254613;0.00056493;;-1;K;p4
+1724;畜;livestock,domestic fowl and animals;;ちく;1627;99.95311105;0.00056493;N1;48;K;p4
+1725;痕;mark,foot print;あと;こん;1627;99.95367598;0.00056493;N3;37;K;p4
+1726;痴;stupid,foolish;しれる;ち;1627;99.95424091;0.00056493;;-1;K;p4
+1727;痺;palsy,become numb,paralysed;しびれる;ひ;1627;99.95480583;0.00056493;;-1;K;p4
+1728;盲;blind,blind man,ignoramus;めくら;もう;1627;99.95537076;0.00056493;N1;57;K;p4
+1729;睨;glaring at,authority,power,scowl at;にらむ;げい;1627;99.95593569;0.00056493;;-1;K;p4
+1730;矢;dart,arrow;や;し;1627;99.95650062;0.00056493;N1;3;K;p4
+1731;研;polish,study of,sharpen;とぐ;けん;1627;99.95706554;0.00056493;N4;8;K;p4
+1732;碧;blue,green;;へき;1627;99.95763047;0.00056493;N5;5;K;p4
+1733;磔;crucifixion;さく;たく;1627;99.9581954;0.00056493;;-1;K;p4
+1734;祷;pray;いのる;とう;1627;99.95876032;0.00056493;N4;18;K;p4
+1735;穫;harvest,reap;;かく;1627;99.95932525;0.00056493;;-1;K;p4
+1736;窃;stealth,steal,secret,private,hushed;ぬすむ;せつ;1627;99.95989018;0.00056493;N1;32;K;p4
+1737;窟;cavern;いわや;くつ;1627;99.96045511;0.00056493;;-1;K;p4
+1738;笹;bamboo grass,(kokuji);ささ;;1627;99.96102003;0.00056493;;-1;K;p4
+1739;策;scheme,plan,policy,step,means;;さく;1627;99.96158496;0.00056493;N1;22;K;p4
+1740;箸;chopsticks;はし;ちょ;1627;99.96214989;0.00056493;N5;47;K;p4
+1741;篤;fervent,kind,cordial,serious,deliberate;あつい;とく;1627;99.96271481;0.00056493;N5;20;K;p4
+1742;籍;enroll,domiciliary register,membership;;せき;1627;99.96327974;0.00056493;;-1;K;p4
+1743;粒;grains,drop,counter for tiny particles;つぶ;りゅう;1627;99.96384467;0.00056493;N2;44;K;p4
+1744;粛;solemn,quietly,softly;つつしむ;しゅく;1627;99.96440959;0.00056493;;-1;K;p4
+1745;糧;provisions,food,bread;かて;りょう;1627;99.96497452;0.00056493;;-1;K;p4
+1746;総;general,whole,all,full,total;すべて;そう;1627;99.96553945;0.00056493;N3;6;K;p4
+1747;缶;tin can,container,jar radical (no. 121);かま;かん;1627;99.96610438;0.00056493;N3;44;K;p4
+1748;羊;sheep;ひつじ;よう;1627;99.9666693;0.00056493;N2;6;K;p4
+1749;翌;the following,next;;よく;1627;99.96723423;0.00056493;;-1;K;p4
+1750;股;thigh,crotch;また;こ;1627;99.96779916;0.00056493;;-1;K;p4
+1751;肢;"limb,arms &amp; legs";;し;1627;99.96836408;0.00056493;N5;4;K;p4
+1752;肥;fertilizer,get fat,fertile,manure,pamper;こえる;ひ;1627;99.96892901;0.00056493;N4;3;K;p4
+1753;肪;obese,fat;;ぼう;1627;99.96949394;0.00056493;;-1;K;p4
+1754;肯;agreement,consent,comply with;がえんじる;こう;1627;99.97005887;0.00056493;N2;51;K;p4
+1755;胡;barbarian,foreign;なんぞ;う;1627;99.97062379;0.00056493;;-1;K;p4
+1756;脊;stature,height;せ;せき;1627;99.97118872;0.00056493;N5;30;K;p4
+1757;膜;membrane;;まく;1627;99.97175365;0.00056493;N1;57;K;p4
+1758;舌;tongue,reed,clapper;した;ぜつ;1627;99.97231857;0.00056493;N3;19;K;p4
+1759;舐;lick,lap up,burn up,taste,undergo,underrate,despise;ねぶる;し;1627;99.9728835;0.00056493;;-1;K;p4
+1760;船;ship,boat;ふね;せん;1627;99.97344843;0.00056493;N4;45;K;p4
+1761;芋;potato;いも;う;1627;99.97401335;0.00056493;;-1;K;p4
+1762;葦;reed,bullrush;あし;い;1627;99.97457828;0.00056493;;-1;K;p4
+1763;葬;interment,bury,shelve;ほうむる;そう;1627;99.97514321;0.00056493;N2;37;K;p4
+1764;蔑;ignore,despise,neglect,ridicule;ないがしろ;べつ;1627;99.97570814;0.00056493;;-1;K;p4
+1765;蘇;be resuscitated,revived,perilla,shiso;よみがえる;そ;1627;99.97627306;0.00056493;;-1;K;p4
+1766;蛍;lightning-bug,firefly;ほたる;けい;1627;99.97683799;0.00056493;;-1;K;p4
+1767;蛙;frog;かえる;あ;1627;99.97740292;0.00056493;;-1;K;p4
+1768;蛮;barbarian;えびす;ばん;1627;99.97796784;0.00056493;;-1;K;p4
+1769;袖;sleeve,wing (building),extension,give cold shoulder;そで;しゅう;1627;99.97853277;0.00056493;;-1;K;p4
+1770;裸;naked,nude,uncovered,partially clothed;はだか;ら;1627;99.9790977;0.00056493;N3;45;K;p4
+1771;裾;cuff,hem,foot of mountain;すそ;きょ;1627;99.97966263;0.00056493;;-1;K;p4
+1772;褄;skirt,(kokuji);つま;;1627;99.98022755;0.00056493;;-1;K;p4
+1773;訝;doubt;いぶかる;が;1627;99.98079248;0.00056493;;-1;K;p4
+1774;訣;separation,part,secret;わかれ;けつ;1627;99.98135741;0.00056493;;-1;K;p4
+1775;詫;apologize;わび;た;1627;99.98192233;0.00056493;;-1;K;p4
+1776;諺;proverb;ことわざ;げん;1627;99.98248726;0.00056493;;-1;K;p4
+1777;貞;upright,chastity,constancy,righteousness;ただしい;てい;1627;99.98305219;0.00056493;;-1;K;p4
+1778;財;property,money,wealth,assets;たから;ざい;1627;99.98361712;0.00056493;N3;4;K;p4
+1779;赴;proceed,get,become,tend;おもむく;ふ;1627;99.98418204;0.00056493;N1;55;K;p4
+1780;跳;hop,leap up,spring,jerk,prance,buck,splash,sputter,snap;はねる;ちょう;1627;99.98474697;0.00056493;N5;20;K;p4
+1781;践;tread,step on,trample,practice,carry through;ふむ;せん;1627;99.9853119;0.00056493;N4;36;K;p4
+1782;軟;soft;やわらか;なん;1627;99.98587682;0.00056493;N4;43;K;p4
+1783;輸;transport,send,be inferior;;ゆ;1627;99.98644175;0.00056493;N3;26;K;p4
+1784;辱;embarrass,humiliate,shame;はずかしめる;じょく;1627;99.98700668;0.00056493;N1;35;K;p4
+1785;辻;crossing,crossroad,street corners,(kokuji);つじ;;1627;99.9875716;0.00056493;;-1;K;p4
+1786;迅;swift,fast;;じん;1627;99.98813653;0.00056493;N1;48;K;p4
+1787;逞;sturdy,brawny,bold;たくましい;てい;1627;99.98870146;0.00056493;;-1;K;p4
+1788;遍;everywhere,times,widely,generally;あまねく;へん;1627;99.98926639;0.00056493;;-1;K;p4
+1789;邸;residence,mansion;やしき;てい;1627;99.98983131;0.00056493;N1;40;K;p4
+1790;酬;repay,reward,retribution;むくいる;しゅう;1627;99.99039624;0.00056493;;-1;K;p4
+1791;酵;fermentation;;こう;1627;99.99096117;0.00056493;;-1;K;p4
+1792;醇;pure sake,purity,affection;もっぱら;じゅん;1627;99.99152609;0.00056493;;-1;K;p4
+1793;醜;ugly,unclean,shame,bad looking;みにくい;しゅう;1627;99.99209102;0.00056493;N2;60;K;p4
+1794;釈;explanation;とく;しゃく;1627;99.99265595;0.00056493;;-1;K;p4
+1795;鉛;lead;なまり;えん;1627;99.99322088;0.00056493;N1;26;K;p4
+1796;銃;gun,arms;つつ;じゅう;1627;99.9937858;0.00056493;N3;39;K;p4
+1797;錯;confused,mix,be in disorder;;さく;1627;99.99435073;0.00056493;N1;56;K;p4
+1798;鎖;chain,irons,connection;くさり;さ;1627;99.99491566;0.00056493;N3;52;K;p4
+1799;鎮;tranquilize,ancient peace-preservation centers;しずめる;ちん;1627;99.99548058;0.00056493;N2;57;K;p4
+1800;隊;regiment,party,company,squad;;たい;1627;99.99604551;0.00056493;;-1;K;p4
+1801;隔;isolate,alternate,distance,separate,gulf;へだてる;かく;1627;99.99661044;0.00056493;N2;49;K;p4
+1802;雇;employ,hire;やとう;こ;1627;99.99717536;0.00056493;N3;39;K;p4
+1803;霜;frost;しも;そう;1627;99.99774029;0.00056493;N3;48;K;p4
+1804;項;paragraph,nape of neck,clause,item,term (expression);うなじ;こう;1627;99.99830522;0.00056493;N2;39;K;p4
+1805;須;ought,by all means,necessarily;すべからく;す;1627;99.99887015;0.00056493;N4;42;K;p4
+1806;飢;hungry,starve;うえる;き;1627;99.99943507;0.00056493;N2;48;K;p4
+1807;鷹;hawk;たか;よう;1627;100.0;0.00056493;;-1;K;p4

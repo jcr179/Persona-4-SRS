@@ -1,0 +1,63 @@
+﻿;Unnamed: 0;Ja;En;Kunyomi;Onyomi;Frequency Rank;Cumulative Freq. Pct.;Frequency Pct.;JLPT Level;WK Level;Item Type;Tags
+605;605;歌;song,sing;うた;か;599;94.01007829999999;0.01807767;N5;10;K;p4
+606;606;異;uncommon,different,queerness,strangeness,wonderful,curious,unusual;こと;い;599;94.02815597;0.01807767;N3;33;K;p4
+607;607;経;sutra,longitude,pass thru,expire,warp;へる;けい;599;94.04623363;0.01807767;N5;34;K;p4
+608;608;限;limit,restrict,to best of ability;かぎる;げん;599;94.0643113;0.01807767;N3;25;K;p4
+609;609;飛;fly,skip (pages),scatter;とぶ;ひ;599;94.08238896;0.01807767;N5;20;K;p4
+610;610;喜;rejoice,take pleasure in;よろこぶ;き;611;94.0999017;0.01751274;N4;17;K;p4
+611;611;増;increase,add,augment,gain,promote;ます;ぞう;611;94.11741444;0.01751274;N4;21;K;p4
+612;612;寒;cold;さむい;かん;611;94.13492718;0.01751274;N5;12;K;p4
+613;613;座;squat,seat,cushion,gathering,sit;すわる;ざ;611;94.15243992;0.01751274;N3;18;K;p4
+614;614;忙;busy,occupied,restless;いそがしい;ぼう;611;94.16995266;0.01751274;N5;19;K;p4
+615;615;腹;abdomen,belly,stomach;はら;ふく;611;94.18746540000001;0.01751274;N3;27;K;p4
+616;616;華;splendor,flower,petal,shine,luster,ostentatious,showy,gay,gorgeous;はな;か;611;94.20497814;0.01751274;N5;4;K;p4
+617;617;超;transcend,super-,ultra-;こえる;ちょう;611;94.22249088;0.01751274;N1;36;K;p4
+618;618;適;suitable,occasional,rare,qualified,capable;かなう;てき;611;94.24000362;0.01751274;N4;30;K;p4
+619;619;駄;burdensome,pack horse,horse load,send by horse,trivial,worthless;;だ;611;94.25751635;0.01751274;N3;50;K;p4
+620;620;驚;wonder,be surprised,frightened,amazed;おどろく;きょう;611;94.27502909;0.01751274;N4;31;K;p4
+621;621;万;ten thousand,10;よろず;まん;622;94.29197691;0.01694781;N5;3;K;p4
+622;622;廊;corridor,hall,tower;;ろう;622;94.30892472;0.01694781;N5;31;K;p4
+623;623;接;touch,contact,adjoin,piece together;つぐ;せつ;622;94.32587253;0.01694781;;-1;K;p4
+624;624;泊;overnight stay,put up at,ride at anchor;とまる;はく;622;94.34282034;0.01694781;N4;42;K;p4
+625;625;清;pure,purify,cleanse,exorcise,Manchu dynasty;きよい;せい;622;94.35976815;0.01694781;N3;28;K;p4
+626;626;科;department,course,section;;か;622;94.37671597;0.01694781;N3;16;K;p4
+627;627;邪;wicked,injustice,wrong;よこしま;じゃ;622;94.39366378;0.01694781;N3;50;K;p4
+628;628;側;side,lean,oppose,regret;かわ;そく;629;94.41004666;0.01638288;N5;17;K;p4
+629;629;再;again,twice,second time;ふたたび;さい;629;94.42642955;0.01638288;N5;26;K;p4
+630;630;悩;trouble,worry,in pain,distress,illness;なやむ;のう;629;94.44281243;0.01638288;N3;27;K;p4
+631;631;根;root,radical,head (pimple);ね;こん;629;94.45919532;0.01638288;N3;12;K;p4
+632;632;盗;steal,rob,pilfer;ぬすむ;とう;629;94.4755782;0.01638288;N4;30;K;p4
+633;633;薬;medicine,chemical,enamel,gunpowder,benefit;くすり;やく;629;94.49196109;0.01638288;N5;17;K;p4
+634;634;魚;fish;うお;ぎょ;629;94.50834397;0.01638288;N5;7;K;p4
+635;635;冗;superfluous,uselessness;;じょう;636;94.52416193;0.01581796;N3;16;K;p4
+636;636;協;co-,cooperation;;きょう;636;94.53997989;0.01581796;N3;11;K;p4
+637;637;基;fundamentals,radical (chem),counter for machines,foundation;もと;き;636;94.55579785;0.01581796;N3;3;K;p4
+638;638;席;seat,mat,occasion,place;むしろ;せき;636;94.57161579999999;0.01581796;N4;17;K;p4
+639;639;懸;state of suspension,hang,depend,consult,distant,far apart;かける;けん;636;94.58743376;0.01581796;N5;25;K;p4
+640;640;拐;kidnap,falsify;;かい;636;94.60325172;0.01581796;;-1;K;p4
+641;641;散;scatter,disperse,spend,squander;ちる;さん;636;94.61906968;0.01581796;N5;31;K;p4
+642;642;第;No.,residence;;だい;636;94.63488764;0.01581796;N1;51;K;p4
+643;643;粉;flour,powder,dust;デシメートル;ふん;636;94.65070559;0.01581796;N3;31;K;p4
+644;644;飯;meal,boiled rice;めし;はん;636;94.66652355;0.01581796;N3;15;K;p4
+645;645;健;healthy,health,strength,persistence;すこやか;けん;646;94.68177658;0.01525303;N3;27;K;p4
+646;646;働;work,(kokuji);はたらく;どう;646;94.69702961;0.01525303;N5;11;K;p4
+647;647;勘;intuition,perception,check,compare,sixth sense;;かん;646;94.71228264;0.01525303;N3;49;K;p4
+648;648;史;history,chronicle;;し;646;94.72753568;0.01525303;;-1;K;p4
+649;649;士;gentleman,scholar,samurai,samurai radical (no. 33);さむらい;し;646;94.74278871;0.01525303;N1;44;K;p4
+650;650;慢;ridicule,laziness;;まん;646;94.75804174;0.01525303;;-1;K;p4
+651;651;敵;enemy,foe,opponent;かたき;てき;646;94.77329477;0.01525303;N1;21;K;p4
+652;652;曜;weekday;;よう;646;94.7885478;0.01525303;N3;16;K;p4
+653;653;痛;pain,hurt,damage,bruise;いたい;つう;646;94.80380083;0.01525303;N3;29;K;p4
+654;654;秘;secret,conceal;ひめる;ひ;646;94.81905386;0.01525303;N3;32;K;p4
+655;655;等;etc.,and so forth,class (first),quality,equal,similar;ひとしい;とう;646;94.83430689;0.01525303;N3;18;K;p4
+656;656;背;stature,height,back,behind,disobey,defy,go back on,rebel;せ;はい;646;94.84955992;0.01525303;N5;30;K;p4
+657;657;酒;sake,alcohol;さけ;しゅ;646;94.86481295;0.01525303;;-1;K;p4
+658;658;魔;witch,demon,evil spirit;;ま;646;94.88006598;0.01525303;;-1;K;p4
+659;659;鼻;nose,snout;はな;び;646;94.89531901;0.01525303;N5;17;K;p4
+660;660;井;well,well crib,town,community;い;せい;661;94.91000712;0.0146881;N2;45;K;p4
+661;661;価;value,price;あたい;か;661;94.92469522;0.0146881;N3;22;K;p4
+662;662;偶;"accidentally,even number,couple,man &amp; wife,same kind";たま;ぐう;661;94.93938333;0.0146881;N3;50;K;p4
+663;663;制;system,law,rule;;せい;661;94.95407143;0.0146881;N3;21;K;p4
+664;664;婚;marriage;;こん;661;94.96875953;0.0146881;;-1;K;p4
+665;665;敗;failure,defeat,reversal;やぶれる;はい;661;94.98344764;0.0146881;N4;9;K;p4
+666;666;敬;awe,respect,honor,revere;うやまう;けい;661;94.99813574;0.0146881;N2;33;K;p4

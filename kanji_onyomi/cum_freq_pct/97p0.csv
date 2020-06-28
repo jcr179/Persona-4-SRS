@@ -1,0 +1,97 @@
+﻿;Unnamed: 0;Ja;En;Kunyomi;Onyomi;Frequency Rank;Cumulative Freq. Pct.;Frequency Pct.;JLPT Level;WK Level;Item Type;Tags
+742;742;継;inherit,succeed,continue,patch,graft (tree);つぐ;けい;736;96.00314099;0.01186347;N1;36;K;p4
+743;743;緊;tense,solid,hard,reliable,tight;しめる;きん;736;96.01500446;0.01186347;N5;29;K;p4
+744;744;芸;technique,art,craft,performance,acting,trick,stunt;うえる;げい;736;96.02686793;0.01186347;N3;14;K;p4
+745;745;補;supplement,supply,make good,offset,compensate,assistant,learner;おぎなう;ほ;736;96.0387314;0.01186347;N2;25;K;p4
+746;746;誤;mistake,err,do wrong,mislead;あやまる;ご;736;96.05059487;0.01186347;N3;36;K;p4
+747;747;谷;valley;たに;こく;736;96.06245834;0.01186347;N3;5;K;p4
+748;748;貰;get,have,obtain;もらう;せい;736;96.07432181;0.01186347;;-1;K;p4
+749;749;貼;stick,paste,apply;はる;てん;736;96.08618527;0.01186347;N5;23;K;p4
+750;750;遭;encounter,meet,party,association,interview,join;あう;そう;736;96.09804874;0.01186347;N5;5;K;p4
+751;751;閉;closed,shut;とじる;へい;736;96.10991221;0.01186347;N5;33;K;p4
+752;752;勢;forces,energy,military strength;いきおい;せい;753;96.12121075;0.01129854;N3;22;K;p4
+753;753;号;nickname,number,item,title,pseudonym,name,call;さけぶ;ごう;753;96.13250929;0.01129854;N1;4;K;p4
+754;754;否;negate,no,noes,refuse,decline,deny;いな;ひ;753;96.14380783;0.01129854;N5;33;K;p4
+755;755;喫;consume,eat,drink,smoke,receive (a blow);のむ;きつ;753;96.15510638;0.01129854;N5;18;K;p4
+756;756;嘘;lie,falsehood;うそ;きょ;753;96.16640492;0.01129854;;-1;K;p4
+757;757;団;group,association;かたまり;だん;753;96.17770346;0.01129854;N1;49;K;p4
+758;758;委;committee,entrust to,leave to,devote,discard;ゆだねる;い;753;96.189002;0.01129854;N3;17;K;p4
+759;759;庭;courtyard,garden,yard;にわ;てい;753;96.20030054;0.01129854;N5;12;K;p4
+760;760;御;honorable,manipulate,govern;おん;ぎょ;753;96.21159908;0.01129854;N5;5;K;p4
+761;761;揚;raise,elevate,hoist,praise,extol,fry in deep fat;あげる;よう;753;96.22289762;0.01129854;N5;1;K;p4
+762;762;撃;beat,attack,defeat,conquer;うつ;げき;753;96.23419617;0.01129854;N3;28;K;p4
+763;763;漢;Sino-,China;;かん;753;96.24549471;0.01129854;N5;10;K;p4
+764;764;簡;simplicity,brevity;えらぶ;かん;753;96.25679325;0.01129854;N4;33;K;p4
+765;765;聴;listen,headstrong,naughty,careful inquiry;きく;ちょう;753;96.26809179;0.01129854;N5;10;K;p4
+766;766;臭;stinking,ill-smelling,suspicious looking,odor,savor,fragrance,be fragrant,stink,glow,be bright;くさい;しゅう;753;96.27939033;0.01129854;N3;20;K;p4
+767;767;虫;insect,bug,temper;むし;ちゅう;753;96.29068887;0.01129854;N4;4;K;p4
+768;768;貸;lend;かす;たい;753;96.30198741;0.01129854;N5;27;K;p4
+769;769;辞;resign,word,term,expression;やめる;じ;753;96.31328595;0.01129854;N5;12;K;p4
+770;770;公;public,prince,official,governmental;おおやけ;こう;771;96.32401957;0.01073361;N4;8;K;p4
+771;771;冠;crown,best,peerless;かんむり;かん;771;96.33475318;0.01073361;N2;54;K;p4
+772;772;努;toil,diligent,as much as possible;つとめる;ど;771;96.3454868;0.01073361;N3;11;K;p4
+773;773;医;doctor,medicine;いやす;い;771;96.35622041;0.01073361;N4;8;K;p4
+774;774;厳;stern,strictness,severity,rigidity;おごそか;げん;771;96.36695403;0.01073361;N4;32;K;p4
+775;775;導;guidance,leading,conduct,usher;みちびく;どう;771;96.37768764;0.01073361;N1;23;K;p4
+776;776;巻;scroll,volume,book,part,roll up,wind up,tie,coil,counter for texts (or book scrolls);まく;かん;771;96.38842125;0.01073361;N2;25;K;p4
+777;777;志;intention,plan,resolve,aspire,motive,hopes,shilling;シリング;し;771;96.39915487;0.01073361;N1;32;K;p4
+778;778;恨;regret,bear a grudge,resentment,malice,hatred;うらむ;こん;771;96.40988848;0.01073361;N2;49;K;p4
+779;779;択;choose,select,elect,prefer;えらぶ;たく;771;96.42062209999999;0.01073361;N4;13;K;p4
+780;780;派;faction,group,party,clique,sect,school;;は;771;96.43135571;0.01073361;N2;21;K;p4
+781;781;濃;concentrated,thick,dark,undiluted;こい;のう;771;96.44208933;0.01073361;N3;27;K;p4
+782;782;精;refined,ghost,fairy,energy,vitality,semen,excellence,purity,skill;しらげる;せい;771;96.45282294;0.01073361;N3;28;K;p4
+783;783;繰;winding,reel,spin,turn (pages),look up,refer to;くる;そう;771;96.46355655;0.01073361;N3;40;K;p4
+784;784;署;signature,govt office,police station;;しょ;771;96.47429017;0.01073361;N3;17;K;p4
+785;785;脅;threaten,coerce;おびやかす;きょう;771;96.48502378;0.01073361;N1;48;K;p4
+786;786;血;blood;ち;けつ;771;96.4957574;0.01073361;N4;6;K;p4
+787;787;詰;packed,close,pressed,reprove,rebuke,blame;つめる;きつ;771;96.50649101;0.01073361;N3;29;K;p4
+788;788;誕;nativity,be born,declension,lie,be arbitrary;;たん;771;96.51722463;0.01073361;N5;24;K;p4
+789;789;辰;sign of the dragon,7-9AM,fifth sign of Chinese zodiac,shin dragon radical (no. 161);たつ;しん;771;96.52795824;0.01073361;;-1;K;p4
+790;790;銭;coin,.01 yen,money;ぜに;せん;771;96.53869185;0.01073361;;-1;K;p4
+791;791;青;blue,green;あお;せい;771;96.54942547;0.01073361;N3;5;K;p4
+792;792;並;row,and,besides,as well as,line up,rank with,rival,equal;なみ;へい;793;96.55959416;0.01016869;N1;28;K;p4
+793;793;判;judgement,signature,stamp,seal;わかる;はん;793;96.56976284;0.01016869;N5;3;K;p4
+794;794;務;task,duties;つとめる;む;793;96.57993153;0.01016869;N5;21;K;p4
+795;795;婆;old woman,grandma,wet nurse;ばば;ば;793;96.59010022;0.01016869;;-1;K;p4
+796;796;屈;yield,bend,flinch,submit;かがむ;くつ;793;96.60026891;0.01016869;;-1;K;p4
+797;797;康;ease,peace;;こう;793;96.61043759;0.01016869;;-1;K;p4
+798;798;才;genius,years old,cubic shaku;;さい;793;96.62060628;0.01016869;N3;14;K;p4
+799;799;拶;be imminent,draw close;せまる;さつ;793;96.63077497;0.01016869;;-1;K;p4
+800;800;挨;approach,draw near,push open;ひらく;あい;793;96.64094365;0.01016869;;-1;K;p4
+801;801;撮;snapshot,take pictures;とる;さつ;793;96.65111234;0.01016869;N5;30;K;p4
+802;802;易;easy,ready to,simple,fortune-telling,divination;やさしい;えき;793;96.66128103;0.01016869;N5;19;K;p4
+803;803;替;exchange,spare,substitute,per-;かえる;たい;793;96.67144972;0.01016869;N4;6;K;p4
+804;804;納;settlement,obtain,reap,pay,supply,store;おさめる;のう;793;96.6816184;0.01016869;N3;35;K;p4
+805;805;致;doth,do,send,forward,cause,exert,incur,engage;いたす;ち;793;96.69178709;0.01016869;N4;38;K;p4
+806;806;装;attire,dress,pretend,disguise,profess;よそおう;そう;793;96.70195578;0.01016869;N3;33;K;p4
+807;807;角;angle,corner,square,horn,antlers;かど;かく;793;96.71212446;0.01016869;N5;5;K;p4
+808;808;諦;truth,clarity,abandon,give up;あきらめる;てい;793;96.72229315;0.01016869;;-1;K;p4
+809;809;賞;prize,reward,praise;ほめる;しょう;793;96.73246184;0.01016869;N4;40;K;p4
+810;810;軽;lightly,trifling,unimportant;かるい;けい;793;96.74263053;0.01016869;N5;10;K;p4
+811;811;雑;miscellaneous;まじえる;ざつ;793;96.75279921;0.01016869;N5;33;K;p4
+812;812;震;quake,shake,tremble,quiver,shiver;ふるう;しん;793;96.7629679;0.01016869;N3;22;K;p4
+813;813;低;lower,short,humble;ひくい;てい;814;96.77257166;0.00960376;N5;11;K;p4
+814;814;効;merit,efficacy,efficiency,benefit;きく;こう;814;96.78217542;0.00960376;N3;25;K;p4
+815;815;唇;lips;くちびる;しん;814;96.79177918;0.00960376;N2;47;K;p4
+816;816;図;map,drawing,plan,extraordinary,audacious;え;ず;814;96.80138294;0.00960376;N3;5;K;p4
+817;817;型;mould,type,model;かた;けい;814;96.81098670000002;0.00960376;N3;24;K;p4
+818;818;式;style,ceremony,rite,function,method,system,form,expression;;しき;814;96.82059046;0.00960376;N3;15;K;p4
+819;819;抑;repress,well,now,in the first place,push,shove,press,seal,do in spite of;おさえる;よく;814;96.83019422;0.00960376;N1;38;K;p4
+820;820;握;grip,hold,mould sushi,bribe;にぎる;あく;814;96.83979798;0.00960376;N3;42;K;p4
+821;821;敷;spread,pave,sit,promulgate;しく;ふ;814;96.84940174;0.00960376;N2;40;K;p4
+822;822;旦;daybreak,dawn,morning;あきらか;たん;814;96.85900550000001;0.00960376;N1;55;K;p4
+823;823;暑;sultry,hot,summer heat;あつい;しょ;814;96.86860926;0.00960376;N5;12;K;p4
+824;824;殴;assault,hit,beat,thrash;なぐる;おう;814;96.87821302;0.00960376;N2;48;K;p4
+825;825;治;reign,be at peace,calm down,subdue,quell,govt,cure,heal,rule,conserve;おさめる;じ;814;96.88781678;0.00960376;N1;36;K;p4
+826;826;煮;boil,cook;にる;しゃ;814;96.89742054;0.00960376;N2;49;K;p4
+827;827;裁;tailor,judge,decision,cut out (pattern);たつ;さい;814;96.9070243;0.00960376;N2;56;K;p4
+828;828;跡;tracks,mark,print,impression;あと;せき;814;96.91662806;0.00960376;N3;37;K;p4
+829;829;隣;neighboring;となる;りん;814;96.92623182;0.00960376;N5;40;K;p4
+830;830;黄;yellow;き;こう;814;96.93583558;0.00960376;N5;7;K;p4
+831;831;乱;riot,war,disorder,disturb;みだれる;らん;832;96.94487442;0.00903883;N1;19;K;p4
+832;832;労;labor,thank for,reward for,toil,trouble;ろうする;ろう;832;96.95391325;0.00903883;N3;11;K;p4
+833;833;古;old;ふるい;こ;832;96.96295208;0.00903883;N5;3;K;p4
+834;834;展;unfold,expand;;てん;832;96.97199092;0.00903883;N2;24;K;p4
+835;835;布;linen,cloth,spread,distribute;ぬの;ふ;832;96.98102975;0.00903883;N3;19;K;p4
+836;836;技;skill,art,craft,ability,feat,performance,vocation,arts;わざ;ぎ;832;96.99006858;0.00903883;N1;14;K;p4
+837;837;挙;raise,plan,project,behavior,actions;あげる;きょ;832;96.99910742;0.00903883;N5;1;K;p4
