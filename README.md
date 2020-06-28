@@ -119,14 +119,14 @@ You should now see your imported SRS items, ready for you to practice with!
 
 You're done and ready to rock!! 
 
-# Tatsumi, a tiny, unofficial Jisho.org Python API
+# Tatsumi: a simple, unofficial Jisho.org Python API
 - search.py
   - search_kanji(search_item: str) -> dict
     - Uses BeautifulSoup to scrape Jisho.org search results pages by looking for certain classes, then splitting the strings
-    - Returns dict with keys: [kunyomi, onyomi, wk_level, jlpt, meanings]
+    - Returns dict with keys: [kunyomi, onyomi, wk_level, jlpt, meanings] for the kanji you pass as search_item
   - search_word(search_item: str) -> dict
     - Wraps official Jisho.org API
-    - Returns dict with keys: [meanings, wk_level, jlpt, reading]
+    - Returns dict with keys: [meanings, wk_level, jlpt, reading] for the word you pass as search_item
   - search_jisho(search_item: str, is_word: bool) -> dict
     - Depending on is_word argument, uses either search_kanji() or search_word()
     - Returns corresponding dict
@@ -162,4 +162,4 @@ For help or feedback, <jcrebanal17@gmail.com>
 
 Please consider [donating to Houhou](http://houhou-srs.com/) for such a useful language learning tool.
 
-I've got a lot of help learning Japanese from friends and strangers, so I'm happy to try and give back a bit. Hope this helps some of you out. Thanks.
+I've got a lot of help learning Japanese from friends and strangers, so I'm happy to try and give back a bit. Hope this helps some of you out. Thanks! ありがとうございました！
