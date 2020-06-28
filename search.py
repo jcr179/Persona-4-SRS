@@ -12,7 +12,7 @@ from urllib.parse import unquote
 
 
 
-def search_kanji(search_item) -> tuple:
+def search_kanji(search_item):
     page = requests.get("https://jisho.org/search/" + search_item)
     soup = bs.BeautifulSoup(page.text, 'html.parser')
     kunyomi = None 
