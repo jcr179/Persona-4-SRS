@@ -117,7 +117,9 @@ You should now see your imported SRS items, ready for you to practice with!
 
 <p align="center"><img src="https://github.com/jcr179/Persona-4-SRS/blob/master/images/tut9.png"></p>
 
-# Tiny, unofficial Jisho.org Python API
+You're done and ready to rock!! 
+
+# Tatsumi, a tiny, unofficial Jisho.org Python API
 - search.py
   - search_kanji(search_item: str) -> dict
     - Uses BeautifulSoup to scrape Jisho.org search results pages by looking for certain classes, then splitting the strings
@@ -152,6 +154,8 @@ Given the game script and frequency lists, I used a combination of [Jisho.org's 
 - Improve SRS item accuracy
   - There are vocab items that are just the kanji, but the recorded correct reading is the corresponding verb or adjective (e.g. kanji is 難し but correct reading is むずかしい)
 - Associate kanji with their radicals
+
+<p align="center"><img src="https://github.com/jcr179/Persona-4-SRS/blob/master/images/closer.png"></p>
 
 ## Contact and extra
 For help or feedback, <jcrebanal17@gmail.com>
