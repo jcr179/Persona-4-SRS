@@ -11,7 +11,7 @@ You can download the SRS items in this repository and import them to [Houhou](ht
 
 The SRS items are split into batches accessible in their respective folder. The batches are organized by:
 - Cumulative frequency percentage, by percentage 
-  - e.g. If 車, 上, and 方 represent 40%, 35%, and 25% of all kanji occurences in the script, respectively, then 車 and 上 appear in the < 80% batch, but 方 does not. 方 is the only kanji to appear in the 80% <= percent < 100% batch. If you're able to understand all items in the < N% batch, you can expect to understand ~N% of all instances of kanji in the game's dialogue (but not necessarily ~N% of all unique kinds of kanji in the game!).
+  - e.g. If 車, 上, and 方 represent 40%, 35%, and 25% of all kanji occurences in the script, respectively, then 車 and 上 appear in the <= 80% batch, but 方 does not. 方 is the only kanji to appear in the 80% < percent <= 100% batch. If you're able to understand all items in the < N% batch, you can expect to understand ~N% of all instances of kanji in the game's dialogue (but not necessarily ~N% of all unique kinds of kanji in the game!).
 - Cumulative frequency percentage, by number of items 
   - Batch 1 contains the 25 most frequently appearing kanji, batch 2 contains the 25 next most frequently appearing kanji, ..., the last batch contains the least frequently appearing kanji. Wanikani introduces about 25 new kanji at each new level. You can change the batch size in make_batches.py
 - Wanikani level 
@@ -116,6 +116,34 @@ Step 9: Enter "p4" in the "Containing the tag:" search bar and click "Refresh"!
 You should now see your imported SRS items, ready for you to practice with!
 
 <p align="center"><img src="https://github.com/jcr179/Persona-4-SRS/blob/master/images/tut9.png"></p>
+
+# Tiny, unofficial Jisho.org Python API
+- search.py
+  - search_kanji(search_item: str) -> dict
+    - Uses BeautifulSoup to scrape Jisho.org search results pages by looking for certain classes, then splitting the strings
+    - Returns dict with keys: [kunyomi, onyomi, wk_level, jlpt, meanings]
+  - search_word(search_item: str) -> dict
+    - Wraps official Jisho.org API
+    - Returns dict with keys: [meanings, wk_level, jlpt, reading]
+  - search_jisho(search_item: str, is_word: bool) -> dict
+    - Depending on is_word argument, uses either search_kanji() or search_word()
+    - Returns corresponding dict
+- read.py
+  - str_to_float(string: str) -> float
+    - Converts strings of the form 'a,b' to a float a.b 
+  - read_kanji_list(input_file: str) -> list
+    - Reads in tab-separated persona4_kanji.txt and outputs a list of dicts with keys: [frequency count, kanji, frequency rank, frequency percentage, cumulative frequency percentage]
+  - read_word_list(input_file: str) -> list 
+    - Reads in tab-separated word_freq_report.txt and outputs a list same as above except 'kanji' key replaced with 'word'
+- make_table.py
+  - make_table() -> None
+    - Makes master lists kanji.csv and words.csv from which the batches are derived
+    - Writes to file about 1800 kanji and 10,000 words. Takes about an hour
+- make_batches.py
+  - make_batches(mode: str) -> None
+    - Slices master lists into subsets for categorization and ease of study
+    - Writes to file folders kanji_onyomi, kanji_kunyomi, and word. Within each folder are subfolders with names based on SRS item categorization method described near the beginning of this README
+    - Make batch parameter changes here such as batch size, Wanikani level spread, etc.
 
 ## How were the SRS items generated?
 Given the game script and frequency lists, I used a combination of [Jisho.org's API for word searches](https://jisho.org/api/v1/search/words?keyword=house) and web scraping Jisho.org with BeautifulSoup for the kanji searches. The meat of this code is in search.py. I couldn't find a more robust Jisho.org API, written in Python or otherwise, so feel free to use and/or improve what little I've laid out. Pandas was used for tabulating the data and sorting it. I did some random sample testing and saw that most of the SRS items are correct, but some have inaccurate readings or meanings, or are just partially or completely wrong. Most names and other words that Jisho.org couldn't give a reading for are ignored when importing into Houhou but can be seen in the master lists kanji.csv and words.csv.
