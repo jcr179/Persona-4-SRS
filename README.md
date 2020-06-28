@@ -18,6 +18,8 @@ The SRS items are split into batches accessible in their respective folder. The 
   - Each batch corresponds to 5 Wanikani levels. There is another 'undefined' batch for items that didn't have a corresponding Wanikani level attached.
 - JLPT level
   - Each batch corresponds to a JLPT level from N5 to N1 inclusive. There is another 'undefined' batch for items that didn't have a corresponding JLPT level. 
+  
+If you just want to browse the list, you can open the master lists kanji.csv or words.csv in your favourite spreadsheet-reading program. Just make sure you set the column delimiting character to a semi-colon **;** and that you open the file with **UTF-8 encoding**.
 
 # How to import the SRS items into Houhou
 
