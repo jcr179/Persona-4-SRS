@@ -154,7 +154,7 @@ Given the game script and frequency lists, I used a combination of [Jisho.org's 
 
 ## Future considerations
 - Improve SRS item accuracy
-  - There are vocab items that are just the kanji, but the recorded correct reading is the corresponding verb or adjective (e.g. kanji is 難し but correct reading is むずかしい)
+  - There are vocab items that are just the kanji, but the recorded correct reading is the corresponding verb or adjective (e.g. kanji is 難 but the correct reading according to the SRS item is むずかしい)
 - Associate kanji with their radicals
 
 <p align="center"><img src="https://github.com/jcr179/Persona-4-SRS/blob/master/images/closer.png"></p>
